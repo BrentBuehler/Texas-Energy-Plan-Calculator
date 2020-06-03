@@ -1,0 +1,1746 @@
+zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,irs_estimated_population_2015
+75001,STANDARD,0,Addison,,,TX,Dallas County,America/Chicago,214,NA,US,32.96,-96.83,14180
+75002,STANDARD,0,Allen,"Lucas, Parker",,TX,Collin County,America/Chicago,"214,469,972",NA,US,33.1,-96.66,65530
+75006,STANDARD,0,Carrollton,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.98,-96.89,48900
+75007,STANDARD,0,Carrollton,,,TX,Denton County,America/Chicago,"214,469,972",NA,US,33.01,-96.9,51830
+75009,STANDARD,0,Celina,,,TX,Collin County,America/Chicago,"214,469,972",NA,US,33.32,-96.78,12220
+75010,STANDARD,0,Carrollton,,,TX,Denton County,America/Chicago,"214,469,972",NA,US,33.05,-96.87,26600
+75013,STANDARD,0,Allen,,,TX,Collin County,America/Chicago,"214,469,972",NA,US,33.11,-96.69,40710
+75019,STANDARD,0,Coppell,,,TX,Dallas County,America/Chicago,214,NA,US,32.96,-96.99,43380
+75020,STANDARD,0,Denison,,,TX,Grayson County,America/Chicago,903,NA,US,33.75,-96.56,19010
+75021,STANDARD,0,Denison,,,TX,Grayson County,America/Chicago,903,NA,US,33.73,-96.47,7390
+75022,STANDARD,0,Flower Mound,"Flowermound, Lewisville",,TX,Denton County,America/Chicago,"214,972",NA,US,33.02,-97.09,24500
+75023,STANDARD,0,Plano,,,TX,Collin County,America/Chicago,"214,469,972",NA,US,33.06,-96.73,45080
+75024,STANDARD,0,Plano,,,TX,Collin County,America/Chicago,"214,972",NA,US,33.08,-96.8,40480
+75025,STANDARD,0,Plano,,,TX,Collin County,America/Chicago,"214,972,469",NA,US,33.09,-96.74,52130
+75028,STANDARD,0,Flower Mound,"Flowermound, Lewisville",,TX,Denton County,America/Chicago,"469,972,214",NA,US,33.03,-97.06,44180
+75032,STANDARD,0,Rockwall,Heath,,TX,Rockwall County,America/Chicago,"214,469,972",NA,US,32.85,-96.44,30210
+75033,STANDARD,0,Frisco,,,TX,,America/Chicago,"214,469",NA,US,33.14,-96.81,0
+75034,STANDARD,0,Frisco,,,TX,Denton County,America/Chicago,"214,469,940,972",NA,US,33.14,-96.81,60980
+75035,STANDARD,0,Frisco,,,TX,Collin County,America/Chicago,"214,469,940,972",NA,US,33.16,-96.79,64640
+75038,STANDARD,0,Irving,,,TX,Dallas County,America/Chicago,"214,469,817,972",NA,US,32.87,-97,29540
+75039,STANDARD,0,Irving,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.89,-96.94,16780
+75040,STANDARD,0,Garland,,,TX,Dallas County,America/Chicago,972,NA,US,32.91,-96.62,60950
+75041,STANDARD,0,Garland,,,TX,Dallas County,America/Chicago,972,NA,US,32.88,-96.65,31190
+75042,STANDARD,0,Garland,,,TX,Dallas County,America/Chicago,972,NA,US,32.91,-96.67,38780
+75043,STANDARD,0,Garland,,,TX,Dallas County,America/Chicago,972,NA,US,32.86,-96.58,57910
+75044,STANDARD,0,Garland,,,TX,Dallas County,America/Chicago,214,NA,US,32.96,-96.65,40460
+75048,STANDARD,0,Sachse,Garland,,TX,Dallas County,America/Chicago,214,NA,US,32.97,-96.58,24360
+75050,STANDARD,0,Grand Prairie,,,TX,Dallas County,America/Chicago,"214,469,817,972",NA,US,32.78,-97.01,40510
+75051,STANDARD,0,Grand Prairie,,,TX,Dallas County,America/Chicago,"214,469,817,972",NA,US,32.73,-97,37910
+75052,STANDARD,0,Grand Prairie,,,TX,Dallas County,America/Chicago,"214,469,817,972",NA,US,32.69,-97.01,88810
+75054,STANDARD,0,Grand Prairie,,,TX,Tarrant County,America/Chicago,214,NA,US,32.59,-97.04,12450
+75056,STANDARD,0,The Colony,Lewisville,,TX,Denton County,America/Chicago,972,NA,US,33.09,-96.88,57370
+75057,STANDARD,0,Lewisville,,,TX,Denton County,America/Chicago,"214,972,469",NA,US,33.04,-96.98,14140
+75058,STANDARD,0,Gunter,,,TX,Grayson County,America/Chicago,903,NA,US,33.45,-96.74,3130
+75060,STANDARD,0,Irving,,,TX,Dallas County,America/Chicago,"972,214,469",NA,US,32.8,-96.95,46930
+75061,STANDARD,0,Irving,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.83,-96.97,52900
+75062,STANDARD,0,Irving,,,TX,Dallas County,America/Chicago,"214,469,817,972",NA,US,32.85,-96.96,46530
+75063,STANDARD,0,Irving,,,TX,Dallas County,America/Chicago,"214,469,817,972",NA,US,32.92,-96.99,39100
+75065,STANDARD,0,Lake Dallas,Hickory Creek,,TX,Denton County,America/Chicago,"972,940",NA,US,33.12,-97.02,11200
+75067,STANDARD,0,Lewisville,,Louisville,TX,Denton County,America/Chicago,"469,214,972",NA,US,33.01,-97,65020
+75068,STANDARD,0,Little Elm,"Lakewood Village, Lakewood Vlg, Oak Point",,TX,Denton County,America/Chicago,972,NA,US,33.16,-96.93,50280
+75069,STANDARD,0,Mckinney,"Fairview, Mc Kinney",,TX,Collin County,America/Chicago,"972,214,469",NA,US,33.18,-96.59,34970
+75070,STANDARD,0,Mckinney,Mc Kinney,,TX,Collin County,America/Chicago,"214,469,972",NA,US,33.17,-96.7,93370
+75071,STANDARD,0,Mckinney,Mc Kinney,Melissa,TX,Collin County,America/Chicago,"214,469,972",NA,US,33.2,-96.65,46440
+75074,STANDARD,0,Plano,,Murphy,TX,Collin County,America/Chicago,"214,469,972",NA,US,33.03,-96.67,47830
+75075,STANDARD,0,Plano,,,TX,Collin County,America/Chicago,"214,469,972",NA,US,33.04,-96.74,33140
+75076,STANDARD,0,Pottsboro,,Fink,TX,Grayson County,America/Chicago,903,NA,US,33.77,-96.67,6840
+75077,STANDARD,0,Lewisville,"Copper Canyon, Double Oak, Highland Vill, Highland Village",,TX,Denton County,America/Chicago,"214,469,972",NA,US,33.08,-97.06,35890
+75078,STANDARD,0,Prosper,,,TX,Collin County,America/Chicago,"214,469,972",NA,US,33.24,-96.78,21190
+75080,STANDARD,0,Richardson,,Buckingham,TX,Dallas County,America/Chicago,"214,469",NA,US,32.98,-96.74,40570
+75081,STANDARD,0,Richardson,,,TX,Dallas County,America/Chicago,214,NA,US,32.97,-96.7,34800
+75082,STANDARD,0,Richardson,,,TX,Collin County,America/Chicago,214,NA,US,32.99,-96.66,21680
+75087,STANDARD,0,Rockwall,,,TX,Rockwall County,America/Chicago,"214,469,972",NA,US,32.92,-96.45,34100
+75088,STANDARD,0,Rowlett,,,TX,Dallas County,America/Chicago,"214,972",NA,US,32.9,-96.55,23640
+75089,STANDARD,0,Rowlett,,,TX,Dallas County,America/Chicago,"214,972",NA,US,32.94,-96.56,31080
+75090,STANDARD,0,Sherman,,,TX,Grayson County,America/Chicago,903,NA,US,33.61,-96.6,21090
+75092,STANDARD,0,Sherman,,,TX,Grayson County,America/Chicago,903,NA,US,33.66,-96.7,21390
+75093,STANDARD,0,Plano,,,TX,Collin County,America/Chicago,"972,214,469",NA,US,33.03,-96.81,46420
+75094,STANDARD,0,Plano,"Murphy, Parker",Allen,TX,Collin County,America/Chicago,"469,972",NA,US,33.02,-96.62,23760
+75098,STANDARD,0,Wylie,"Lucas, St Paul",,TX,Collin County,America/Chicago,,NA,US,33.04,-96.51,54750
+75102,STANDARD,0,Barry,,,TX,Navarro County,America/Chicago,903,NA,US,32.09,-96.63,1190
+75103,STANDARD,0,Canton,,,TX,Van Zandt County,America/Chicago,"430,903",NA,US,32.54,-95.86,11840
+75104,STANDARD,0,Cedar Hill,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.58,-96.95,45450
+75105,STANDARD,0,Chatfield,,,TX,Navarro County,America/Chicago,903,NA,US,32.29,-96.36,300
+75109,STANDARD,0,Corsicana,,,TX,Navarro County,America/Chicago,903,NA,US,32.08,-96.39,3690
+75110,STANDARD,0,Corsicana,,Navarro,TX,Navarro County,America/Chicago,903,NA,US,32.08,-96.46,25510
+75114,STANDARD,0,Crandall,,,TX,Kaufman County,America/Chicago,469,NA,US,32.63,-96.45,5390
+75115,STANDARD,0,Desoto,,,TX,Dallas County,America/Chicago,"469,972",NA,US,32.58,-96.86,48780
+75116,STANDARD,0,Duncanville,,,TX,Dallas County,America/Chicago,214,NA,US,32.66,-96.91,19140
+75117,STANDARD,0,Edgewood,,,TX,Van Zandt County,America/Chicago,903,NA,US,32.69,-95.88,3540
+75119,STANDARD,0,Ennis,,,TX,Ellis County,America/Chicago,"214,469,972",NA,US,32.33,-96.62,24570
+75124,STANDARD,0,Eustace,,,TX,Henderson County,America/Chicago,"430,903",NA,US,32.3,-96.01,3900
+75125,STANDARD,0,Ferris,,,TX,Ellis County,America/Chicago,"469,972",NA,US,32.53,-96.66,6600
+75126,STANDARD,0,Forney,"Heartland, Heathridge",,TX,Kaufman County,America/Chicago,"469,972",NA,US,32.75,-96.46,43390
+75127,STANDARD,0,Fruitvale,,,TX,Van Zandt County,America/Chicago,903,NA,US,32.68,-95.8,1380
+75134,STANDARD,0,Lancaster,,,TX,Dallas County,America/Chicago,214,NA,US,32.62,-96.78,19400
+75135,STANDARD,0,Caddo Mills,,,TX,Hunt County,America/Chicago,"469,903,972",NA,US,33.06,-96.22,6420
+75137,STANDARD,0,Duncanville,,,TX,Dallas County,America/Chicago,214,NA,US,32.64,-96.91,18650
+75140,STANDARD,0,Grand Saline,,,TX,Van Zandt County,America/Chicago,903,NA,US,32.67,-95.71,6100
+75141,STANDARD,0,Hutchins,,,TX,Dallas County,America/Chicago,214,NA,US,32.64,-96.7,3510
+75142,STANDARD,0,Kaufman,,,TX,Kaufman County,America/Chicago,"903,469,972",NA,US,32.58,-96.3,18620
+75143,STANDARD,0,Kemp,"Seven Points, Tool",,TX,Henderson County,America/Chicago,"430,903",NA,US,32.43,-96.22,11890
+75144,STANDARD,0,Kerens,,,TX,Navarro County,America/Chicago,"430,903",NA,US,32.13,-96.22,2710
+75146,STANDARD,0,Lancaster,,,TX,Dallas County,America/Chicago,214,NA,US,32.59,-96.78,19550
+75147,STANDARD,0,Mabank,"Gun Barrel City, Gun Barrel Cy",,TX,Kaufman County,America/Chicago,"430,903",NA,US,32.36,-96.1,6250
+75148,STANDARD,0,Malakoff,Log Cabin,,TX,Henderson County,America/Chicago,"430,903",NA,US,32.17,-96.01,4680
+75149,STANDARD,0,Mesquite,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.76,-96.59,55330
+75150,STANDARD,0,Mesquite,,,TX,Dallas County,America/Chicago,972,NA,US,32.82,-96.63,57980
+75152,STANDARD,0,Palmer,,,TX,Ellis County,America/Chicago,"469,972",NA,US,32.42,-96.67,4660
+75153,STANDARD,0,Powell,,,TX,Navarro County,America/Chicago,903,NA,US,32.16,-96.33,640
+75154,STANDARD,0,Red Oak,"Glenn Heights, Oak Leaf, Ovilla",,TX,Ellis County,America/Chicago,"214,469,972",NA,US,32.51,-96.8,38860
+75155,STANDARD,0,Rice,,,TX,Navarro County,America/Chicago,903,NA,US,32.24,-96.5,2600
+75156,STANDARD,0,Mabank,"Enchanted Oak, Enchanted Oaks, Gun Barrel City, Gun Barrel Cy",,TX,Henderson County,America/Chicago,"430,903",NA,US,32.25,-96.08,11230
+75158,STANDARD,0,Scurry,,,TX,Kaufman County,America/Chicago,"469,430,903,972",NA,US,32.47,-96.41,4340
+75159,STANDARD,0,Seagoville,Combine,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.65,-96.54,16490
+75160,STANDARD,0,Terrell,,,TX,Kaufman County,America/Chicago,"469,972",NA,US,32.73,-96.29,22610
+75161,STANDARD,0,Terrell,,,TX,Kaufman County,America/Chicago,"469,972",NA,US,32.74,-96.17,5760
+75163,STANDARD,0,Trinidad,,,TX,Henderson County,America/Chicago,"903,430",NA,US,32.14,-96.09,1810
+75165,STANDARD,0,Waxahachie,,,TX,Ellis County,America/Chicago,"469,214,972",NA,US,32.4,-96.85,38840
+75166,STANDARD,0,Lavon,,,TX,Collin County,America/Chicago,469,NA,US,33.02,-96.43,4520
+75167,STANDARD,0,Waxahachie,,,TX,Ellis County,America/Chicago,"214,972,469",NA,US,32.36,-96.92,8970
+75169,STANDARD,0,Wills Point,,,TX,Van Zandt County,America/Chicago,903,NA,US,32.7,-96,12510
+75172,STANDARD,0,Wilmer,,,TX,Dallas County,America/Chicago,972,NA,US,32.59,-96.68,4050
+75173,STANDARD,0,Nevada,,,TX,Collin County,America/Chicago,"972,469",NA,US,33.03,-96.37,5080
+75180,STANDARD,0,Balch Springs,Mesquite,,TX,Dallas County,America/Chicago,214,NA,US,32.72,-96.62,23720
+75181,STANDARD,0,Mesquite,Balch Springs,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.73,-96.56,25920
+75182,STANDARD,0,Sunnyvale,Mesquite,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.79,-96.55,6540
+75189,STANDARD,0,Royse City,,,TX,Rockwall County,America/Chicago,"469,972",NA,US,32.97,-96.33,26690
+75201,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.79,-96.8,11450
+75202,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.78,-96.8,2110
+75203,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,214,NA,US,32.75,-96.8,13360
+75204,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.8,-96.79,25380
+75205,STANDARD,0,Dallas,,"Highland Park, University Park, Village",TX,Dallas County,America/Chicago,"469,972,214",NA,US,32.84,-96.8,18960
+75206,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,214,NA,US,32.83,-96.77,29770
+75207,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.79,-96.82,2170
+75208,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,214,NA,US,32.75,-96.84,29290
+75209,STANDARD,0,Dallas,,Highland Park,TX,Dallas County,America/Chicago,"214,469",NA,US,32.85,-96.83,13080
+75210,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,214,NA,US,32.77,-96.75,6270
+75211,STANDARD,0,Dallas,,Cockrell Hill,TX,Dallas County,America/Chicago,214,NA,US,32.74,-96.91,70550
+75212,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972,682,817",NA,US,32.78,-96.88,24420
+75214,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,214,NA,US,32.83,-96.75,31970
+75215,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,214,NA,US,32.75,-96.76,13460
+75216,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"469,972,214",NA,US,32.71,-96.78,46760
+75217,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"469,972,214",NA,US,32.71,-96.68,81600
+75218,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"972,214",NA,US,32.84,-96.7,21570
+75219,STANDARD,0,Dallas,,Highland Park,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.81,-96.81,23560
+75220,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"972,214,469",NA,US,32.87,-96.88,39100
+75223,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,214,NA,US,32.79,-96.76,13610
+75224,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,972",NA,US,32.71,-96.84,31570
+75225,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.86,-96.79,22050
+75226,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.78,-96.78,2710
+75227,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,972",NA,US,32.77,-96.69,55480
+75228,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,972",NA,US,32.82,-96.68,63710
+75229,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.89,-96.86,33250
+75230,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.9,-96.79,25470
+75231,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469",NA,US,32.87,-96.75,35120
+75232,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"972,469",NA,US,32.66,-96.84,28220
+75233,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,972",NA,US,32.7,-96.87,13590
+75234,STANDARD,0,Dallas,"Farmers Branch, Farmers Brnch",,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.92,-96.89,30370
+75235,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"682,817,214,469,972",NA,US,32.83,-96.85,16790
+75236,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,972",NA,US,32.68,-96.94,16140
+75237,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.67,-96.87,15900
+75238,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469",NA,US,32.88,-96.71,29760
+75240,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,972,469",NA,US,32.93,-96.79,23760
+75241,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.67,-96.76,26760
+75242,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.79,-96.76,20
+75243,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.91,-96.74,56310
+75244,STANDARD,0,Dallas,"Farmers Branch, Farmers Brnch, North Branch",,TX,Dallas County,America/Chicago,"469,972,214",NA,US,32.93,-96.84,11810
+75245,STANDARD,1,Dallas,,,TX,Dallas County,America/Chicago,214,NA,US,32.82,-96.83,66
+75246,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.79,-96.77,1930
+75247,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,682,817,972",NA,US,32.81,-96.88,930
+75248,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"469,972",NA,US,32.97,-96.8,33770
+75249,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,972",NA,US,32.64,-96.96,14990
+75251,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,972,469",NA,US,32.92,-96.77,2660
+75252,STANDARD,0,Dallas,,Prestonwood,TX,Collin County,America/Chicago,"469,972",NA,US,33,-96.79,22290
+75253,STANDARD,0,Dallas,,Kleberg,TX,Dallas County,America/Chicago,972,NA,US,32.67,-96.61,19880
+75254,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,214,NA,US,32.94,-96.8,22460
+75258,STANDARD,1,Dallas,,,TX,Dallas County,America/Chicago,214,NA,US,32.8,-96.88,0
+75260,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,214,NA,US,32.79,-96.76,0
+75270,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.78,-96.8,42
+75287,STANDARD,0,Dallas,,,TX,Denton County,America/Chicago,"469,972",NA,US,33,-96.84,48110
+75342,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469,972",NA,US,32.79,-96.76,100
+75398,STANDARD,0,Dallas,,,TX,Dallas County,America/Chicago,"214,469",NA,US,32.79,-96.76,0
+75401,STANDARD,0,Greenville,,Floyd,TX,Hunt County,America/Chicago,903,NA,US,33.19,-96.11,16160
+75402,STANDARD,0,Greenville,,,TX,Hunt County,America/Chicago,903,NA,US,33.11,-96.1,14980
+75407,STANDARD,0,Princeton,,,TX,Collin County,America/Chicago,"469,972",NA,US,33.18,-96.5,16640
+75409,STANDARD,0,Anna,,,TX,Collin County,America/Chicago,"214,469,972",NA,US,33.35,-96.54,15070
+75410,STANDARD,0,Alba,,,TX,Wood County,America/Chicago,903,NA,US,32.79,-95.63,3830
+75411,STANDARD,0,Arthur City,,,TX,Lamar County,America/Chicago,903,NA,US,33.86,-95.65,850
+75412,STANDARD,0,Bagwell,,,TX,Red River County,America/Chicago,903,NA,US,33.82,-95.14,540
+75414,STANDARD,0,Bells,,,TX,Grayson County,America/Chicago,903,NA,US,33.62,-96.41,2840
+75415,STANDARD,0,Ben Franklin,,,TX,Delta County,America/Chicago,903,NA,US,33.47,-95.77,157
+75416,STANDARD,0,Blossom,,,TX,Lamar County,America/Chicago,903,NA,US,33.66,-95.38,2650
+75417,STANDARD,0,Bogata,,,TX,Red River County,America/Chicago,903,NA,US,33.46,-95.21,1930
+75418,STANDARD,0,Bonham,,,TX,Fannin County,America/Chicago,903,NA,US,33.58,-96.18,9830
+75420,STANDARD,0,Brashear,,,TX,Hopkins County,America/Chicago,903,NA,US,33.11,-95.72,1040
+75421,STANDARD,0,Brookston,,,TX,Lamar County,America/Chicago,903,NA,US,33.66,-95.73,910
+75422,STANDARD,0,Campbell,,,TX,Hunt County,America/Chicago,903,NA,US,33.14,-95.95,2490
+75423,STANDARD,0,Celeste,,,TX,Hunt County,America/Chicago,903,NA,US,33.29,-96.19,2430
+75424,STANDARD,0,Blue Ridge,,,TX,Collin County,America/Chicago,"903,469",NA,US,33.29,-96.39,3320
+75426,STANDARD,0,Clarksville,,,TX,Red River County,America/Chicago,903,NA,US,33.61,-95.05,4040
+75428,STANDARD,0,Commerce,,,TX,Hunt County,America/Chicago,903,NA,US,33.23,-95.9,6640
+75431,STANDARD,0,Como,,,TX,Hopkins County,America/Chicago,903,NA,US,33.06,-95.47,1850
+75432,STANDARD,0,Cooper,,,TX,Delta County,America/Chicago,903,NA,US,33.37,-95.69,2720
+75433,STANDARD,0,Cumby,,,TX,Hopkins County,America/Chicago,903,NA,US,33.13,-95.83,2270
+75435,STANDARD,0,Deport,,,TX,Lamar County,America/Chicago,903,NA,US,33.48,-95.32,790
+75436,STANDARD,0,Detroit,,,TX,Red River County,America/Chicago,903,NA,US,33.66,-95.26,1750
+75437,STANDARD,0,Dike,,,TX,Hopkins County,America/Chicago,903,NA,US,33.26,-95.47,970
+75438,STANDARD,0,Dodd City,,,TX,Fannin County,America/Chicago,903,NA,US,33.57,-96.07,990
+75439,STANDARD,0,Ector,,,TX,Fannin County,America/Chicago,903,NA,US,33.57,-96.27,780
+75440,STANDARD,0,Emory,,,TX,Rains County,America/Chicago,903,NA,US,32.87,-95.76,5340
+75442,STANDARD,0,Farmersville,,,TX,Collin County,America/Chicago,"469,972,903",NA,US,33.16,-96.35,8660
+75446,STANDARD,0,Honey Grove,,,TX,Fannin County,America/Chicago,903,NA,US,33.58,-95.9,2850
+75447,STANDARD,0,Ivanhoe,,,TX,Fannin County,America/Chicago,903,NA,US,33.71,-96.14,940
+75448,STANDARD,0,Klondike,,,TX,Delta County,America/Chicago,903,NA,US,33.32,-95.75,540
+75449,STANDARD,0,Ladonia,,,TX,Fannin County,America/Chicago,903,NA,US,33.42,-95.94,870
+75450,STANDARD,0,Lake Creek,,,TX,Delta County,America/Chicago,903,NA,US,33.4,-95.48,230
+75451,STANDARD,0,Leesburg,,,TX,Camp County,America/Chicago,903,NA,US,32.96,-95.1,1040
+75452,STANDARD,0,Leonard,,,TX,Fannin County,America/Chicago,903,NA,US,33.38,-96.24,3950
+75453,STANDARD,0,Lone Oak,,,TX,Hunt County,America/Chicago,"430,903",NA,US,32.99,-95.94,2990
+75454,STANDARD,0,Melissa,,,TX,Collin County,America/Chicago,"214,469,972",NA,US,33.28,-96.57,9480
+75455,STANDARD,0,Mount Pleasant,Mt Pleasant,,TX,Titus County,America/Chicago,"430,903",NA,US,33.16,-94.97,25450
+75457,STANDARD,0,Mount Vernon,Mt Vernon,,TX,Franklin County,America/Chicago,903,NA,US,33.17,-95.22,5690
+75459,STANDARD,0,Howe,Dorchester,,TX,Grayson County,America/Chicago,903,NA,US,33.51,-96.61,3990
+75460,STANDARD,0,Paris,,,TX,Lamar County,America/Chicago,903,NA,US,33.66,-95.54,18620
+75462,STANDARD,0,Paris,Reno,,TX,Lamar County,America/Chicago,903,NA,US,33.62,-95.49,10330
+75468,STANDARD,0,Pattonville,,,TX,Lamar County,America/Chicago,903,NA,US,33.56,-95.39,870
+75469,STANDARD,0,Pecan Gap,,,TX,Delta County,America/Chicago,903,NA,US,33.43,-95.85,300
+75470,STANDARD,0,Petty,,,TX,Lamar County,America/Chicago,903,NA,US,33.61,-95.79,208
+75471,STANDARD,0,Pickton,,,TX,Hopkins County,America/Chicago,903,NA,US,33.06,-95.37,1290
+75472,STANDARD,0,Point,East Tawakoni,,TX,Rains County,America/Chicago,903,NA,US,32.93,-95.87,2920
+75473,STANDARD,0,Powderly,,,TX,Lamar County,America/Chicago,903,NA,US,33.77,-95.53,3230
+75474,STANDARD,0,Quinlan,West Tawakoni,,TX,Hunt County,America/Chicago,903,NA,US,32.9,-96.13,12470
+75476,STANDARD,0,Ravenna,,,TX,Fannin County,America/Chicago,903,NA,US,33.71,-96.24,1110
+75477,STANDARD,0,Roxton,,,TX,Lamar County,America/Chicago,903,NA,US,33.54,-95.72,790
+75478,STANDARD,0,Saltillo,,,TX,Hopkins County,America/Chicago,903,NA,US,33.19,-95.34,790
+75479,STANDARD,0,Savoy,,,TX,Fannin County,America/Chicago,903,NA,US,33.59,-96.36,1450
+75480,STANDARD,0,Scroggins,,,TX,Franklin County,America/Chicago,903,NA,US,33.02,-95.2,1260
+75481,STANDARD,0,Sulphur Bluff,,,TX,Hopkins County,America/Chicago,903,NA,US,33.33,-95.36,360
+75482,STANDARD,0,Sulphur Springs,Sulphur Spgs,,TX,Hopkins County,America/Chicago,903,NA,US,33.14,-95.61,21920
+75486,STANDARD,0,Sumner,,,TX,Lamar County,America/Chicago,903,NA,US,33.77,-95.71,2310
+75487,STANDARD,0,Talco,,,TX,Titus County,America/Chicago,903,NA,US,33.36,-95.1,1210
+75488,STANDARD,0,Telephone,,,TX,Fannin County,America/Chicago,903,NA,US,33.8,-96,1010
+75490,STANDARD,0,Trenton,,,TX,Fannin County,America/Chicago,"972,903",NA,US,33.42,-96.33,2250
+75491,STANDARD,0,Whitewright,,,TX,Grayson County,America/Chicago,"430,903",NA,US,33.51,-96.39,4290
+75492,STANDARD,0,Windom,,,TX,Fannin County,America/Chicago,903,NA,US,33.56,-95.99,470
+75494,STANDARD,0,Winnsboro,,,TX,Wood County,America/Chicago,"430,903",NA,US,32.95,-95.28,9040
+75495,STANDARD,0,Van Alstyne,,,TX,Grayson County,America/Chicago,903,NA,US,33.41,-96.57,7610
+75496,STANDARD,0,Wolfe City,,,TX,Hunt County,America/Chicago,903,NA,US,33.36,-96.06,2790
+75497,STANDARD,0,Yantis,,,TX,Wood County,America/Chicago,903,NA,US,32.93,-95.57,2960
+75501,STANDARD,0,Texarkana,"S Texarkana, South Texarkana, Wake Village",Red River Army Depot,TX,Bowie County,America/Chicago,"430,903",NA,US,33.44,-94.07,29760
+75503,STANDARD,0,Texarkana,,,TX,Bowie County,America/Chicago,"430,903",NA,US,33.51,-94.13,22720
+75550,STANDARD,0,Annona,,,TX,Red River County,America/Chicago,903,NA,US,33.58,-94.91,650
+75551,STANDARD,0,Atlanta,,"Galloway, Ofarrell, Smyrna",TX,Cass County,America/Chicago,"430,903",NA,US,33.11,-94.16,9220
+75554,STANDARD,0,Avery,,,TX,Red River County,America/Chicago,903,NA,US,33.55,-94.77,1400
+75555,STANDARD,0,Bivins,,Wiggins,TX,Cass County,America/Chicago,903,NA,US,32.95,-94.14,1250
+75556,STANDARD,0,Bloomburg,,,TX,Cass County,America/Chicago,903,NA,US,33.13,-94.05,1100
+75558,STANDARD,0,Cookville,,Argo,TX,Titus County,America/Chicago,903,NA,US,33.18,-94.86,1350
+75559,STANDARD,0,De Kalb,,"Beaver Dam, College Hill, Dalby Springs, Hodgson, Siloam",TX,Bowie County,America/Chicago,903,NA,US,33.5,-94.61,4890
+75560,STANDARD,0,Douglassville,,Union Chapel,TX,Cass County,America/Chicago,903,NA,US,33.19,-94.35,860
+75561,STANDARD,0,Hooks,,"Barkman, Burns, Redbank, Smith Hill, Victory City",TX,Bowie County,America/Chicago,903,NA,US,33.52,-94.28,4650
+75563,STANDARD,0,Linden,,"Carterville, Lanier, New Colony",TX,Cass County,America/Chicago,903,NA,US,33.01,-94.36,3360
+75566,STANDARD,0,Marietta,,,TX,Cass County,America/Chicago,903,NA,US,33.17,-94.54,630
+75567,STANDARD,0,Maud,,"Carbondale, Corley",TX,Bowie County,America/Chicago,903,NA,US,33.33,-94.34,3380
+75568,STANDARD,0,Naples,,"Bryans Mill, Cornett, Dalton, Rocky Branch",TX,Morris County,America/Chicago,903,NA,US,33.2,-94.67,2470
+75569,STANDARD,0,Nash,,,TX,Bowie County,America/Chicago,903,NA,US,33.44,-94.12,3220
+75570,STANDARD,0,New Boston,Boston,"Malta, Old Boston, Whaley",TX,Bowie County,America/Chicago,903,NA,US,33.46,-94.41,7900
+75571,STANDARD,0,Omaha,,,TX,Morris County,America/Chicago,903,NA,US,33.17,-94.74,2420
+75572,STANDARD,0,Queen City,,"Domino, Lanark, Springdale",TX,Cass County,America/Chicago,903,NA,US,33.14,-94.15,3100
+75574,STANDARD,0,Simms,,"Bassett, Wards Creek",TX,Bowie County,America/Chicago,903,NA,US,33.35,-94.5,1560
+75601,STANDARD,0,Longview,,"Longview Heights, Tenneryville",TX,Gregg County,America/Chicago,"430,903",NA,US,32.51,-94.76,13060
+75602,STANDARD,0,Longview,,Pinewood,TX,Gregg County,America/Chicago,"430,903",NA,US,32.45,-94.67,20220
+75603,STANDARD,0,Longview,,Lakeport,TX,Gregg County,America/Chicago,903,NA,US,32.4,-94.71,5180
+75604,STANDARD,0,Longview,,Greggton,TX,Gregg County,America/Chicago,"430,903",NA,US,32.51,-94.82,27160
+75605,STANDARD,0,Longview,,Greggton,TX,Gregg County,America/Chicago,"430,903",NA,US,32.58,-94.73,26870
+75630,STANDARD,0,Avinger,,Warlock,TX,Marion County,America/Chicago,903,NA,US,32.89,-94.55,1890
+75631,STANDARD,0,Beckville,,"Fair Play, Grand Bluff",TX,Panola County,America/Chicago,"430,903",NA,US,32.24,-94.45,2440
+75633,STANDARD,0,Carthage,,,TX,Panola County,America/Chicago,"430,903",NA,US,32.15,-94.33,12870
+75638,STANDARD,0,Daingerfield,,Jenkins,TX,Morris County,America/Chicago,903,NA,US,33.03,-94.72,4610
+75639,STANDARD,0,De Berry,,"East Side, Horton",TX,Panola County,America/Chicago,"430,903",NA,US,32.21,-94.14,2360
+75640,STANDARD,0,Diana,New Diana,Ashland,TX,Upshur County,America/Chicago,,NA,US,32.69,-94.66,4500
+75643,STANDARD,0,Gary,,Gary City,TX,Panola County,America/Chicago,"903,936",NA,US,32.02,-94.36,1740
+75644,STANDARD,0,Gilmer,,"Cox, Delrose, East Mountain, Enoch, Ewell, Graceton, Grice, Indian Rock, Kelsey, Latch, Lone Mountain, Mings Chapel, New Mountain, Perryville, Rosewood, Sand Hill, Seven Pines, Simmonsville, Soules Chapel, Stamps, Suffolk, Union Hill, Willow Oak",TX,Upshur County,America/Chicago,"430,903",NA,US,32.73,-94.94,10270
+75645,STANDARD,0,Gilmer,,,TX,Upshur County,America/Chicago,"430,903",NA,US,32.69,-94.87,8490
+75647,STANDARD,0,Gladewater,,,TX,Gregg County,America/Chicago,"430,903",NA,US,32.54,-94.94,11590
+75650,STANDARD,0,Hallsville,,Walkers Mill,TX,Harrison County,America/Chicago,"430,903",NA,US,32.5,-94.57,8910
+75651,STANDARD,0,Harleton,,,TX,Harrison County,America/Chicago,"903,430",NA,US,32.66,-94.52,2100
+75652,STANDARD,0,Henderson,,"Chapman, Church Hill, Craig, Crimcrest, Good Springs, Lake Cherokee, Mcknight, New Salem, Pinehill, Pleasant Grove, Stewart",TX,Rusk County,America/Chicago,"903,430",NA,US,32.24,-94.73,10700
+75654,STANDARD,0,Henderson,,,TX,Rusk County,America/Chicago,"430,903",NA,US,32.15,-94.79,11000
+75656,STANDARD,0,Hughes Springs,Hughes Spgs,,TX,Cass County,America/Chicago,"430,903",NA,US,32.99,-94.63,4220
+75657,STANDARD,0,Jefferson,Smithland,"Berea, Gray",TX,Marion County,America/Chicago,"430,903",NA,US,32.76,-94.34,6440
+75661,STANDARD,0,Karnack,,"Baldwin, Leigh, Uncertain",TX,Harrison County,America/Chicago,903,NA,US,32.62,-94.14,1950
+75662,STANDARD,0,Kilgore,,Liberty City,TX,Gregg County,America/Chicago,903,NA,US,32.38,-94.86,22140
+75667,STANDARD,0,Laneville,,"Anadarko, Fussel, Pone",TX,Rusk County,America/Chicago,"430,903",NA,US,31.94,-94.85,950
+75668,STANDARD,0,Lone Star,,,TX,Morris County,America/Chicago,903,NA,US,32.93,-94.7,1630
+75669,STANDARD,0,Long Branch,,Dotson,TX,Panola County,America/Chicago,"430,936,903",NA,US,32.04,-94.5,500
+75670,STANDARD,0,Marshall,,"Blocker, Cave Springs, Darco, Gill, Grange Hall, Nesbitt",TX,Harrison County,America/Chicago,903,NA,US,32.53,-94.35,14530
+75672,STANDARD,0,Marshall,,,TX,Harrison County,America/Chicago,903,NA,US,32.47,-94.3,14380
+75681,STANDARD,0,Mount Enterprise,Mt Enterprise,,TX,Rusk County,America/Chicago,"430,903",NA,US,31.91,-94.68,2270
+75683,STANDARD,0,Ore City,,,TX,Upshur County,America/Chicago,903,NA,US,32.8,-94.71,3260
+75684,STANDARD,0,Overton,,"Friar, Harmony, Jacobs, Leveretts Chapel, Pirtle, Pitner Junction, Sexton City, Wright City",TX,Rusk County,America/Chicago,"430,903",NA,US,32.27,-94.97,5290
+75686,STANDARD,0,Pittsburg,,"Blodgett, Brumley, County Line, Ebenezer, Faker, Harvard, Lafayette, Matinburg, New Mine, Pine, Thomas",TX,Camp County,America/Chicago,903,NA,US,32.99,-94.96,11670
+75691,STANDARD,0,Tatum,,Dirgin,TX,Rusk County,America/Chicago,903,NA,US,32.31,-94.55,4250
+75692,STANDARD,0,Waskom,,,TX,Harrison County,America/Chicago,903,NA,US,32.47,-94.06,4610
+75693,STANDARD,0,White Oak,"Clarksville City, Clarksvle Cty",,TX,Gregg County,America/Chicago,903,NA,US,32.53,-94.85,6230
+75701,STANDARD,0,Tyler,,St Louis,TX,Smith County,America/Chicago,903,NA,US,32.32,-95.3,27760
+75702,STANDARD,0,Tyler,,,TX,Smith County,America/Chicago,903,NA,US,32.36,-95.32,23380
+75703,STANDARD,0,Tyler,,,TX,Smith County,America/Chicago,903,NA,US,32.24,-95.32,36840
+75704,STANDARD,0,Tyler,,Swan,TX,Smith County,America/Chicago,"430,903",NA,US,32.41,-95.44,8050
+75705,STANDARD,0,Tyler,,"Bascom, Omen",TX,Smith County,America/Chicago,903,NA,US,32.36,-95.09,1980
+75706,STANDARD,0,Tyler,,,TX,Smith County,America/Chicago,"430,903",NA,US,32.47,-95.31,8450
+75707,STANDARD,0,Tyler,,Chapel Hill,TX,Smith County,America/Chicago,903,NA,US,32.3,-95.18,13570
+75708,STANDARD,0,Tyler,,E Texas Ctr,TX,Smith County,America/Chicago,903,NA,US,32.42,-95.21,6740
+75709,STANDARD,0,Tyler,,,TX,Smith County,America/Chicago,903,NA,US,32.3,-95.39,4860
+75750,STANDARD,0,Arp,,,TX,Smith County,America/Chicago,903,NA,US,32.22,-95.05,3480
+75751,STANDARD,0,Athens,,"Baxter, Cardinal Hall, Cardinal Sta, Crescent Heights, Tri Cities, Walton",TX,Henderson County,America/Chicago,"430,903",NA,US,32.2,-95.85,14370
+75752,STANDARD,0,Athens,,,TX,Henderson County,America/Chicago,"430,903",NA,US,32.24,-95.81,5710
+75754,STANDARD,0,Ben Wheeler,Edom,"Flatwood, Martins Mills, Primrose",TX,Van Zandt County,America/Chicago,903,NA,US,32.41,-95.66,5050
+75755,STANDARD,0,Big Sandy,"Holly Lake Ranch, Holly Lk Rnch","Pritchett, Rhonesboro",TX,Upshur County,America/Chicago,"430,903",NA,US,32.58,-95.11,4460
+75756,STANDARD,0,Brownsboro,Edom,,TX,Henderson County,America/Chicago,"430,903",NA,US,32.29,-95.61,3640
+75757,STANDARD,0,Bullard,Mount Selman,"Emerald Bay, Old Larissa, Teaselville",TX,Smith County,America/Chicago,903,NA,US,32.14,-95.31,10750
+75758,STANDARD,0,Chandler,,,TX,Henderson County,America/Chicago,"430,903",NA,US,32.3,-95.47,8390
+75760,STANDARD,0,Cushing,,,TX,Nacogdoches County,America/Chicago,936,NA,US,31.81,-94.84,2010
+75762,STANDARD,0,Flint,,"Dogwood City, Noonday",TX,Smith County,America/Chicago,903,NA,US,32.2,-95.39,12470
+75763,STANDARD,0,Frankston,,"Berryville, Coffee City, Fincastle, Frankston Lake, Kickapoo",TX,Anderson County,America/Chicago,903,NA,US,32.05,-95.5,4780
+75765,STANDARD,0,Hawkins,"Holly Lake Ranch, Holly Lk Rnch",Jarvis College,TX,Wood County,America/Chicago,"430,903",NA,US,32.59,-95.2,5950
+75766,STANDARD,0,Jacksonville,,"Cove Spring, Enterprise, Lake Jacksonville, Pierces Chapel, Pine Hill, Reese, Tecula, Turney",TX,Cherokee County,America/Chicago,903,NA,US,31.96,-95.26,23830
+75770,STANDARD,0,Larue,,"Moore Station, New York",TX,Henderson County,America/Chicago,"430,903",NA,US,32.14,-95.64,2310
+75771,STANDARD,0,Lindale,"Garden Valley, Hide A Way, Hideaway, Mt Sylvan","Hide A Way Lake, Thedford, Wood Springs",TX,Smith County,America/Chicago,"430,903",NA,US,32.5,-95.4,18540
+75773,STANDARD,0,Mineola,,"Hainesville, Hoard, West Mineola",TX,Wood County,America/Chicago,"903,430",NA,US,32.66,-95.48,10710
+75778,STANDARD,0,Murchison,,"Leagueville, Opelika",TX,Henderson County,America/Chicago,"430,903",NA,US,32.27,-95.75,2640
+75783,STANDARD,0,Quitman,,"Oak Grove, Rock Hill, Stormville",TX,Wood County,America/Chicago,903,NA,US,32.79,-95.44,6160
+75784,STANDARD,0,Reklaw,,,TX,Cherokee County,America/Chicago,"903,936",NA,US,31.86,-94.98,640
+75785,STANDARD,0,Rusk,Dialville,,TX,Cherokee County,America/Chicago,"430,903",NA,US,31.79,-95.14,7910
+75789,STANDARD,0,Troup,,"Griffin, Henrys Chapel, Mixon, Sinclair City, Walnut Grove",TX,Smith County,America/Chicago,"903,430",NA,US,32.14,-95.12,6760
+75790,STANDARD,0,Van,,,TX,Van Zandt County,America/Chicago,903,NA,US,32.52,-95.63,4400
+75791,STANDARD,0,Whitehouse,,,TX,Smith County,America/Chicago,903,NA,US,32.22,-95.21,12360
+75792,STANDARD,0,Winona,,"Starrville, Waters Bluff",TX,Smith County,America/Chicago,903,NA,US,32.49,-95.17,2980
+75801,STANDARD,0,Palestine,,Elmwood,TX,Anderson County,America/Chicago,903,NA,US,31.75,-95.64,14100
+75803,STANDARD,0,Palestine,,,TX,Anderson County,America/Chicago,"903,430",NA,US,31.88,-95.68,12850
+75831,STANDARD,0,Buffalo,Keechi,"Flo, Lanely",TX,Leon County,America/Chicago,903,NA,US,31.46,-96.06,4750
+75833,STANDARD,0,Centerville,,"Centerview, Davisville, Guys Store, Middleton",TX,Leon County,America/Chicago,903,NA,US,31.25,-95.97,2940
+75834,STANDARD,0,Centralia,,,TX,Trinity County,America/Chicago,936,NA,US,31.26,-94.97,0
+75835,STANDARD,0,Crockett,,"Belott, Cut, Hopewell, Mapleton, Porter Springs",TX,Houston County,America/Chicago,936,NA,US,31.31,-95.45,9180
+75838,STANDARD,0,Donie,,,TX,Freestone County,America/Chicago,"903,254",NA,US,31.47,-96.24,510
+75839,STANDARD,0,Elkhart,Slocum,Salmon,TX,Anderson County,America/Chicago,903,NA,US,31.62,-95.57,4510
+75840,STANDARD,0,Fairfield,,"Grindstone, Turlington, Ward Prairie, Young",TX,Freestone County,America/Chicago,903,NA,US,31.71,-96.16,6990
+75844,STANDARD,0,Grapeland,,"Augusta, Denson Spring, Mound City, Percilla, Refuge, Reynard, Weches",TX,Houston County,America/Chicago,936,NA,US,31.49,-95.48,4220
+75845,STANDARD,0,Groveton,,"Crecy, Friday, Helmic, Josserand, Lacy, Nogalus, Trevat",TX,Trinity County,America/Chicago,936,NA,US,31.05,-95.12,2250
+75846,STANDARD,0,Jewett,,"Newby, Robbins",TX,Leon County,America/Chicago,903,NA,US,31.36,-96.14,2410
+75847,STANDARD,0,Kennard,,,TX,Houston County,America/Chicago,936,NA,US,31.35,-95.18,1200
+75850,STANDARD,0,Leona,Midway,,TX,Leon County,America/Chicago,903,NA,US,31.15,-95.97,420
+75851,STANDARD,0,Lovelady,,,TX,Houston County,America/Chicago,936,NA,US,31.12,-95.44,2060
+75852,STANDARD,0,Midway,,Elwood,TX,Madison County,America/Chicago,936,NA,US,31.02,-95.75,1430
+75853,STANDARD,0,Montalba,,"Blackfoot, Bradford, Springfield",TX,Anderson County,America/Chicago,"430,903",NA,US,31.93,-95.76,850
+75855,STANDARD,0,Oakwood,,"Butler, Red Lake",TX,Leon County,America/Chicago,903,NA,US,31.58,-95.84,1950
+75856,STANDARD,0,Pennington,,,TX,Trinity County,America/Chicago,936,NA,US,31.19,-95.26,200
+75859,STANDARD,0,Streetman,,"Stewards Mill, Winkler",TX,Freestone County,America/Chicago,903,NA,US,31.87,-96.32,1670
+75860,STANDARD,0,Teague,,"Clay Hill, Cotton Gin, Furney Richardson, Simsboro",TX,Freestone County,America/Chicago,254,NA,US,31.63,-96.28,4970
+75861,STANDARD,0,Tennessee Colony,Tenn Colony,"Massey Lake, Yard",TX,Anderson County,America/Chicago,"430,903",NA,US,31.88,-95.91,1460
+75862,STANDARD,0,Trinity,,"Carlisle, Chita, Glendale, Kittrell, Pagoda, Sebastopol, Westville",TX,Trinity County,America/Chicago,936,NA,US,30.94,-95.37,7850
+75901,STANDARD,0,Lufkin,,,TX,Angelina County,America/Chicago,936,NA,US,31.33,-94.72,24450
+75904,STANDARD,0,Lufkin,,,TX,Angelina County,America/Chicago,936,NA,US,31.34,-94.83,29830
+75925,STANDARD,0,Alto,Forest,"Linwood, Redlawn",TX,Cherokee County,America/Chicago,"903,936",NA,US,31.65,-95.07,3270
+75926,STANDARD,0,Apple Springs,,"Nigton, North Cedar",TX,Trinity County,America/Chicago,936,NA,US,31.26,-94.97,860
+75928,STANDARD,0,Bon Wier,,,TX,Newton County,America/Chicago,409,NA,US,30.68,-93.75,1040
+75929,STANDARD,0,Broaddus,,,TX,San Augustine County,America/Chicago,936,NA,US,31.3,-94.26,1160
+75930,STANDARD,0,Bronson,,Rosevine,TX,Sabine County,America/Chicago,"409,936",NA,US,31.34,-94,1360
+75931,STANDARD,0,Brookeland,,Browndell,TX,Jasper County,America/Chicago,409,NA,US,31.09,-93.97,1960
+75932,STANDARD,0,Burkeville,,"Shankleville, Sycamore, Toledo",TX,Newton County,America/Chicago,409,NA,US,30.99,-93.66,1190
+75933,STANDARD,0,Call,,"Old Salem, Trout Creek",TX,Newton County,America/Chicago,409,NA,US,30.61,-93.87,1350
+75935,STANDARD,0,Center,,"Campti, Choice, East Liberty, Good Hope, Grigsby, James, Jericho, Neuville, Short, Waterman",TX,Shelby County,America/Chicago,936,NA,US,31.79,-94.17,12850
+75936,STANDARD,0,Chester,,,TX,Tyler County,America/Chicago,936,NA,US,30.92,-94.6,750
+75937,STANDARD,0,Chireno,,,TX,Nacogdoches County,America/Chicago,936,NA,US,31.49,-94.34,950
+75938,STANDARD,0,Colmesneil,Rockland,,TX,Tyler County,America/Chicago,409,NA,US,30.9,-94.42,2110
+75939,STANDARD,0,Corrigan,Barnum,"Asia, Carmona, Pleasant Hill, Pluck, Snow Hill, Wakefield",TX,Polk County,America/Chicago,936,NA,US,30.99,-94.82,3480
+75941,STANDARD,0,Diboll,Burke,"Pine Valley, Shady Grove",TX,Angelina County,America/Chicago,936,NA,US,31.18,-94.78,7080
+75943,STANDARD,0,Douglass,,,TX,Nacogdoches County,America/Chicago,936,NA,US,31.65,-94.87,1270
+75944,STANDARD,0,Etoile,,,TX,Nacogdoches County,America/Chicago,936,NA,US,31.34,-94.41,1070
+75946,STANDARD,0,Garrison,,"Brileytown, Fitze, Henning, Hidden Valley",TX,Nacogdoches County,America/Chicago,936,NA,US,31.82,-94.49,2900
+75948,STANDARD,0,Hemphill,,"East Mayfield, Fairdale, Fairmount",TX,Sabine County,America/Chicago,409,NA,US,31.34,-93.85,4610
+75949,STANDARD,0,Huntington,,,TX,Angelina County,America/Chicago,936,NA,US,31.27,-94.57,6810
+75951,STANDARD,0,Jasper,,"Beech Grove, Curtis, Erin, Harrisburg, Holly Springs",TX,Jasper County,America/Chicago,409,NA,US,30.92,-93.99,13160
+75954,STANDARD,0,Joaquin,,"Hanson, Haslam, Paxton",TX,Shelby County,America/Chicago,"409,430",NA,US,31.96,-94.05,2860
+75956,STANDARD,0,Kirbyville,"Bon Ami, Magnolia Spgs, Magnolia Springs, Roganville","Bleakwood, Mount Union",TX,Jasper County,America/Chicago,409,NA,US,30.65,-93.89,6230
+75959,STANDARD,0,Milam,Geneva,"Miland, Milane, Mildland",TX,Sabine County,America/Chicago,409,NA,US,31.51,-93.86,750
+75960,STANDARD,0,Moscow,,Barnes,TX,Polk County,America/Chicago,936,NA,US,30.92,-94.93,750
+75961,STANDARD,0,Nacogdoches,,,TX,Nacogdoches County,America/Chicago,936,NA,US,31.61,-94.65,11340
+75964,STANDARD,0,Nacogdoches,,,TX,Nacogdoches County,America/Chicago,936,NA,US,31.63,-94.74,16650
+75965,STANDARD,0,Nacogdoches,,,TX,Nacogdoches County,America/Chicago,936,NA,US,31.72,-94.63,13100
+75966,STANDARD,0,Newton,,,TX,Newton County,America/Chicago,409,NA,US,30.85,-93.75,3660
+75968,STANDARD,0,Pineland,,,TX,Sabine County,America/Chicago,409,NA,US,31.24,-93.97,1590
+75969,STANDARD,0,Pollok,,"Central, Redtown",TX,Angelina County,America/Chicago,936,NA,US,31.42,-94.86,3170
+75972,STANDARD,0,San Augustine,,"Blandlake, Denning, Fords Corner, Macune, Norwood, Sexton, White Rock",TX,San Augustine County,America/Chicago,936,NA,US,31.52,-94.11,5030
+75973,STANDARD,0,Shelbyville,,"Alexanders Store, Dreka, East Hamilton, Goober Hill, Halbert, Hurstown, Huxley, Jordans Store, New Harmony, Patroon, Pauls Store",TX,Shelby County,America/Chicago,936,NA,US,31.7,-93.95,2090
+75974,STANDARD,0,Tenaha,,"Flat Fork, Meldrum, Ramah, Tenoka, Woods",TX,Shelby County,America/Chicago,936,NA,US,31.94,-94.24,2920
+75975,STANDARD,0,Timpson,,"Antioch, Caledonia, Eulalie, Silas, Stockman",TX,Shelby County,America/Chicago,936,NA,US,31.9,-94.39,2990
+75977,STANDARD,0,Wiergate,,"Farrsville, Indian Hill, Jamestown, Mattox, Mayflower",TX,Newton County,America/Chicago,409,NA,US,30.99,-93.7,510
+75979,STANDARD,0,Woodville,,"Dies, Emilee, Pedigo, Town Bluff",TX,Tyler County,America/Chicago,409,NA,US,30.77,-94.42,6650
+75980,STANDARD,0,Zavalla,,Nancy,TX,Angelina County,America/Chicago,936,NA,US,31.15,-94.41,1980
+76001,STANDARD,0,Arlington,,,TX,Tarrant County,America/Chicago,682,NA,US,32.64,-97.15,31370
+76002,STANDARD,0,Arlington,,,TX,Tarrant County,America/Chicago,"817,972",NA,US,32.62,-97.09,33020
+76006,STANDARD,0,Arlington,,,TX,Tarrant County,America/Chicago,817,NA,US,32.78,-97.1,23450
+76008,STANDARD,0,Aledo,"Annetta, Annetta N, Annetta S, Willow Park",,TX,Parker County,America/Chicago,,NA,US,32.69,-97.6,16600
+76009,STANDARD,0,Alvarado,,,TX,Johnson County,America/Chicago,"682,817",NA,US,32.41,-97.21,19410
+76010,STANDARD,0,Arlington,,,TX,Tarrant County,America/Chicago,"214,972,682,817",NA,US,32.72,-97.08,51160
+76011,STANDARD,0,Arlington,,,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.75,-97.08,21260
+76012,STANDARD,0,Arlington,,,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.76,-97.14,24850
+76013,STANDARD,0,Arlington,"Dalworthington Gardens, Dw Gdns, Pantego",,TX,Tarrant County,America/Chicago,682,NA,US,32.72,-97.16,27110
+76014,STANDARD,0,Arlington,,,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.69,-97.09,34210
+76015,STANDARD,0,Arlington,Pantego,,TX,Tarrant County,America/Chicago,817,NA,US,32.69,-97.12,15990
+76016,STANDARD,0,Arlington,,Dalworthington Gardens,TX,Tarrant County,America/Chicago,682,NA,US,32.69,-97.19,29890
+76017,STANDARD,0,Arlington,,,TX,Tarrant County,America/Chicago,682,NA,US,32.66,-97.16,43140
+76018,STANDARD,0,Arlington,,,TX,Tarrant County,America/Chicago,"972,817",NA,US,32.67,-97.1,26910
+76020,STANDARD,0,Azle,Sanctuary,Pelican Bay,TX,Tarrant County,America/Chicago,817,NA,US,32.89,-97.53,25010
+76021,STANDARD,0,Bedford,,,TX,Tarrant County,America/Chicago,682,NA,US,32.84,-97.13,32810
+76022,STANDARD,0,Bedford,,,TX,Tarrant County,America/Chicago,682,NA,US,32.83,-97.15,13410
+76023,STANDARD,0,Boyd,,,TX,Wise County,America/Chicago,940,NA,US,33.08,-97.56,5740
+76028,STANDARD,0,Burleson,"Briaroaks, Cross Timber",,TX,Johnson County,America/Chicago,817,NA,US,32.53,-97.32,63630
+76031,STANDARD,0,Cleburne,,,TX,Johnson County,America/Chicago,"682,817",NA,US,32.35,-97.33,15260
+76033,STANDARD,0,Cleburne,,,TX,Johnson County,America/Chicago,"682,817",NA,US,32.34,-97.4,23840
+76034,STANDARD,0,Colleyville,,,TX,Tarrant County,America/Chicago,682,NA,US,32.89,-97.14,25300
+76035,STANDARD,0,Cresson,,,TX,Parker County,America/Chicago,817,NA,US,32.53,-97.65,1640
+76036,STANDARD,0,Crowley,,,TX,Tarrant County,America/Chicago,817,NA,US,32.57,-97.35,24410
+76039,STANDARD,0,Euless,,,TX,Tarrant County,America/Chicago,"682,817,972,214,469",NA,US,32.84,-97.07,34590
+76040,STANDARD,0,Euless,,,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.81,-97.09,28300
+76041,STANDARD,0,Forreston,,,TX,Ellis County,America/Chicago,"469,972",NA,US,32.24,-96.84,420
+76043,STANDARD,0,Glen Rose,,,TX,Somervell County,America/Chicago,254,NA,US,32.23,-97.75,6560
+76044,STANDARD,0,Godley,,,TX,Johnson County,America/Chicago,817,NA,US,32.44,-97.52,3970
+76048,STANDARD,0,Granbury,Brazos Bend,,TX,Hood County,America/Chicago,"682,817",NA,US,32.44,-97.78,20590
+76049,STANDARD,0,Granbury,"Acton, Decordova",,TX,Hood County,America/Chicago,"682,817",NA,US,32.46,-97.71,25700
+76050,STANDARD,0,Grandview,,,TX,Johnson County,America/Chicago,817,NA,US,32.26,-97.17,5730
+76051,STANDARD,0,Grapevine,,,TX,Tarrant County,America/Chicago,"214,469,972,682,817",NA,US,32.93,-97.07,47430
+76052,STANDARD,0,Haslet,,,TX,Tarrant County,America/Chicago,682,NA,US,32.95,-97.33,20220
+76053,STANDARD,0,Hurst,,,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.83,-97.17,28790
+76054,STANDARD,0,Hurst,,,TX,Tarrant County,America/Chicago,682,NA,US,32.86,-97.18,12010
+76055,STANDARD,0,Itasca,,,TX,Hill County,America/Chicago,254,NA,US,32.15,-97.14,2510
+76058,STANDARD,0,Joshua,,,TX,Johnson County,America/Chicago,682,NA,US,32.46,-97.38,17430
+76059,STANDARD,0,Keene,,,TX,Johnson County,America/Chicago,682,NA,US,32.39,-97.33,4300
+76060,STANDARD,0,Kennedale,,,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.64,-97.21,7660
+76063,STANDARD,0,Mansfield,,,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.56,-97.11,66890
+76064,STANDARD,0,Maypearl,,,TX,Ellis County,America/Chicago,"469,972",NA,US,32.31,-97,1970
+76065,STANDARD,0,Midlothian,,,TX,Ellis County,America/Chicago,"214,469,972",NA,US,32.49,-96.99,34740
+76066,STANDARD,0,Millsap,Cool,,TX,Parker County,America/Chicago,940,NA,US,32.75,-98,2850
+76067,STANDARD,0,Mineral Wells,,"Fort Wolters, Salesville",TX,Palo Pinto County,America/Chicago,940,NA,US,32.82,-98.07,16750
+76070,STANDARD,0,Nemo,,,TX,Somervell County,America/Chicago,254,NA,US,32.28,-97.64,400
+76071,STANDARD,0,Newark,,,TX,Wise County,America/Chicago,817,NA,US,33,-97.44,3660
+76073,STANDARD,0,Paradise,,,TX,Wise County,America/Chicago,940,NA,US,33.08,-97.7,5090
+76077,STANDARD,0,Rainbow,,,TX,Somervell County,America/Chicago,254,NA,US,32.28,-97.7,530
+76078,STANDARD,0,Rhome,Aurora,,TX,Wise County,America/Chicago,817,NA,US,33.05,-97.46,8970
+76082,STANDARD,0,Springtown,,,TX,Parker County,America/Chicago,"682,817",NA,US,32.96,-97.68,17190
+76084,STANDARD,0,Venus,,,TX,Johnson County,America/Chicago,"469,972",NA,US,32.42,-97.1,7800
+76085,STANDARD,0,Weatherford,,,TX,Parker County,America/Chicago,"682,817",NA,US,32.83,-97.7,10370
+76086,STANDARD,0,Weatherford,,Willow Park,TX,Parker County,America/Chicago,"682,817",NA,US,32.75,-97.77,18720
+76087,STANDARD,0,Weatherford,"Brock, Hudson Oaks, Willow Park",,TX,Parker County,America/Chicago,"682,817",NA,US,32.68,-97.78,26920
+76088,STANDARD,0,Weatherford,,,TX,Parker County,America/Chicago,"682,817",NA,US,32.85,-97.9,11000
+76092,STANDARD,0,Southlake,"Grapevine, South Lake",,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.95,-97.14,30940
+76093,STANDARD,0,Rio Vista,,,TX,Johnson County,America/Chicago,817,NA,US,32.23,-97.37,2120
+76102,STANDARD,0,Fort Worth,Ft Worth,,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.75,-97.33,6680
+76103,STANDARD,0,Fort Worth,Ft Worth,,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.75,-97.27,13860
+76104,STANDARD,0,Fort Worth,Ft Worth,,TX,Tarrant County,America/Chicago,"817,682",NA,US,32.73,-97.32,15360
+76105,STANDARD,0,Fort Worth,Ft Worth,,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.72,-97.27,21670
+76106,STANDARD,0,Fort Worth,Ft Worth,,TX,Tarrant County,America/Chicago,817,NA,US,32.82,-97.36,34710
+76107,STANDARD,0,Fort Worth,Ft Worth,Westover Hills,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.74,-97.38,25090
+76108,STANDARD,0,Fort Worth,"Ft Worth, Lakeside, White Settlement, Wht Settlemt",,TX,Tarrant County,America/Chicago,817,NA,US,32.79,-97.52,39200
+76109,STANDARD,0,Fort Worth,"Benbrook, Ft Worth",,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.7,-97.39,18030
+76110,STANDARD,0,Fort Worth,Ft Worth,,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.71,-97.34,28990
+76111,STANDARD,0,Fort Worth,"Ft Worth, Haltom City",,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.78,-97.3,21420
+76112,STANDARD,0,Fort Worth,Ft Worth,,TX,Tarrant County,America/Chicago,"214,972,682,817",NA,US,32.75,-97.22,37820
+76114,STANDARD,0,Fort Worth,"Ft Worth, River Oaks, Westworth Village, Westworth Vlg","Oaks, Sansom Park",TX,Tarrant County,America/Chicago,817,NA,US,32.77,-97.4,23500
+76115,STANDARD,0,Fort Worth,Ft Worth,,TX,Tarrant County,America/Chicago,817,NA,US,32.68,-97.33,21350
+76116,STANDARD,0,Fort Worth,"Benbrook, Ft Worth",,TX,Tarrant County,America/Chicago,817,NA,US,32.72,-97.45,43360
+76117,STANDARD,0,Haltom City,"Fort Worth, Ft Worth, N Richland Hills, N Richlnd Hls, North Richland Hills",,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.81,-97.27,30240
+76118,STANDARD,0,Fort Worth,"Ft Worth, N Richland Hills, N Richlnd Hls, North Richland Hills, Richland Hills, Richland Hls",,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.8,-97.19,14920
+76119,STANDARD,0,Fort Worth,"Forest Hill, Ft Worth",,TX,Tarrant County,America/Chicago,682,NA,US,32.69,-97.26,42130
+76120,STANDARD,0,Fort Worth,Ft Worth,,TX,Tarrant County,America/Chicago,"214,817,972",NA,US,32.78,-97.18,15770
+76123,STANDARD,0,Fort Worth,Ft Worth,,TX,Tarrant County,America/Chicago,817,NA,US,32.62,-97.39,31210
+76126,STANDARD,0,Fort Worth,"Benbrook, Ft Worth",,TX,Tarrant County,America/Chicago,817,NA,US,32.64,-97.5,21730
+76127,STANDARD,0,Naval Air Station/ Jrb,"Fort Worth, Ft Worth, Nas/jrb",,TX,Tarrant County,America/Chicago,817,NA,US,32.77,-97.43,420
+76131,STANDARD,0,Fort Worth,"Blue Mound, Ft Worth, Saginaw",,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.88,-97.35,36380
+76132,STANDARD,0,Fort Worth,"Benbrook, Ft Worth",,TX,Tarrant County,America/Chicago,817,NA,US,32.67,-97.42,22880
+76133,STANDARD,0,Fort Worth,Ft Worth,,TX,Tarrant County,America/Chicago,817,NA,US,32.65,-97.38,47250
+76134,STANDARD,0,Fort Worth,"Edgecliff Village, Edgecliff Vlg, Ft Worth",,TX,Tarrant County,America/Chicago,817,NA,US,32.64,-97.34,24420
+76135,STANDARD,0,Fort Worth,"Ft Worth, Lake Worth, Lakeside",,TX,Tarrant County,America/Chicago,817,NA,US,32.85,-97.48,18550
+76137,STANDARD,0,Fort Worth,"Ft Worth, Haltom City, Watauga",,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.86,-97.29,55170
+76140,STANDARD,0,Fort Worth,"Everman, Forest Hill, Ft Worth",,TX,Tarrant County,America/Chicago,817,NA,US,32.62,-97.27,29090
+76148,STANDARD,0,Fort Worth,"Ft Worth, Haltom City, N Richland Hills, N Richlnd Hls, North Richland Hills, Watauga",,TX,Tarrant County,America/Chicago,"817,682",NA,US,32.87,-97.25,22920
+76150,STANDARD,0,Fort Worth,Ft Worth,,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.75,-97.33,0
+76155,STANDARD,0,Fort Worth,Ft Worth,,TX,Tarrant County,America/Chicago,"214,469,817,972",NA,US,32.82,-97.05,4250
+76164,STANDARD,0,Fort Worth,Ft Worth,,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.78,-97.35,15830
+76177,STANDARD,0,Fort Worth,Ft Worth,Cingular Wireless,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.98,-97.31,12920
+76179,STANDARD,0,Fort Worth,"Ft Worth, Saginaw",,TX,Tarrant County,America/Chicago,817,NA,US,32.91,-97.43,54870
+76180,STANDARD,0,North Richland Hills,"Fort Worth, Ft Worth, Haltom City, N Richland Hills, N Richlnd Hls, Richland Hills, Richland Hls",Northrichland Hills,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.86,-97.21,32130
+76182,STANDARD,0,North Richland Hills,"Fort Worth, Ft Worth, N Richland Hills, N Richlnd Hls",,TX,Tarrant County,America/Chicago,682,NA,US,32.89,-97.21,29990
+76201,STANDARD,0,Denton,,,TX,Denton County,America/Chicago,"817,940",NA,US,33.21,-97.13,13690
+76205,STANDARD,0,Denton,,Shady Shores,TX,Denton County,America/Chicago,940,NA,US,33.19,-97.13,14640
+76207,STANDARD,0,Denton,,,TX,Denton County,America/Chicago,"817,940",NA,US,33.23,-97.18,12310
+76208,STANDARD,0,Denton,"Corinth, Shady Shores",,TX,Denton County,America/Chicago,972,NA,US,33.21,-97.06,22740
+76209,STANDARD,0,Denton,,,TX,Denton County,America/Chicago,"940,817",NA,US,33.23,-97.11,23060
+76210,STANDARD,0,Denton,Corinth,,TX,Denton County,America/Chicago,"817,940",NA,US,33.14,-97.06,39550
+76225,STANDARD,0,Alvord,,,TX,Wise County,America/Chicago,940,NA,US,33.35,-97.69,3100
+76226,STANDARD,0,Argyle,"Bartonville, Lantana, Northlake","Corral City, Justin",TX,Denton County,America/Chicago,940,NA,US,33.11,-97.17,25190
+76227,STANDARD,0,Aubrey,"Crossroads, Krugerville, Providence Village, Providnce Vil, Savannah",,TX,Denton County,America/Chicago,940,NA,US,33.3,-96.98,29040
+76228,STANDARD,0,Bellevue,,,TX,Clay County,America/Chicago,940,NA,US,33.63,-98.01,860
+76230,STANDARD,0,Bowie,,"Fruitland, Newport, Postoak, Stoneburg",TX,Montague County,America/Chicago,940,NA,US,33.55,-97.84,8540
+76233,STANDARD,0,Collinsville,,,TX,Grayson County,America/Chicago,903,NA,US,33.55,-96.91,3000
+76234,STANDARD,0,Decatur,,,TX,Wise County,America/Chicago,940,NA,US,33.23,-97.59,15610
+76238,STANDARD,0,Era,,,TX,Cooke County,America/Chicago,940,NA,US,33.48,-97.35,510
+76239,STANDARD,0,Forestburg,,,TX,Montague County,America/Chicago,940,NA,US,33.54,-97.59,910
+76240,STANDARD,0,Gainesville,"Callisburg, Lake Kiowa, Oak Ridge",,TX,Cooke County,America/Chicago,940,NA,US,33.63,-97.15,23660
+76244,STANDARD,0,Keller,"Fort Worth, Ft Worth",,TX,Tarrant County,America/Chicago,682,NA,US,32.93,-97.28,72370
+76245,STANDARD,0,Gordonville,,,TX,Grayson County,America/Chicago,903,NA,US,33.84,-96.88,1430
+76247,STANDARD,0,Justin,Northlake,,TX,Denton County,America/Chicago,940,NA,US,33.08,-97.29,14520
+76248,STANDARD,0,Keller,,,TX,Tarrant County,America/Chicago,"682,817",NA,US,32.93,-97.22,38740
+76249,STANDARD,0,Krum,,,TX,Denton County,America/Chicago,940,NA,US,33.26,-97.22,8660
+76250,STANDARD,0,Lindsay,,,TX,Cooke County,America/Chicago,940,NA,US,33.63,-97.21,1270
+76251,STANDARD,0,Montague,,,TX,Montague County,America/Chicago,940,NA,US,33.67,-97.72,690
+76252,STANDARD,0,Muenster,,,TX,Cooke County,America/Chicago,940,NA,US,33.65,-97.37,2880
+76255,STANDARD,0,Nocona,,,TX,Montague County,America/Chicago,940,NA,US,33.78,-97.73,4510
+76258,STANDARD,0,Pilot Point,,,TX,Denton County,America/Chicago,940,NA,US,33.39,-96.95,6880
+76259,STANDARD,0,Ponder,,,TX,Denton County,America/Chicago,940,NA,US,33.17,-97.28,4590
+76261,STANDARD,0,Ringgold,,,TX,Montague County,America/Chicago,940,NA,US,33.8,-97.95,258
+76262,STANDARD,0,Roanoke,"Keller, Northlake, Trophy Club, Westlake",,TX,Denton County,America/Chicago,"682,817",NA,US,33,-97.23,36470
+76263,STANDARD,0,Rosston,,,TX,Cooke County,America/Chicago,940,NA,US,33.48,-97.45,85
+76264,STANDARD,0,Sadler,,,TX,Grayson County,America/Chicago,,NA,US,33.74,-96.84,1270
+76265,STANDARD,0,Saint Jo,,,TX,Montague County,America/Chicago,940,NA,US,33.69,-97.52,1460
+76266,STANDARD,0,Sanger,,,TX,Denton County,America/Chicago,940,NA,US,33.36,-97.17,14200
+76270,STANDARD,0,Sunset,,,TX,Montague County,America/Chicago,,NA,US,33.45,-97.77,1820
+76271,STANDARD,0,Tioga,,,TX,Grayson County,America/Chicago,940,NA,US,33.47,-96.91,1500
+76272,STANDARD,0,Valley View,,,TX,Cooke County,America/Chicago,940,NA,US,33.48,-97.16,4520
+76273,STANDARD,0,Whitesboro,,,TX,Grayson County,America/Chicago,903,NA,US,33.65,-96.9,8260
+76301,STANDARD,0,Wichita Falls,,,TX,Wichita County,America/Chicago,940,NA,US,33.89,-98.51,12470
+76302,STANDARD,0,Wichita Falls,,,TX,Wichita County,America/Chicago,940,NA,US,33.86,-98.49,10340
+76305,STANDARD,0,Wichita Falls,"Cashion Cmnty, Cashion Community, Dean, Jolly, Pleasant Valley, Pleasant Vly",,TX,Wichita County,America/Chicago,940,NA,US,34,-98.39,4410
+76306,STANDARD,0,Wichita Falls,,,TX,Wichita County,America/Chicago,940,NA,US,33.94,-98.52,12680
+76308,STANDARD,0,Wichita Falls,,Lakeside City,TX,Wichita County,America/Chicago,940,NA,US,33.85,-98.54,16820
+76309,STANDARD,0,Wichita Falls,,,TX,Wichita County,America/Chicago,940,NA,US,33.89,-98.54,11360
+76310,STANDARD,0,Wichita Falls,,,TX,Wichita County,America/Chicago,940,NA,US,33.8,-98.51,17110
+76311,STANDARD,0,Sheppard Afb,,Wichita Falls,TX,Wichita County,America/Chicago,940,NA,US,33.97,-98.51,2840
+76354,STANDARD,0,Burkburnett,,,TX,Wichita County,America/Chicago,940,NA,US,34.07,-98.56,10240
+76357,STANDARD,0,Byers,,,TX,Clay County,America/Chicago,940,NA,US,34.07,-98.19,580
+76360,STANDARD,0,Electra,,,TX,Wichita County,America/Chicago,940,NA,US,34.03,-98.91,2400
+76363,STANDARD,0,Goree,,,TX,Knox County,America/Chicago,940,NA,US,33.46,-99.52,270
+76364,STANDARD,0,Harrold,,,TX,Wilbarger County,America/Chicago,940,NA,US,34.08,-99.03,198
+76365,STANDARD,0,Henrietta,,,TX,Clay County,America/Chicago,940,NA,US,33.81,-98.19,4080
+76366,STANDARD,0,Holliday,,Dundee,TX,Archer County,America/Chicago,940,NA,US,33.81,-98.68,1930
+76367,STANDARD,0,Iowa Park,,,TX,Wichita County,America/Chicago,940,NA,US,33.95,-98.68,8450
+76371,STANDARD,0,Munday,,,TX,Knox County,America/Chicago,940,NA,US,33.44,-99.62,1470
+76372,STANDARD,0,Newcastle,Elbert,,TX,Young County,America/Chicago,940,NA,US,33.19,-98.74,770
+76373,STANDARD,0,Oklaunion,,,TX,Wilbarger County,America/Chicago,940,NA,US,34.13,-99.13,166
+76374,STANDARD,0,Olney,,,TX,Young County,America/Chicago,940,NA,US,33.36,-98.75,3540
+76377,STANDARD,0,Petrolia,,,TX,Clay County,America/Chicago,940,NA,US,34.01,-98.23,650
+76379,STANDARD,0,Scotland,,,TX,Archer County,America/Chicago,940,NA,US,33.67,-98.49,460
+76380,STANDARD,0,Seymour,"Red Springs, Vera",,TX,Baylor County,America/Chicago,940,NA,US,33.59,-99.25,2970
+76384,STANDARD,0,Vernon,,,TX,Wilbarger County,America/Chicago,940,NA,US,34.14,-99.3,10100
+76388,STANDARD,0,Weinert,,,TX,Haskell County,America/Chicago,940,NA,US,33.32,-99.67,217
+76389,STANDARD,0,Windthorst,,Antelope,TX,Archer County,America/Chicago,940,NA,US,33.57,-98.43,1310
+76401,STANDARD,0,Stephenville,,,TX,Erath County,America/Chicago,254,NA,US,32.21,-98.21,20840
+76424,STANDARD,0,Breckenridge,,,TX,Stephens County,America/Chicago,254,NA,US,32.75,-98.91,6920
+76426,STANDARD,0,Bridgeport,Runaway Bay,Lake Bridgeport,TX,Wise County,America/Chicago,940,NA,US,33.2,-97.75,10240
+76427,STANDARD,0,Bryson,,,TX,Jack County,America/Chicago,940,NA,US,33.15,-98.38,660
+76429,STANDARD,0,Caddo,,,TX,Stephens County,America/Chicago,254,NA,US,32.68,-98.64,176
+76430,STANDARD,0,Albany,,,TX,Shackelford County,America/Chicago,325,NA,US,32.72,-99.29,2230
+76431,STANDARD,0,Chico,,,TX,Wise County,America/Chicago,940,NA,US,33.29,-97.79,3120
+76432,STANDARD,0,Blanket,,,TX,Brown County,America/Chicago,325,NA,US,31.82,-98.78,1140
+76433,STANDARD,0,Bluff Dale,,,TX,Erath County,America/Chicago,254,NA,US,32.35,-98.02,1260
+76435,STANDARD,0,Carbon,,,TX,Eastland County,America/Chicago,254,NA,US,32.26,-98.82,540
+76436,STANDARD,0,Carlton,,,TX,Hamilton County,America/Chicago,254,NA,US,31.86,-98.23,190
+76437,STANDARD,0,Cisco,,,TX,Eastland County,America/Chicago,"325,254",NA,US,32.38,-98.98,4600
+76442,STANDARD,0,Comanche,Hasse,,TX,Comanche County,America/Chicago,"254,325",NA,US,31.89,-98.6,6390
+76443,STANDARD,0,Cross Plains,,,TX,Callahan County,America/Chicago,254,NA,US,32.12,-99.16,1520
+76444,STANDARD,0,De Leon,,,TX,Comanche County,America/Chicago,254,NA,US,32.11,-98.53,3020
+76445,STANDARD,0,Desdemona,,,TX,Eastland County,America/Chicago,254,NA,US,32.29,-98.56,300
+76446,STANDARD,0,Dublin,Lingleville,,TX,Erath County,America/Chicago,254,NA,US,32.08,-98.33,7280
+76448,STANDARD,0,Eastland,,,TX,Eastland County,America/Chicago,254,NA,US,32.4,-98.81,4690
+76449,STANDARD,0,Graford,,,TX,Palo Pinto County,America/Chicago,940,NA,US,32.93,-98.24,1850
+76450,STANDARD,0,Graham,,,TX,Young County,America/Chicago,940,NA,US,33.1,-98.57,11980
+76453,STANDARD,0,Gordon,,,TX,Palo Pinto County,America/Chicago,254,NA,US,32.54,-98.36,980
+76454,STANDARD,0,Gorman,,,TX,Eastland County,America/Chicago,254,NA,US,32.21,-98.67,1380
+76455,STANDARD,0,Gustine,,,TX,Comanche County,America/Chicago,325,NA,US,31.84,-98.4,740
+76457,STANDARD,0,Hico,,Duffau,TX,Hamilton County,America/Chicago,940,NA,US,31.98,-98.02,3130
+76458,STANDARD,0,Jacksboro,,,TX,Jack County,America/Chicago,940,NA,US,33.22,-98.15,4560
+76459,STANDARD,0,Jermyn,,,TX,Jack County,America/Chicago,940,NA,US,33.25,-98.39,144
+76460,STANDARD,0,Loving,,,TX,Young County,America/Chicago,940,NA,US,33.27,-98.48,330
+76462,STANDARD,0,Lipan,,,TX,Hood County,America/Chicago,,NA,US,32.51,-98.04,2760
+76463,STANDARD,0,Mingus,,,TX,Palo Pinto County,America/Chicago,"254,940",NA,US,32.53,-98.42,400
+76464,STANDARD,0,Moran,,,TX,Shackelford County,America/Chicago,325,NA,US,32.54,-99.16,370
+76470,STANDARD,0,Ranger,,,TX,Eastland County,America/Chicago,254,NA,US,32.47,-98.67,2260
+76471,STANDARD,0,Rising Star,,,TX,Eastland County,America/Chicago,254,NA,US,32.09,-98.96,1250
+76472,STANDARD,0,Santo,,,TX,Palo Pinto County,America/Chicago,"254,940",NA,US,32.58,-98.18,1380
+76474,STANDARD,0,Sidney,,,TX,Comanche County,America/Chicago,254,NA,US,31.92,-98.77,280
+76475,STANDARD,0,Strawn,,,TX,Palo Pinto County,America/Chicago,"940,254",NA,US,32.67,-98.49,800
+76476,STANDARD,0,Tolar,,,TX,Hood County,America/Chicago,254,NA,US,32.39,-97.91,2540
+76481,STANDARD,0,South Bend,Eliasville,,TX,Young County,America/Chicago,940,NA,US,33,-98.66,166
+76483,STANDARD,0,Throckmorton,,,TX,Throckmorton County,America/Chicago,940,NA,US,33.18,-99.17,860
+76484,STANDARD,0,Palo Pinto,,,TX,Palo Pinto County,America/Chicago,940,NA,US,32.76,-98.28,770
+76486,STANDARD,0,Perrin,,,TX,Jack County,America/Chicago,940,NA,US,33.08,-98.05,1140
+76487,STANDARD,0,Poolville,,,TX,Parker County,America/Chicago,940,NA,US,32.97,-97.87,2200
+76490,STANDARD,0,Whitt,,,TX,Parker County,America/Chicago,940,NA,US,32.96,-98.02,180
+76491,STANDARD,0,Woodson,,,TX,Throckmorton County,America/Chicago,940,NA,US,33.01,-99.05,360
+76501,STANDARD,0,Temple,,"Moffatt, Oenaville, Oscar, Ratibor, Seaton, Zabcikville",TX,Bell County,America/Chicago,254,NA,US,31.08,-97.25,14660
+76502,STANDARD,0,Temple,,,TX,Bell County,America/Chicago,254,NA,US,31.1,-97.41,35720
+76504,STANDARD,0,Temple,,,TX,Bell County,America/Chicago,254,NA,US,31.09,-97.36,19680
+76511,STANDARD,0,Bartlett,,,TX,Williamson County,America/Chicago,254,NA,US,30.79,-97.42,2010
+76513,STANDARD,0,Belton,"Morgans Point, Morgans Point Resort",,TX,Bell County,America/Chicago,254,NA,US,31.06,-97.46,33440
+76518,STANDARD,0,Buckholts,,"Sharp, South Elm, Val Verde, Yarrelton",TX,Milam County,America/Chicago,254,NA,US,30.87,-97.12,1110
+76519,STANDARD,0,Burlington,Ben Arnold,"Cyclone, Meeks",TX,Bell County,America/Chicago,254,NA,US,31.02,-97.12,480
+76520,STANDARD,0,Cameron,Maysfield,"Cross Roads, Hoyte, Jones Prairie, Pettibone",TX,Milam County,America/Chicago,254,NA,US,30.85,-96.97,7040
+76522,STANDARD,0,Copperas Cove,,Topsey,TX,Coryell County,America/Chicago,254,NA,US,31.11,-97.9,35190
+76524,STANDARD,0,Eddy,,"Blevins, Cego, Dot",TX,McLennan County,America/Chicago,254,NA,US,31.27,-97.2,2530
+76525,STANDARD,0,Evant,Bee House,,TX,Coryell County,America/Chicago,"254,325,512",NA,US,31.47,-98.14,870
+76527,STANDARD,0,Florence,,,TX,Williamson County,America/Chicago,"254,512",NA,US,30.83,-97.79,4040
+76528,STANDARD,0,Gatesville,"Izoro, Leon Junction, South Mountain, South Mtn","Arnett, Ater, Fort Gates, Levita, Mountain, Pidcoke",TX,Coryell County,America/Chicago,254,NA,US,31.44,-97.73,14030
+76530,STANDARD,0,Granger,,Friendship,TX,Williamson County,America/Chicago,512,NA,US,30.71,-97.44,2260
+76531,STANDARD,0,Hamilton,,"Indian Gap, Shive",TX,Hamilton County,America/Chicago,254,NA,US,31.7,-98.12,4050
+76534,STANDARD,0,Holland,,"Sparks, Vilas",TX,Bell County,America/Chicago,254,NA,US,30.88,-97.4,2470
+76537,STANDARD,0,Jarrell,,"New Corn Hill, Theon",TX,Williamson County,America/Chicago,512,NA,US,30.81,-97.6,6730
+76538,STANDARD,0,Jonesboro,,"Ireland, Lanham, Pancake",TX,Coryell County,America/Chicago,254,NA,US,31.65,-97.9,690
+76539,STANDARD,0,Kempner,,Rumley,TX,Lampasas County,America/Chicago,512,NA,US,31.07,-98,7820
+76541,STANDARD,0,Killeen,,,TX,Bell County,America/Chicago,254,NA,US,31.11,-97.73,15630
+76542,STANDARD,0,Killeen,,"Maxdale, Youngsport",TX,Bell County,America/Chicago,254,NA,US,31.01,-97.75,44850
+76543,STANDARD,0,Killeen,,,TX,Bell County,America/Chicago,254,NA,US,31.09,-97.71,26220
+76544,STANDARD,0,Fort Hood,Killeen,"Chaffee Village, Clear Creek, Mcnair Village, Montague Village",TX,Bell County,America/Chicago,254,NA,US,31.14,-97.76,21630
+76548,STANDARD,0,Harker Heights,"Harker Hts, Killeen",,TX,Bell County,America/Chicago,254,NA,US,31.06,-97.65,27720
+76549,STANDARD,0,Killeen,,,TX,Bell County,America/Chicago,254,NA,US,31.02,-97.83,47030
+76550,STANDARD,0,Lampasas,,"Lake Victor, Naruna, Nix, Watson",TX,Lampasas County,America/Chicago,512,NA,US,31.06,-98.18,10800
+76554,STANDARD,0,Little River Academy,Ltl Rvr Acad,Academy,TX,Bell County,America/Chicago,254,NA,US,30.97,-97.37,2120
+76556,STANDARD,0,Milano,,,TX,Milam County,America/Chicago,512,NA,US,30.7,-96.85,1290
+76557,STANDARD,0,Moody,,"Meador Grove, Stampede, White Hall, Whitson, Willow Grove",TX,McLennan County,America/Chicago,254,NA,US,31.3,-97.36,4580
+76559,STANDARD,0,Nolanville,,,TX,Bell County,America/Chicago,254,NA,US,31.07,-97.61,5100
+76561,STANDARD,0,Oglesby,,"Cavitt, Pecangrove",TX,Coryell County,America/Chicago,254,NA,US,31.41,-97.5,890
+76565,STANDARD,0,Pottsville,,,TX,Hamilton County,America/Chicago,"325,254",NA,US,31.64,-98.35,90
+76566,STANDARD,0,Purmela,,South Purmela,TX,Coryell County,America/Chicago,254,NA,US,31.55,-98.05,270
+76567,STANDARD,0,Rockdale,,"Minerva, Praesel, Salty",TX,Milam County,America/Chicago,512,NA,US,30.65,-97,7740
+76569,STANDARD,0,Rogers,,"Edgeworth, Leedale, Red Ranger",TX,Bell County,America/Chicago,254,NA,US,30.93,-97.22,2490
+76570,STANDARD,0,Rosebud,,"Baileyville, Briary, Cedar Springs, New Clarkson, Terrys Chapel, Wilderville, Zipperlenville",TX,Falls County,America/Chicago,254,NA,US,31.07,-96.97,2110
+76571,STANDARD,0,Salado,,Prairie Dell,TX,Bell County,America/Chicago,254,NA,US,30.95,-97.52,7580
+76574,STANDARD,0,Taylor,,"Frame Switch, Hare, Hoxie, Laneport, Noack, Normans Crossing, Rices Crossing, Sandoval, Waterloo",TX,Williamson County,America/Chicago,"512,737",NA,US,30.57,-97.41,17030
+76577,STANDARD,0,Thorndale,,"Detmold, Gano, Lilac, Nile, San Gabriel",TX,Milam County,America/Chicago,512,NA,US,30.61,-97.2,2840
+76578,STANDARD,0,Thrall,,,TX,Williamson County,America/Chicago,512,NA,US,30.58,-97.29,1690
+76579,STANDARD,0,Troy,,Belfalls,TX,Bell County,America/Chicago,254,NA,US,31.19,-97.3,4600
+76621,STANDARD,0,Abbott,,Menlow,TX,Hill County,America/Chicago,254,NA,US,31.88,-97.07,1080
+76622,STANDARD,0,Aquilla,,,TX,Hill County,America/Chicago,254,NA,US,31.85,-97.22,920
+76624,STANDARD,0,Axtell,,"Billington, Elk",TX,McLennan County,America/Chicago,254,NA,US,31.65,-96.97,2200
+76626,STANDARD,0,Blooming Grove,Blooming Grv,,TX,Navarro County,America/Chicago,903,NA,US,32.09,-96.71,1490
+76627,STANDARD,0,Blum,,,TX,Hill County,America/Chicago,254,NA,US,32.14,-97.39,1360
+76629,STANDARD,0,Bremond,,"Hammond, Petteway, Tidwell Prairie",TX,Robertson County,America/Chicago,254,NA,US,31.16,-96.67,1740
+76630,STANDARD,0,Bruceville,,Bruceville Eddy,TX,McLennan County,America/Chicago,254,NA,US,31.33,-97.21,1640
+76631,STANDARD,0,Bynum,,,TX,Hill County,America/Chicago,254,NA,US,31.96,-97,420
+76632,STANDARD,0,Chilton,,"Mooresville, North Prairie",TX,Falls County,America/Chicago,254,NA,US,31.3,-97.06,1610
+76633,STANDARD,0,China Spring,,,TX,McLennan County,America/Chicago,254,NA,US,31.67,-97.31,5010
+76634,STANDARD,0,Clifton,Laguna Park,"Hurst Springs, Lakewood Harbor, Norse, Smiths Bend, Womack",TX,Bosque County,America/Chicago,254,NA,US,31.78,-97.58,5870
+76635,STANDARD,0,Coolidge,,"Echols, Mustang",TX,Limestone County,America/Chicago,254,NA,US,31.75,-96.65,1230
+76636,STANDARD,0,Covington,,,TX,Hill County,America/Chicago,254,NA,US,32.17,-97.25,1370
+76637,STANDARD,0,Cranfills Gap,,,TX,Bosque County,America/Chicago,254,NA,US,31.77,-97.82,460
+76638,STANDARD,0,Crawford,,Ocee,TX,McLennan County,America/Chicago,254,NA,US,31.53,-97.44,2770
+76639,STANDARD,0,Dawson,,Springhill,TX,Navarro County,America/Chicago,"903,254",NA,US,31.89,-96.71,1200
+76640,STANDARD,0,Elm Mott,,,TX,McLennan County,America/Chicago,254,NA,US,31.67,-97.1,2540
+76641,STANDARD,0,Frost,,Emmett,TX,Navarro County,America/Chicago,"254,972,903",NA,US,32.07,-96.8,1500
+76642,STANDARD,0,Groesbeck,"Lake Limestone, Lk Limestone","Box Church, Thelma",TX,Limestone County,America/Chicago,254,NA,US,31.52,-96.53,5440
+76643,STANDARD,0,Hewitt,,,TX,McLennan County,America/Chicago,254,NA,US,31.45,-97.19,13820
+76645,STANDARD,0,Hillsboro,,"Chat, Lovelace, Peoria, Vaughan, Winslow, Woodbury",TX,Hill County,America/Chicago,254,NA,US,32,-97.11,10220
+76648,STANDARD,0,Hubbard,,Pelham,TX,Hill County,America/Chicago,254,NA,US,31.84,-96.8,2030
+76649,STANDARD,0,Iredell,,,TX,Bosque County,America/Chicago,254,NA,US,31.98,-97.87,630
+76651,STANDARD,0,Italy,,,TX,Ellis County,America/Chicago,"469,972",NA,US,32.18,-96.88,2800
+76652,STANDARD,0,Kopperl,,"Brazos Point, Eulogy, Kimball",TX,Bosque County,America/Chicago,254,NA,US,32.11,-97.58,850
+76653,STANDARD,0,Kosse,,"Alto Springs, Denny, Headsville",TX,Limestone County,America/Chicago,254,NA,US,31.3,-96.62,950
+76655,STANDARD,0,Lorena,,"Golinda, Levi, Rosenthal",TX,McLennan County,America/Chicago,254,NA,US,31.38,-97.21,7980
+76656,STANDARD,0,Lott,,"Barclay, Durango, Goodville, Travis, Westphalia",TX,Falls County,America/Chicago,254,NA,US,31.2,-97.03,1980
+76657,STANDARD,0,Mc Gregor,,Mcgregor,TX,McLennan County,America/Chicago,254,NA,US,31.45,-97.37,9820
+76660,STANDARD,0,Malone,,,TX,Hill County,America/Chicago,254,NA,US,31.91,-96.89,390
+76661,STANDARD,0,Marlin,,"Mcclanahan, Rocky Hill",TX,Falls County,America/Chicago,254,NA,US,31.3,-96.89,5270
+76664,STANDARD,0,Mart,,"Ben Hur, Kirk, Watt",TX,McLennan County,America/Chicago,254,NA,US,31.54,-96.83,2590
+76665,STANDARD,0,Meridian,,,TX,Bosque County,America/Chicago,254,NA,US,31.92,-97.64,2020
+76666,STANDARD,0,Mertens,,,TX,Hill County,America/Chicago,254,NA,US,32.05,-96.89,230
+76667,STANDARD,0,Mexia,,"Fallon, Forest Glade, Point Enterprise, Prairie Grove, Shiloh",TX,Limestone County,America/Chicago,254,NA,US,31.67,-96.48,9780
+76670,STANDARD,0,Milford,,Iverson,TX,Ellis County,America/Chicago,"254,469,972",NA,US,32.12,-96.94,1220
+76671,STANDARD,0,Morgan,,"Lakeside Village, Poesville",TX,Bosque County,America/Chicago,254,NA,US,32.01,-97.6,1380
+76673,STANDARD,0,Mount Calm,Birome,,TX,Hill County,America/Chicago,254,NA,US,31.75,-96.88,960
+76676,STANDARD,0,Penelope,,,TX,Hill County,America/Chicago,254,NA,US,31.86,-96.95,320
+76678,STANDARD,0,Prairie Hill,,,TX,Limestone County,America/Chicago,254,NA,US,31.65,-96.78,184
+76679,STANDARD,0,Purdon,,"Jester, Navarro Mills, Pursley, Silver City",TX,Navarro County,America/Chicago,,NA,US,31.94,-96.57,1130
+76680,STANDARD,0,Reagan,,Eloise,TX,Falls County,America/Chicago,254,NA,US,31.2,-96.81,205
+76681,STANDARD,0,Richland,,,TX,Navarro County,America/Chicago,254,NA,US,31.92,-96.42,390
+76682,STANDARD,0,Riesel,"Otto, Perry",,TX,McLennan County,America/Chicago,254,NA,US,31.47,-96.93,2480
+76687,STANDARD,0,Thornton,,"Bighill, Davis Prairie, Odds, Old Union, Oletha",TX,Limestone County,America/Chicago,254,NA,US,31.41,-96.57,1220
+76689,STANDARD,0,Valley Mills,,Mosheim,TX,Bosque County,America/Chicago,254,NA,US,31.65,-97.47,3450
+76690,STANDARD,0,Walnut Springs,Walnut Spgs,,TX,Bosque County,America/Chicago,254,NA,US,32.05,-97.75,1040
+76691,STANDARD,0,West,,"Rogers Hill, Tours",TX,McLennan County,America/Chicago,254,NA,US,31.8,-97.09,5620
+76692,STANDARD,0,Whitney,,,TX,Hill County,America/Chicago,254,NA,US,31.94,-97.32,8240
+76693,STANDARD,0,Wortham,,Currie,TX,Freestone County,America/Chicago,"903,254",NA,US,31.79,-96.46,1540
+76701,STANDARD,0,Waco,,,TX,McLennan County,America/Chicago,254,NA,US,31.55,-97.14,1150
+76704,STANDARD,0,Waco,Bellmead,,TX,McLennan County,America/Chicago,254,NA,US,31.58,-97.13,5550
+76705,STANDARD,0,Waco,"Bellmead, Lacy Lakeview","Gholson, Hallsburg, Northcrest",TX,McLennan County,America/Chicago,254,NA,US,31.62,-97.1,25160
+76706,STANDARD,0,Waco,Robinson,,TX,McLennan County,America/Chicago,254,NA,US,31.48,-97.08,23940
+76707,STANDARD,0,Waco,,,TX,McLennan County,America/Chicago,254,NA,US,31.55,-97.16,14380
+76708,STANDARD,0,Waco,,"Bosqueville, Rock Creek",TX,McLennan County,America/Chicago,254,NA,US,31.56,-97.18,24110
+76710,STANDARD,0,Waco,,Speegleville,TX,McLennan County,America/Chicago,254,NA,US,31.54,-97.2,20930
+76711,STANDARD,0,Waco,Beverly Hills,,TX,McLennan County,America/Chicago,254,NA,US,31.51,-97.15,8250
+76712,STANDARD,0,Woodway,Waco,,TX,McLennan County,America/Chicago,254,NA,US,31.49,-97.23,23860
+76798,STANDARD,0,Waco,,,TX,McLennan County,America/Chicago,254,NA,US,31.55,-97.12,94
+76801,STANDARD,0,Brownwood,,"Grosvenor, Indian Creek, Lake Brownwood, Lake Shore, Shamrock Shores, Thrifty",TX,Brown County,America/Chicago,325,NA,US,31.72,-98.97,20090
+76802,STANDARD,0,Early,Brownwood,,TX,Brown County,America/Chicago,325,NA,US,31.74,-98.94,4360
+76820,STANDARD,0,Art,,,TX,Mason County,America/Chicago,325,NA,US,30.74,-99.1,99
+76821,STANDARD,0,Ballinger,,"Bethel, Blanton, Pony",TX,Runnels County,America/Chicago,325,NA,US,31.74,-99.95,4260
+76823,STANDARD,0,Bangs,,,TX,Brown County,America/Chicago,325,NA,US,31.71,-99.13,2550
+76825,STANDARD,0,Brady,Fife,"Calf Creek, Katemcy",TX,McCulloch County,America/Chicago,325,NA,US,31.13,-99.37,6060
+76827,STANDARD,0,Brookesmith,,,TX,Brown County,America/Chicago,325,NA,US,31.55,-99.11,330
+76828,STANDARD,0,Burkett,,,TX,Coleman County,America/Chicago,325,NA,US,31.99,-99.22,154
+76831,STANDARD,0,Castell,,,TX,Llano County,America/Chicago,325,NA,US,30.65,-98.92,76
+76832,STANDARD,0,Cherokee,,,TX,San Saba County,America/Chicago,325,NA,US,30.98,-98.7,550
+76834,STANDARD,0,Coleman,,"Echo, Fisk, Mozelle, Silver Valley",TX,Coleman County,America/Chicago,325,NA,US,31.83,-99.42,4390
+76836,STANDARD,0,Doole,,,TX,McCulloch County,America/Chicago,325,NA,US,31.44,-99.55,45
+76837,STANDARD,0,Eden,,,TX,Concho County,America/Chicago,325,NA,US,31.21,-99.84,1180
+76841,STANDARD,0,Fort Mc Kavett,Fort Mckavett,,TX,Menard County,America/Chicago,325,NA,US,30.9,-100.11,107
+76842,STANDARD,0,Fredonia,,,TX,Mason County,America/Chicago,325,NA,US,30.93,-99.11,146
+76844,STANDARD,0,Goldthwaite,,Caradan,TX,Mills County,America/Chicago,325,NA,US,31.45,-98.57,2880
+76845,STANDARD,0,Gouldbusk,,,TX,Coleman County,America/Chicago,325,NA,US,31.55,-99.47,130
+76848,STANDARD,0,Hext,,,TX,Menard County,America/Chicago,325,NA,US,30.86,-99.52,61
+76849,STANDARD,0,Junction,,Segovia,TX,Kimble County,America/Chicago,325,NA,US,30.48,-99.77,3180
+76852,STANDARD,0,Lohn,Pear Valley,Waldrip,TX,McCulloch County,America/Chicago,325,NA,US,31.32,-99.4,190
+76853,STANDARD,0,Lometa,,Scallorn,TX,Lampasas County,America/Chicago,"325,512",NA,US,31.21,-98.39,1310
+76854,STANDARD,0,London,,,TX,Kimble County,America/Chicago,325,NA,US,30.67,-99.57,240
+76856,STANDARD,0,Mason,,Streeter,TX,Mason County,America/Chicago,325,NA,US,30.74,-99.23,3270
+76857,STANDARD,0,May,,,TX,Brown County,America/Chicago,254,NA,US,31.97,-98.91,1380
+76858,STANDARD,0,Melvin,,,TX,McCulloch County,America/Chicago,325,NA,US,31.19,-99.58,200
+76859,STANDARD,0,Menard,,,TX,Menard County,America/Chicago,325,NA,US,30.91,-99.78,1560
+76861,STANDARD,0,Miles,,,TX,Runnels County,America/Chicago,325,NA,US,31.6,-100.18,1970
+76862,STANDARD,0,Millersview,,,TX,Concho County,America/Chicago,325,NA,US,31.4,-99.75,137
+76864,STANDARD,0,Mullin,,,TX,Mills County,America/Chicago,325,NA,US,31.55,-98.66,590
+76865,STANDARD,0,Norton,,,TX,Runnels County,America/Chicago,325,NA,US,31.87,-100.12,122
+76866,STANDARD,0,Paint Rock,,,TX,Concho County,America/Chicago,325,NA,US,31.5,-99.92,480
+76869,STANDARD,0,Pontotoc,,,TX,Mason County,America/Chicago,325,NA,US,30.9,-98.97,134
+76870,STANDARD,0,Priddy,,,TX,Mills County,America/Chicago,325,NA,US,31.63,-98.55,210
+76871,STANDARD,0,Richland Springs,Richland Spgs,,TX,San Saba County,America/Chicago,325,NA,US,31.27,-98.94,580
+76872,STANDARD,0,Rochelle,,,TX,McCulloch County,America/Chicago,325,NA,US,31.22,-99.21,550
+76873,STANDARD,0,Rockwood,,,TX,Coleman County,America/Chicago,325,NA,US,31.5,-99.37,38
+76874,STANDARD,0,Roosevelt,,,TX,Kimble County,America/Chicago,325,NA,US,30.49,-100.05,64
+76875,STANDARD,0,Rowena,,,TX,Runnels County,America/Chicago,325,NA,US,31.64,-100.04,540
+76877,STANDARD,0,San Saba,,"Algerita, Harkeyville",TX,San Saba County,America/Chicago,325,NA,US,31.19,-98.72,3520
+76878,STANDARD,0,Santa Anna,Whon,,TX,Coleman County,America/Chicago,325,NA,US,31.73,-99.32,1370
+76882,STANDARD,0,Talpa,,,TX,Coleman County,America/Chicago,325,NA,US,31.77,-99.7,210
+76883,STANDARD,0,Telegraph,,,TX,Kimble County,America/Chicago,,NA,US,30.33,-99.98,18
+76884,STANDARD,0,Valera,,,TX,Coleman County,America/Chicago,325,NA,US,31.75,-99.54,167
+76885,STANDARD,0,Valley Spring,,,TX,Llano County,America/Chicago,325,NA,US,30.86,-98.86,152
+76887,STANDARD,0,Voca,,,TX,McCulloch County,America/Chicago,325,NA,US,31.01,-99.18,97
+76888,STANDARD,0,Voss,Leaday,Valera,TX,Coleman County,America/Chicago,325,NA,US,31.62,-99.56,83
+76890,STANDARD,0,Zephyr,,,TX,Brown County,America/Chicago,325,NA,US,31.67,-98.79,790
+76901,STANDARD,0,San Angelo,Grape Creek,,TX,Tom Green County,America/Chicago,325,NA,US,31.61,-100.55,25810
+76903,STANDARD,0,San Angelo,,,TX,Tom Green County,America/Chicago,325,NA,US,31.44,-100.45,27210
+76904,STANDARD,0,San Angelo,,,TX,Tom Green County,America/Chicago,325,NA,US,31.28,-100.41,29370
+76905,STANDARD,0,San Angelo,,,TX,Tom Green County,America/Chicago,325,NA,US,31.51,-100.32,11100
+76908,STANDARD,0,Goodfellow Afb,"Goodfelow Afb, San Angelo",,TX,Tom Green County,America/Chicago,325,NA,US,31.43,-100.4,795
+76930,STANDARD,0,Barnhart,,,TX,Irion County,America/Chicago,325,NA,US,31.12,-101.17,133
+76932,STANDARD,0,Big Lake,"Best, Texon",,TX,Reagan County,America/Chicago,325,NA,US,31.19,-101.45,3700
+76933,STANDARD,0,Bronte,,,TX,Coke County,America/Chicago,325,NA,US,31.88,-100.29,1170
+76934,STANDARD,0,Carlsbad,,,TX,Tom Green County,America/Chicago,325,NA,US,31.6,-100.67,870
+76935,STANDARD,0,Christoval,,,TX,Tom Green County,America/Chicago,325,NA,US,31.19,-100.49,1610
+76936,STANDARD,0,Eldorado,Eldorado Afs,,TX,Schleicher County,America/Chicago,325,NA,US,30.86,-100.59,2490
+76937,STANDARD,0,Eola,,,TX,Tom Green County,America/Chicago,325,NA,US,31.39,-100.15,240
+76940,STANDARD,0,Mereta,,,TX,Tom Green County,America/Chicago,325,NA,US,31.45,-100.14,220
+76941,STANDARD,0,Mertzon,,Sherwood,TX,Irion County,America/Chicago,325,NA,US,31.26,-100.82,1260
+76943,STANDARD,0,Ozona,,,TX,Crockett County,America/Chicago,"325,432",NA,US,30.7,-101.2,3520
+76945,STANDARD,0,Robert Lee,Silver,,TX,Coke County,America/Chicago,325,NA,US,31.89,-100.48,1470
+76949,STANDARD,0,Silver,,,TX,Coke County,America/Chicago,325,NA,US,32.07,-100.68,0
+76950,STANDARD,0,Sonora,,,TX,Sutton County,America/Chicago,325,NA,US,30.57,-100.64,3780
+76951,STANDARD,0,Sterling City,,,TX,Sterling County,America/Chicago,325,NA,US,31.83,-100.98,1250
+76955,STANDARD,0,Vancourt,,,TX,Tom Green County,America/Chicago,325,NA,US,31.34,-100.17,132
+76957,STANDARD,0,Wall,,,TX,Tom Green County,America/Chicago,325,NA,US,31.37,-100.31,440
+77002,STANDARD,0,Houston,Clutch City,,TX,Harris County,America/Chicago,"281,346,713,832",NA,US,29.76,-95.37,5850
+77003,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.75,-95.35,8760
+77004,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.72,-95.36,21460
+77005,STANDARD,0,Houston,"W Univ Pl, West University Place",Southside Place,TX,Harris County,America/Chicago,"713,832,281",NA,US,29.72,-95.42,23920
+77006,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"713,832",NA,US,29.74,-95.39,17710
+77007,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"713,832",NA,US,29.77,-95.41,32250
+77008,STANDARD,0,Houston,,"Heights, Houston Heights",TX,Harris County,America/Chicago,"713,832",NA,US,29.8,-95.42,29530
+77009,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"713,832",NA,US,29.8,-95.37,32610
+77010,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,346,713,832",NA,US,29.75,-95.36,730
+77011,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.74,-95.31,16280
+77012,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.72,-95.27,17870
+77013,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.79,-95.23,15910
+77014,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,346,832",NA,US,29.98,-95.46,30110
+77015,STANDARD,0,Houston,,"Cloverleaf, Greens Bayou",TX,Harris County,America/Chicago,"281,832,713",NA,US,29.76,-95.17,53940
+77016,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713",NA,US,29.86,-95.3,26400
+77017,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"713,832",NA,US,29.69,-95.25,30460
+77018,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.83,-95.43,24600
+77019,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"713,832",NA,US,29.76,-95.38,18600
+77020,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.77,-95.31,22730
+77021,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.7,-95.36,22520
+77022,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.83,-95.38,25150
+77023,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.72,-95.32,24460
+77024,STANDARD,0,Houston,"Piney Point, Piney Point Village","Bunker Hill Village, Hedwig Village, Hunters Creek Village, Memorial Park, Spring Valley",TX,Harris County,America/Chicago,"281,713,832",NA,US,29.77,-95.51,35290
+77025,STANDARD,0,Houston,,"Astrodome, Astroworld",TX,Harris County,America/Chicago,"281,832,713",NA,US,29.69,-95.43,23280
+77026,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.8,-95.33,20590
+77027,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.74,-95.45,13480
+77028,STANDARD,0,Houston,,Sheldon,TX,Harris County,America/Chicago,713,NA,US,29.83,-95.29,16390
+77029,STANDARD,0,Houston,Jacinto City,,TX,Harris County,America/Chicago,713,NA,US,29.76,-95.26,17060
+77030,STANDARD,0,Houston,V A Hospital,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.71,-95.4,9250
+77031,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.65,-95.55,14350
+77032,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.99,-95.35,13300
+77033,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.67,-95.34,26460
+77034,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.62,-95.19,35100
+77035,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.65,-95.48,32110
+77036,STANDARD,0,Houston,,Sharpstown,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.7,-95.53,59100
+77037,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,281,NA,US,29.89,-95.39,18820
+77038,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"713,832,281",NA,US,29.92,-95.44,27980
+77039,STANDARD,0,Houston,,Aldine,TX,Harris County,America/Chicago,"713,832,281",NA,US,29.91,-95.34,27510
+77040,STANDARD,0,Houston,"Jersey Village, Jersey Vlg","Bammel, Kohrville, Satsuma",TX,Harris County,America/Chicago,"713,281,832",NA,US,29.87,-95.53,46440
+77041,STANDARD,0,Houston,"Jersey Village, Jersey Vlg",,TX,Harris County,America/Chicago,713,NA,US,29.86,-95.58,36530
+77042,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.74,-95.56,36530
+77043,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.81,-95.58,27200
+77044,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.91,-95.18,41010
+77045,STANDARD,0,Houston,,Trammells,TX,Harris County,America/Chicago,713,NA,US,29.64,-95.43,30570
+77046,STANDARD,0,Houston,,Greenway Plaza,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.73,-95.43,2180
+77047,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.61,-95.39,26180
+77048,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.62,-95.32,15130
+77049,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.83,-95.15,33210
+77050,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,281,NA,US,29.9,-95.27,4650
+77051,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.66,-95.38,13660
+77053,STANDARD,0,Houston,,,TX,Fort Bend County,America/Chicago,"832,713,281",NA,US,29.58,-95.46,29170
+77054,STANDARD,0,Houston,Gridiron,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.68,-95.4,15410
+77055,STANDARD,0,Houston,,Hilshire Village,TX,Harris County,America/Chicago,"713,832",NA,US,29.8,-95.49,38940
+77056,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"713,832,281",NA,US,29.75,-95.47,19690
+77057,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.74,-95.49,33600
+77058,STANDARD,0,Houston,,"Clear Lake City, Lyndon B Johnson Space Cen, Nassau Bay",TX,Harris County,America/Chicago,"713,281,832",NA,US,29.56,-95.1,14990
+77059,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.61,-95.12,17070
+77060,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"713,281,832",NA,US,29.93,-95.39,37280
+77061,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.65,-95.28,21120
+77062,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.57,-95.13,24480
+77063,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.74,-95.52,29830
+77064,STANDARD,0,Houston,"Jersey Village, Jersey Vlg",,TX,Harris County,America/Chicago,"281,832",NA,US,29.92,-95.54,46270
+77065,STANDARD,0,Houston,"Jersey Village, Jersey Vlg",,TX,Harris County,America/Chicago,"281,832",NA,US,29.93,-95.6,33840
+77066,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,346,832",NA,US,29.96,-95.5,32420
+77067,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"832,713,281",NA,US,29.95,-95.45,29160
+77068,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,281,NA,US,30.01,-95.49,10190
+77069,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,346,832",NA,US,29.99,-95.53,16180
+77070,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.98,-95.57,46490
+77071,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.65,-95.52,24900
+77072,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.7,-95.58,53090
+77073,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,832,713",NA,US,30,-95.4,41290
+77074,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.69,-95.52,33270
+77075,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.62,-95.27,38070
+77076,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.86,-95.38,30710
+77077,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.75,-95.62,51970
+77078,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,281,NA,US,29.85,-95.25,14000
+77079,STANDARD,0,Houston,,Addicks,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.78,-95.6,31780
+77080,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"713,281,832",NA,US,29.82,-95.52,41490
+77081,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.71,-95.48,41300
+77082,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.72,-95.64,48730
+77083,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.69,-95.65,69960
+77084,STANDARD,0,Houston,,Addicks Barker,TX,Harris County,America/Chicago,"281,346,832",NA,US,29.83,-95.66,98020
+77085,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713",NA,US,29.62,-95.49,16960
+77086,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.92,-95.49,27510
+77087,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.69,-95.3,34500
+77088,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,281,NA,US,29.88,-95.45,51110
+77089,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.59,-95.23,49880
+77090,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,832,NA,US,30.01,-95.44,34400
+77091,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.85,-95.44,23410
+77092,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,832,713",NA,US,29.83,-95.47,31450
+77093,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,713",NA,US,29.86,-95.34,44880
+77094,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.77,-95.68,10390
+77095,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,346,832",NA,US,29.91,-95.65,67710
+77096,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.68,-95.48,30820
+77097,STANDARD,1,Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.76,-95.36,0
+77098,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"713,832",NA,US,29.73,-95.42,12640
+77099,STANDARD,0,Houston,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.67,-95.59,44690
+77201,STANDARD,0,Houston,,U S P S Official,TX,Harris County,America/Chicago,"281,346,713,832",NA,US,29.77,-95.36,0
+77301,STANDARD,0,Conroe,,"Beach, Camp Strake, Lakeland, Tamina",TX,Montgomery County,America/Chicago,936,NA,US,30.32,-95.47,28280
+77302,STANDARD,0,Conroe,"Grangerland, Woodloch",,TX,Montgomery County,America/Chicago,"281,832,936",NA,US,30.22,-95.34,17330
+77303,STANDARD,0,Conroe,Cut And Shoot,,TX,Montgomery County,America/Chicago,936,NA,US,30.38,-95.38,16690
+77304,STANDARD,0,Conroe,"Panorama Village, Panorama Vlg",,TX,Montgomery County,America/Chicago,936,NA,US,30.32,-95.51,24800
+77306,STANDARD,0,Conroe,Cut And Shoot,,TX,Montgomery County,America/Chicago,936,NA,US,30.29,-95.31,11450
+77315,STANDARD,0,North Houston,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.95,-95.34,0
+77316,STANDARD,0,Montgomery,,,TX,Montgomery County,America/Chicago,936,NA,US,30.31,-95.69,22220
+77318,STANDARD,0,Willis,,Panorama Village,TX,Montgomery County,America/Chicago,936,NA,US,30.44,-95.53,14080
+77320,STANDARD,0,Huntsville,,,TX,Walker County,America/Chicago,936,NA,US,30.8,-95.55,19390
+77327,STANDARD,0,Cleveland,,"Clark, Evergreen, Everitt, Midline, North Cleveland, Plum Grove, Rayburn, Security, Tarkington Prairie",TX,Liberty County,America/Chicago,"281,832",NA,US,30.34,-95.07,18130
+77328,STANDARD,0,Cleveland,,,TX,San Jacinto County,America/Chicago,"281,832",NA,US,30.39,-95.19,14750
+77331,STANDARD,0,Coldspring,,"Camilla, Stephen Creek, Willow Springs",TX,San Jacinto County,America/Chicago,936,NA,US,30.59,-95.12,5430
+77335,STANDARD,0,Goodrich,,,TX,Polk County,America/Chicago,936,NA,US,30.6,-94.94,1860
+77336,STANDARD,0,Huffman,,,TX,Harris County,America/Chicago,"281,346,713,832",NA,US,30.06,-95.09,13270
+77338,STANDARD,0,Humble,,Bordersville,TX,Harris County,America/Chicago,"281,832",NA,US,29.99,-95.26,37110
+77339,STANDARD,0,Kingwood,Humble,,TX,Harris County,America/Chicago,"832,281",NA,US,30.05,-95.22,38370
+77340,STANDARD,0,Huntsville,,"Crabbs Prairie, Phelps",TX,Walker County,America/Chicago,936,NA,US,30.71,-95.54,18460
+77345,STANDARD,0,Kingwood,Humble,,TX,Harris County,America/Chicago,281,NA,US,30.05,-95.16,27570
+77346,STANDARD,0,Humble,"Atascocita, Kingwood",,TX,Harris County,America/Chicago,281,NA,US,29.99,-95.18,59990
+77351,STANDARD,0,Livingston,Segno,Ala Coushatta Ind Res,TX,Polk County,America/Chicago,936,NA,US,30.7,-94.93,23180
+77354,STANDARD,0,Magnolia,"Decker Pr, Decker Prairie, The Woodlands",Spring,TX,Montgomery County,America/Chicago,713,NA,US,30.21,-95.74,34830
+77355,STANDARD,0,Magnolia,"Decker Pr, Decker Prairie, Stagecoach",,TX,Montgomery County,America/Chicago,936,NA,US,30.16,-95.75,25740
+77356,STANDARD,0,Montgomery,,,TX,Montgomery County,America/Chicago,936,NA,US,30.39,-95.69,27190
+77357,STANDARD,0,New Caney,Roman Forest,Woodbranch,TX,Montgomery County,America/Chicago,,NA,US,30.15,-95.18,22740
+77358,STANDARD,0,New Waverly,,,TX,Walker County,America/Chicago,936,NA,US,30.53,-95.48,4510
+77359,STANDARD,0,Oakhurst,,,TX,San Jacinto County,America/Chicago,936,NA,US,30.74,-95.3,600
+77360,STANDARD,0,Onalaska,,,TX,Polk County,America/Chicago,936,NA,US,30.8,-95.1,4220
+77362,STANDARD,0,Pinehurst,,,TX,Montgomery County,America/Chicago,"281,832",NA,US,30.16,-95.67,5150
+77363,STANDARD,0,Plantersville,Todd Mission,,TX,Grimes County,America/Chicago,936,NA,US,30.3,-95.84,2990
+77364,STANDARD,0,Pointblank,,,TX,San Jacinto County,America/Chicago,936,NA,US,30.76,-95.25,1850
+77365,STANDARD,0,Porter,,"Dogwood Acres, Sorters, Timberlane Acres, Woody Acres",TX,Montgomery County,America/Chicago,"281,832",NA,US,30.1,-95.29,33590
+77371,STANDARD,0,Shepherd,,,TX,San Jacinto County,America/Chicago,"832,936",NA,US,30.49,-95,6570
+77372,STANDARD,0,Splendora,"Patton Village, Patton Vlg",,TX,Montgomery County,America/Chicago,"281,832",NA,US,30.23,-95.16,11200
+77373,STANDARD,0,Spring,,Rayford,TX,Harris County,America/Chicago,"281,832,713",NA,US,30.06,-95.38,54780
+77375,STANDARD,0,Tomball,The Woodlands,Rose Hill,TX,Harris County,America/Chicago,"281,832",NA,US,30.09,-95.61,48470
+77377,STANDARD,0,Tomball,,,TX,Harris County,America/Chicago,832,NA,US,30.06,-95.68,36100
+77378,STANDARD,0,Willis,,,TX,Montgomery County,America/Chicago,936,NA,US,30.42,-95.47,15690
+77379,STANDARD,0,Spring,Klein,,TX,Harris County,America/Chicago,"832,281",NA,US,30.04,-95.53,75890
+77380,STANDARD,0,Spring,"Shenandoah, The Woodlands",,TX,Montgomery County,America/Chicago,"281,713,832",NA,US,30.14,-95.47,23210
+77381,STANDARD,0,Spring,"Shenandoah, The Woodlands",Panther Creek,TX,Montgomery County,America/Chicago,"281,713,832",NA,US,30.18,-95.5,33190
+77382,STANDARD,0,Spring,The Woodlands,Panther Creek,TX,Montgomery County,America/Chicago,"281,832",NA,US,30.19,-95.55,35530
+77384,STANDARD,0,Conroe,"Shenandoah, The Woodlands",,TX,Montgomery County,America/Chicago,936,NA,US,30.23,-95.5,16450
+77385,STANDARD,0,Conroe,"Oak Ridge N, Oak Ridge North, Shenandoah, The Woodlands",,TX,Montgomery County,America/Chicago,"832,936,281",NA,US,30.19,-95.42,22630
+77386,STANDARD,0,Spring,"Oak Ridge N, Oak Ridge North, The Woodlands",,TX,Montgomery County,America/Chicago,"713,281,832",NA,US,30.1,-95.36,49890
+77388,STANDARD,0,Spring,,,TX,Harris County,America/Chicago,"281,832,713",NA,US,30.06,-95.47,44360
+77389,STANDARD,0,Spring,"Klein, The Woodlands",,TX,Harris County,America/Chicago,713,NA,US,30.12,-95.52,32500
+77396,STANDARD,0,Humble,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.94,-95.26,48240
+77401,STANDARD,0,Bellaire,,,TX,Harris County,America/Chicago,713,NA,US,29.7,-95.46,17600
+77406,STANDARD,0,Richmond,,,TX,Fort Bend County,America/Chicago,832,NA,US,29.65,-95.79,41370
+77407,STANDARD,0,Richmond,,,TX,Fort Bend County,America/Chicago,832,NA,US,29.68,-95.7,49440
+77414,STANDARD,0,Bay City,"Clemville, Sargent","Buckeye, Cedar Lake",TX,Matagorda County,America/Chicago,979,NA,US,28.97,-95.96,19870
+77417,STANDARD,0,Beasley,,,TX,Fort Bend County,America/Chicago,"281,832,979",NA,US,29.49,-95.91,1870
+77418,STANDARD,0,Bellville,,"Bellview, Bellvue, Buckhorn, Burleigh, Cochran, Nelsonville, Raccoon Bend",TX,Austin County,America/Chicago,979,NA,US,29.94,-96.25,9000
+77420,STANDARD,0,Boling,,Iago,TX,Wharton County,America/Chicago,979,NA,US,29.23,-95.98,2180
+77422,STANDARD,0,Brazoria,,"Old Brazoria, Wild Peach Village",TX,Brazoria County,America/Chicago,979,NA,US,29.04,-95.56,11860
+77423,STANDARD,0,Brookshire,Pattison,Sunny Side,TX,Waller County,America/Chicago,"832,281",NA,US,29.78,-95.95,11330
+77426,STANDARD,0,Chappell Hill,,,TX,Washington County,America/Chicago,979,NA,US,30.12,-96.26,1790
+77429,STANDARD,0,Cypress,,,TX,Harris County,America/Chicago,"281,832",NA,US,30,-95.67,81460
+77430,STANDARD,0,Damon,,,TX,Brazoria County,America/Chicago,979,NA,US,29.27,-95.72,2120
+77432,STANDARD,0,Danevang,,,TX,Wharton County,America/Chicago,"361,979",NA,US,29.08,-96.17,455
+77433,STANDARD,0,Cypress,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.96,-95.69,80530
+77434,STANDARD,0,Eagle Lake,,Elm Grove,TX,Colorado County,America/Chicago,979,NA,US,29.58,-96.32,4320
+77435,STANDARD,0,East Bernard,,"Chesterville, Tavener",TX,Wharton County,America/Chicago,979,NA,US,29.52,-96.06,4920
+77437,STANDARD,0,El Campo,,"Hillje, Jones Creek, New Taiton, Sandy Corner, Taiton, West End, West Payne",TX,Wharton County,America/Chicago,979,NA,US,29.19,-96.27,16590
+77441,STANDARD,0,Fulshear,Weston Lakes,,TX,Fort Bend County,America/Chicago,"281,832",NA,US,29.67,-95.92,15080
+77442,STANDARD,0,Garwood,,,TX,Colorado County,America/Chicago,979,NA,US,29.45,-96.51,870
+77444,STANDARD,0,Guy,,,TX,Fort Bend County,America/Chicago,979,NA,US,29.33,-95.76,750
+77445,STANDARD,0,Hempstead,"Pine Island, Prairie View",Monaville,TX,Waller County,America/Chicago,"936,979",NA,US,30.09,-96.08,11550
+77447,STANDARD,0,Hockley,,Hockley Mine,TX,Harris County,America/Chicago,936,NA,US,30.04,-95.81,14950
+77448,STANDARD,0,Hungerford,,,TX,Wharton County,America/Chicago,979,NA,US,29.42,-96.09,757
+77449,STANDARD,0,Katy,Park Row,,TX,Harris County,America/Chicago,"281,346,832",NA,US,29.84,-95.73,109280
+77450,STANDARD,0,Katy,Park Row,,TX,Harris County,America/Chicago,"281,832",NA,US,29.75,-95.74,68110
+77455,STANDARD,0,Louise,,Provident City,TX,Wharton County,America/Chicago,"361,979",NA,US,29.18,-96.42,1820
+77459,STANDARD,0,Missouri City,"Sienna Plant, Sienna Plantation",,TX,Fort Bend County,America/Chicago,"281,832",NA,US,29.57,-95.53,67720
+77461,STANDARD,0,Needville,,"Fairchilds, Long Point",TX,Fort Bend County,America/Chicago,979,NA,US,29.39,-95.83,10410
+77465,STANDARD,0,Palacios,,,TX,Matagorda County,America/Chicago,361,NA,US,28.71,-96.23,6650
+77468,STANDARD,0,Pledger,,,TX,Matagorda County,America/Chicago,979,NA,US,29.13,-95.94,200
+77469,STANDARD,0,Richmond,"Booth, Clodine, Rosenberg","Crabb, Pleak",TX,Fort Bend County,America/Chicago,"281,832",NA,US,29.58,-95.76,43300
+77470,STANDARD,0,Rock Island,,,TX,Colorado County,America/Chicago,979,NA,US,29.54,-96.55,301
+77471,STANDARD,0,Rosenberg,,,TX,Fort Bend County,America/Chicago,"281,832",NA,US,29.54,-95.79,37300
+77474,STANDARD,0,Sealy,,"Frydek, Millheim, Peters, San Felipe",TX,Austin County,America/Chicago,979,NA,US,29.77,-96.15,13240
+77477,STANDARD,0,Stafford,Meadows Place,,TX,Fort Bend County,America/Chicago,"281,832",NA,US,29.62,-95.56,31450
+77478,STANDARD,0,Sugar Land,,,TX,Fort Bend County,America/Chicago,"281,346,713,832",NA,US,29.61,-95.61,24480
+77479,STANDARD,0,Sugar Land,,,TX,Fort Bend County,America/Chicago,"281,713,832,346",NA,US,29.57,-95.64,85720
+77480,STANDARD,0,Sweeny,,"Ashwood, Sugar Valley",TX,Brazoria County,America/Chicago,979,NA,US,29.04,-95.69,7030
+77482,STANDARD,0,Van Vleck,,,TX,Matagorda County,America/Chicago,979,NA,US,29.03,-95.88,2230
+77483,STANDARD,0,Wadsworth,,,TX,Matagorda County,America/Chicago,979,NA,US,28.83,-95.93,424
+77484,STANDARD,0,Waller,Prairie View,,TX,Waller County,America/Chicago,936,NA,US,30.05,-95.92,11510
+77485,STANDARD,0,Wallis,,,TX,Austin County,America/Chicago,"281,832,979",NA,US,29.63,-96.06,2950
+77486,STANDARD,0,West Columbia,,East Columbia,TX,Brazoria County,America/Chicago,979,NA,US,29.14,-95.64,6500
+77488,STANDARD,0,Wharton,,"Burr, Crescent, Dinsmore, Mackay, Magnet, Spanish Camp",TX,Wharton County,America/Chicago,979,NA,US,29.31,-96.09,12450
+77489,STANDARD,0,Missouri City,,,TX,Fort Bend County,America/Chicago,"281,832",NA,US,29.6,-95.52,35270
+77493,STANDARD,0,Katy,Park Row,,TX,Harris County,America/Chicago,"832,281",NA,US,29.79,-95.82,30090
+77494,STANDARD,0,Katy,Park Row,,TX,Fort Bend County,America/Chicago,"281,832",NA,US,29.74,-95.83,104450
+77498,STANDARD,0,Sugar Land,,,TX,Fort Bend County,America/Chicago,"346,832",NA,US,29.63,-95.65,47470
+77502,STANDARD,0,Pasadena,,,TX,Harris County,America/Chicago,713,NA,US,29.68,-95.2,36960
+77503,STANDARD,0,Pasadena,,Golden Acres,TX,Harris County,America/Chicago,713,NA,US,29.7,-95.16,22990
+77504,STANDARD,0,Pasadena,,,TX,Harris County,America/Chicago,713,NA,US,29.65,-95.19,21030
+77505,STANDARD,0,Pasadena,,,TX,Harris County,America/Chicago,713,NA,US,29.66,-95.15,21730
+77506,STANDARD,0,Pasadena,,,TX,Harris County,America/Chicago,713,NA,US,29.71,-95.2,33980
+77507,STANDARD,0,Pasadena,,,TX,Harris County,America/Chicago,281,NA,US,29.62,-95.06,217
+77510,STANDARD,0,Santa Fe,Alta Loma,,TX,Galveston County,America/Chicago,409,NA,US,29.38,-95.09,13170
+77511,STANDARD,0,Alvin,,,TX,Brazoria County,America/Chicago,"281,832",NA,US,29.43,-95.24,43690
+77514,STANDARD,0,Anahuac,Monroe City,,TX,Chambers County,America/Chicago,409,NA,US,29.76,-94.67,4680
+77515,STANDARD,0,Angleton,"Holiday Lakes, Richwood","Anchor, Baileys Prairie, Bonney, Clute, Mcbeth",TX,Brazoria County,America/Chicago,979,NA,US,29.16,-95.42,26250
+77517,STANDARD,0,Santa Fe,Arcadia,,TX,Galveston County,America/Chicago,409,NA,US,29.36,-95.13,5500
+77518,STANDARD,0,Bacliff,,,TX,Galveston County,America/Chicago,"409,281",NA,US,29.5,-94.99,9060
+77519,STANDARD,0,Batson,,,TX,Hardin County,America/Chicago,936,NA,US,30.24,-94.6,1030
+77520,STANDARD,0,Baytown,"Beach City, Cove, Mont Belvieu, Old River-winfree, Old Rvr-wnfre","Bayway, Cedar Point, Garth, Lakewood, Lynchburg, Mcnair, Stewart Heights",TX,Harris County,America/Chicago,"281,832",NA,US,29.74,-94.96,36510
+77521,STANDARD,0,Baytown,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.8,-94.97,54410
+77523,STANDARD,0,Baytown,"Beach City, Cove, Mont Belvieu, Old River-winfree, Old Rvr-wnfre",,TX,Chambers County,America/Chicago,832,NA,US,29.76,-94.87,21420
+77530,STANDARD,0,Channelview,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.78,-95.11,31680
+77531,STANDARD,0,Clute,Richwood,,TX,Brazoria County,America/Chicago,979,NA,US,29.02,-95.39,14350
+77532,STANDARD,0,Crosby,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.91,-95.05,27850
+77534,STANDARD,0,Danbury,,,TX,Brazoria County,America/Chicago,979,NA,US,29.22,-95.34,3040
+77535,STANDARD,0,Dayton,"Dayton Lakes, Mont Belvieu, Old River-winfree, Old Rvr-wnfre","Eastgate, Kenefick",TX,Liberty County,America/Chicago,"832,936",NA,US,30.05,-94.89,28170
+77536,STANDARD,0,Deer Park,,,TX,Harris County,America/Chicago,"281,713,832",NA,US,29.69,-95.11,32130
+77538,STANDARD,0,Devers,,,TX,Liberty County,America/Chicago,"409,936",NA,US,30.02,-94.58,810
+77539,STANDARD,0,Dickinson,San Leon,,TX,Galveston County,America/Chicago,"281,832",NA,US,29.45,-95.06,39890
+77541,STANDARD,0,Freeport,"Jones Creek, Oyster Creek, Quintana, Surfside Bch, Surfside Beach",,TX,Brazoria County,America/Chicago,979,NA,US,28.95,-95.36,15070
+77545,STANDARD,0,Fresno,,,TX,Fort Bend County,America/Chicago,"281,832",NA,US,29.53,-95.45,22550
+77546,STANDARD,0,Friendswood,,,TX,Galveston County,America/Chicago,"281,832",NA,US,29.51,-95.19,50610
+77547,STANDARD,0,Galena Park,,,TX,Harris County,America/Chicago,713,NA,US,29.74,-95.23,9550
+77550,STANDARD,0,Galveston,,"Island, Jamaica Beach, Virginia Point",TX,Galveston County,America/Chicago,409,NA,US,29.3,-94.79,17810
+77551,STANDARD,0,Galveston,,,TX,Galveston County,America/Chicago,409,NA,US,29.28,-94.83,16890
+77554,STANDARD,0,Galveston,"Jamaica Beach, Tiki Island",West Galveston,TX,Galveston County,America/Chicago,409,NA,US,29.25,-94.92,6520
+77560,STANDARD,0,Hankamer,,Haukanier,TX,Chambers County,America/Chicago,409,NA,US,29.87,-94.57,1000
+77562,STANDARD,0,Highlands,,,TX,Harris County,America/Chicago,"281,832",NA,US,29.81,-95.05,10470
+77563,STANDARD,0,Hitchcock,Bayou Vista,,TX,Galveston County,America/Chicago,409,NA,US,29.31,-95.01,8310
+77564,STANDARD,0,Hull,,,TX,Liberty County,America/Chicago,936,NA,US,30.19,-94.67,1480
+77565,STANDARD,0,Kemah,"Clear Lake Shores, Clear Lk Shrs",,TX,Galveston County,America/Chicago,"281,832",NA,US,29.54,-95.03,6530
+77566,STANDARD,0,Lake Jackson,Richwood,,TX,Brazoria County,America/Chicago,979,NA,US,29.04,-95.44,28610
+77568,STANDARD,0,La Marque,,,TX,Galveston County,America/Chicago,409,NA,US,29.36,-94.99,14600
+77571,STANDARD,0,La Porte,Shoreacres,"Lomax, Morgans Point, Sylvan Beach",TX,Harris County,America/Chicago,"281,346,832",NA,US,29.66,-95.04,34370
+77573,STANDARD,0,League City,,,TX,Galveston County,America/Chicago,"281,713,832",NA,US,29.48,-95.1,81300
+77575,STANDARD,0,Liberty,Ames,"Moss Bluff, Moss Hill",TX,Liberty County,America/Chicago,936,NA,US,30.04,-94.79,13070
+77577,STANDARD,0,Liverpool,,,TX,Brazoria County,America/Chicago,"979,832",NA,US,29.29,-95.27,1230
+77578,STANDARD,0,Manvel,,,TX,Brazoria County,America/Chicago,"281,832",NA,US,29.48,-95.35,17370
+77581,STANDARD,0,Pearland,"Brookside Village, Brookside Vl",,TX,Brazoria County,America/Chicago,713,NA,US,29.55,-95.27,44430
+77583,STANDARD,0,Rosharon,Arcola,"Iowa Colony, Sandy Point",TX,Brazoria County,America/Chicago,"281,832",NA,US,29.37,-95.45,24640
+77584,STANDARD,0,Pearland,,,TX,Brazoria County,America/Chicago,713,NA,US,29.55,-95.35,80610
+77585,STANDARD,0,Saratoga,,,TX,Hardin County,America/Chicago,,NA,US,30.28,-94.52,780
+77586,STANDARD,0,Seabrook,"El Lago, Taylor Lake Village, Taylor Lk Vlg","Timber Cove, Tod",TX,Harris County,America/Chicago,"281,832",NA,US,29.56,-95.02,21330
+77587,STANDARD,0,South Houston,,,TX,Harris County,America/Chicago,713,NA,US,29.66,-95.22,15750
+77590,STANDARD,0,Texas City,,West Texas City,TX,Galveston County,America/Chicago,409,NA,US,29.4,-94.95,26250
+77591,STANDARD,0,Texas City,,West Texas City,TX,Galveston County,America/Chicago,409,NA,US,29.4,-95,12460
+77597,STANDARD,0,Wallisville,,,TX,Chambers County,America/Chicago,"281,409",NA,US,29.86,-94.69,690
+77598,STANDARD,0,Webster,,Fondren,TX,Harris County,America/Chicago,"281,832",NA,US,29.53,-95.11,19780
+77611,STANDARD,0,Bridge City,,,TX,Orange County,America/Chicago,409,NA,US,30.02,-93.85,8880
+77612,STANDARD,0,Buna,,,TX,Jasper County,America/Chicago,409,NA,US,30.44,-93.96,7670
+77616,STANDARD,0,Fred,,,TX,Tyler County,America/Chicago,409,NA,US,30.57,-94.17,1050
+77619,STANDARD,0,Groves,,Steeltown,TX,Jefferson County,America/Chicago,409,NA,US,29.94,-93.91,15430
+77622,STANDARD,0,Hamshire,,,TX,Jefferson County,America/Chicago,409,NA,US,29.86,-94.31,1580
+77623,STANDARD,0,High Island,,,TX,Galveston County,America/Chicago,409,NA,US,29.56,-94.38,335
+77624,STANDARD,0,Hillister,,,TX,Tyler County,America/Chicago,409,NA,US,30.66,-94.38,820
+77625,STANDARD,0,Kountze,,Honey Island,TX,Hardin County,America/Chicago,409,NA,US,30.37,-94.31,7830
+77627,STANDARD,0,Nederland,,,TX,Jefferson County,America/Chicago,409,NA,US,29.97,-93.99,21390
+77630,STANDARD,0,Orange,West Orange,,TX,Orange County,America/Chicago,409,NA,US,30.1,-93.75,23700
+77632,STANDARD,0,Orange,,,TX,Orange County,America/Chicago,409,NA,US,30.2,-93.8,19480
+77640,STANDARD,0,Port Arthur,Port Acres,"Griffing, Griffing Park, Lakeview, Pear Ridge, Pt Acres, Sabine, West Port Arthur",TX,Jefferson County,America/Chicago,409,NA,US,29.89,-93.92,13830
+77642,STANDARD,0,Port Arthur,,,TX,Jefferson County,America/Chicago,409,NA,US,29.96,-93.89,35660
+77651,STANDARD,0,Port Neches,,,TX,Jefferson County,America/Chicago,409,NA,US,29.97,-93.94,12450
+77655,STANDARD,0,Sabine Pass,,,TX,Jefferson County,America/Chicago,409,NA,US,29.73,-93.89,290
+77656,STANDARD,0,Silsbee,,,TX,Hardin County,America/Chicago,409,NA,US,30.34,-94.18,14810
+77657,STANDARD,0,Lumberton,"Rose Hill Acres, Rose Hl Acres",Beaumont,TX,Hardin County,America/Chicago,409,NA,US,30.26,-94.2,19680
+77659,STANDARD,0,Sour Lake,,Grayburg,TX,Hardin County,America/Chicago,"409,936",NA,US,30.13,-94.4,4720
+77660,STANDARD,0,Spurger,,,TX,Tyler County,America/Chicago,409,NA,US,30.69,-94.17,1370
+77662,STANDARD,0,Vidor,,"Lakeview, North Vidor, Pine Forest, Rose City",TX,Orange County,America/Chicago,409,NA,US,30.12,-94,22600
+77664,STANDARD,0,Warren,,,TX,Tyler County,America/Chicago,409,NA,US,30.61,-94.4,2530
+77665,STANDARD,0,Winnie,,,TX,Chambers County,America/Chicago,409,NA,US,29.81,-94.38,6510
+77701,STANDARD,0,Beaumont,,,TX,Jefferson County,America/Chicago,409,NA,US,30.07,-94.11,11870
+77702,STANDARD,0,Beaumont,,,TX,Jefferson County,America/Chicago,409,NA,US,30.09,-94.13,2430
+77703,STANDARD,0,Beaumont,,,TX,Jefferson County,America/Chicago,409,NA,US,30.14,-94.11,11710
+77705,STANDARD,0,Beaumont,"Taylor Landing, Taylor Lndg","Cheek, Fannett",TX,Jefferson County,America/Chicago,409,NA,US,29.9,-94.16,22680
+77706,STANDARD,0,Beaumont,,,TX,Jefferson County,America/Chicago,409,NA,US,30.1,-94.17,25830
+77707,STANDARD,0,Beaumont,,Lamar University,TX,Jefferson County,America/Chicago,409,NA,US,30.08,-94.14,15590
+77708,STANDARD,0,Beaumont,,,TX,Jefferson County,America/Chicago,409,NA,US,30.15,-94.16,10980
+77713,STANDARD,0,Beaumont,Bevil Oaks,,TX,Jefferson County,America/Chicago,409,NA,US,30.07,-94.25,12250
+77801,STANDARD,0,Bryan,,"Benchley, Edge, Law, Reliance, Steep Hollow, Tabor",TX,Brazos County,America/Chicago,979,NA,US,30.64,-96.36,10360
+77802,STANDARD,0,Bryan,,,TX,Brazos County,America/Chicago,979,NA,US,30.66,-96.36,20640
+77803,STANDARD,0,Bryan,,,TX,Brazos County,America/Chicago,979,NA,US,30.68,-96.39,27880
+77807,STANDARD,0,Bryan,,,TX,Brazos County,America/Chicago,979,NA,US,30.68,-96.48,8800
+77808,STANDARD,0,Bryan,Wixon Valley,,TX,Brazos County,America/Chicago,979,NA,US,30.8,-96.31,12160
+77830,STANDARD,0,Anderson,,Carlos,TX,Grimes County,America/Chicago,936,NA,US,30.55,-96.03,2490
+77831,STANDARD,0,Bedias,Singleton,,TX,Grimes County,America/Chicago,936,NA,US,30.74,-95.92,2670
+77833,STANDARD,0,Brenham,,"Gay Hill, Independence",TX,Washington County,America/Chicago,979,NA,US,30.15,-96.39,23410
+77835,STANDARD,0,Burton,,,TX,Washington County,America/Chicago,979,NA,US,30.17,-96.59,2260
+77836,STANDARD,0,Caldwell,,,TX,Burleson County,America/Chicago,979,NA,US,30.52,-96.7,10330
+77837,STANDARD,0,Calvert,,,TX,Robertson County,America/Chicago,979,NA,US,30.97,-96.67,1190
+77840,STANDARD,0,College Station,College Sta,,TX,Brazos County,America/Chicago,979,NA,US,30.6,-96.31,18610
+77845,STANDARD,0,College Station,College Sta,,TX,Brazos County,America/Chicago,979,NA,US,30.56,-96.27,51140
+77853,STANDARD,0,Dime Box,,,TX,Lee County,America/Chicago,979,NA,US,30.35,-96.81,920
+77856,STANDARD,0,Franklin,Ridge,,TX,Robertson County,America/Chicago,979,NA,US,31.02,-96.48,4130
+77859,STANDARD,0,Hearne,,Astin,TX,Robertson County,America/Chicago,979,NA,US,30.87,-96.59,6540
+77861,STANDARD,0,Iola,,,TX,Grimes County,America/Chicago,936,NA,US,30.73,-96.07,2290
+77864,STANDARD,0,Madisonville,,Connor,TX,Madison County,America/Chicago,936,NA,US,30.95,-95.9,7010
+77865,STANDARD,0,Marquez,,Vanetia,TX,Leon County,America/Chicago,903,NA,US,31.23,-96.25,1500
+77868,STANDARD,0,Navasota,,White Hall,TX,Grimes County,America/Chicago,936,NA,US,30.38,-96.08,12170
+77871,STANDARD,0,Normangee,Hilltop Lakes,,TX,Leon County,America/Chicago,936,NA,US,31.03,-96.11,3260
+77872,STANDARD,0,North Zulch,,,TX,Madison County,America/Chicago,936,NA,US,30.93,-96.08,1630
+77873,STANDARD,0,Richards,,,TX,Grimes County,America/Chicago,936,NA,US,30.54,-95.86,1050
+77879,STANDARD,0,Somerville,,,TX,Burleson County,America/Chicago,979,NA,US,30.34,-96.53,3830
+77880,STANDARD,0,Washington,,,TX,Washington County,America/Chicago,936,NA,US,30.33,-96.22,1600
+77901,STANDARD,0,Victoria,,"Cologne, Da Costa, Guadalupe, Mission Valley",TX,Victoria County,America/Chicago,361,NA,US,28.82,-96.98,35740
+77904,STANDARD,0,Victoria,,,TX,Victoria County,America/Chicago,361,NA,US,28.94,-97.02,25180
+77905,STANDARD,0,Victoria,Raisin,,TX,Victoria County,America/Chicago,361,NA,US,28.73,-97.04,13550
+77954,STANDARD,0,Cuero,,"Arneckeville, Cheapside, Concrete, Edgar, Lindenau, Stratton",TX,DeWitt County,America/Chicago,361,NA,US,29.09,-97.28,9210
+77957,STANDARD,0,Edna,,"Cordele, El Toro, Morales",TX,Jackson County,America/Chicago,361,NA,US,28.97,-96.64,7760
+77962,STANDARD,0,Ganado,,,TX,Jackson County,America/Chicago,361,NA,US,29.04,-96.51,3740
+77963,STANDARD,0,Goliad,,"Ander, Charco, Sarco, Schroeder, Weser",TX,Goliad County,America/Chicago,361,NA,US,28.66,-97.39,4890
+77964,STANDARD,0,Hallettsville,Speaks,"Breslau, Ezzell, Kinkler, Koerth, Rabbs, Vienna, Wied, Worthing",TX,Lavaca County,America/Chicago,"979,361",NA,US,29.44,-96.94,7170
+77968,STANDARD,0,Inez,,,TX,Victoria County,America/Chicago,361,NA,US,28.87,-96.79,2980
+77971,STANDARD,0,Lolita,,,TX,Jackson County,America/Chicago,361,NA,US,28.83,-96.52,910
+77974,STANDARD,0,Meyersville,,,TX,Victoria County,America/Chicago,361,NA,US,28.89,-97.31,440
+77975,STANDARD,0,Moulton,,"Novohrad, Old Moulton, Witting",TX,Lavaca County,America/Chicago,"979,361",NA,US,29.57,-97.14,1650
+77979,STANDARD,0,Port Lavaca,Long Mott,"Clarks, Green Lake, Indianola, Kamey, Magnolia Beach, Olivia, Port Alto, Weedhaven",TX,Calhoun County,America/Chicago,361,NA,US,28.61,-96.62,16260
+77983,STANDARD,0,Seadrift,,,TX,Calhoun County,America/Chicago,361,NA,US,28.41,-96.71,1790
+77984,STANDARD,0,Shiner,,"Dreyer, Glaze City, Henkhaus, Mount Olive",TX,Lavaca County,America/Chicago,361,NA,US,29.43,-97.17,3970
+77990,STANDARD,0,Tivoli,,,TX,Refugio County,America/Chicago,361,NA,US,28.43,-96.88,650
+77994,STANDARD,0,Westhoff,,,TX,DeWitt County,America/Chicago,830,NA,US,29.2,-97.46,330
+77995,STANDARD,0,Yoakum,,"Fordtran, Hope, Pearl City, Petersville, Terryville",TX,Lavaca County,America/Chicago,361,NA,US,29.29,-97.14,8720
+78002,STANDARD,0,Atascosa,,,TX,Bexar County,America/Chicago,,NA,US,29.28,-98.73,7060
+78003,STANDARD,0,Bandera,,,TX,Bandera County,America/Chicago,830,NA,US,29.72,-99.07,7860
+78004,STANDARD,0,Bergheim,,,TX,Kendall County,America/Chicago,830,NA,US,29.9,-98.56,540
+78005,STANDARD,0,Bigfoot,,,TX,Frio County,America/Chicago,830,NA,US,29.05,-98.85,670
+78006,STANDARD,0,Boerne,"Fair Oaks, Fair Oaks Ranch",,TX,Kendall County,America/Chicago,830,NA,US,29.8,-98.73,33060
+78007,STANDARD,0,Calliham,,,TX,McMullen County,America/Chicago,361,NA,US,28.46,-98.35,120
+78008,STANDARD,0,Campbellton,,Fashing,TX,Atascosa County,America/Chicago,"361,830",NA,US,28.75,-98.3,260
+78009,STANDARD,0,Castroville,,,TX,Medina County,America/Chicago,830,NA,US,29.34,-98.87,7490
+78010,STANDARD,0,Center Point,Camp Verde,,TX,Kerr County,America/Chicago,830,NA,US,29.93,-99.03,2810
+78011,STANDARD,0,Charlotte,,,TX,Atascosa County,America/Chicago,830,NA,US,28.85,-98.7,1870
+78012,STANDARD,0,Christine,,,TX,Atascosa County,America/Chicago,830,NA,US,28.78,-98.49,430
+78013,STANDARD,0,Comfort,,,TX,Kendall County,America/Chicago,830,NA,US,29.97,-98.9,5350
+78014,STANDARD,0,Cotulla,,Los Angeles,TX,La Salle County,America/Chicago,"830,956",NA,US,28.43,-99.23,4240
+78015,STANDARD,0,Boerne,"Fair Oaks, Fair Oaks Ranch",,TX,Bexar County,America/Chicago,830,NA,US,29.75,-98.65,15310
+78016,STANDARD,0,Devine,,,TX,Medina County,America/Chicago,830,NA,US,29.14,-98.9,8930
+78017,STANDARD,0,Dilley,,"Derby, Divot",TX,Frio County,America/Chicago,830,NA,US,28.66,-99.17,3580
+78021,STANDARD,0,Fowlerton,,,TX,La Salle County,America/Chicago,830,NA,US,28.45,-98.81,116
+78022,STANDARD,0,George West,,,TX,Live Oak County,America/Chicago,361,NA,US,28.33,-98.11,4410
+78023,STANDARD,0,Helotes,,Grey Forest,TX,Bexar County,America/Chicago,,NA,US,29.56,-98.69,28350
+78024,STANDARD,0,Hunt,,,TX,Kerr County,America/Chicago,830,NA,US,30.06,-99.33,1330
+78025,STANDARD,0,Ingram,,,TX,Kerr County,America/Chicago,830,NA,US,30.07,-99.23,4410
+78026,STANDARD,0,Jourdanton,,,TX,Atascosa County,America/Chicago,830,NA,US,28.91,-98.54,5460
+78027,STANDARD,0,Kendalia,,,TX,Kendall County,America/Chicago,830,NA,US,29.96,-98.51,410
+78028,STANDARD,0,Kerrville,,,TX,Kerr County,America/Chicago,830,NA,US,30.04,-99.13,32490
+78039,STANDARD,0,La Coste,,,TX,Medina County,America/Chicago,830,NA,US,29.3,-98.81,1620
+78040,STANDARD,0,Laredo,,,TX,Webb County,America/Chicago,956,NA,US,27.51,-99.5,38040
+78041,STANDARD,0,Laredo,,,TX,Webb County,America/Chicago,956,NA,US,27.55,-99.46,44810
+78043,STANDARD,0,Laredo,Rio Bravo,,TX,Webb County,America/Chicago,956,NA,US,27.53,-99.48,41070
+78045,STANDARD,0,Laredo,,,TX,Webb County,America/Chicago,956,NA,US,27.83,-99.69,64120
+78046,STANDARD,0,Laredo,El Cenizo,,TX,Webb County,America/Chicago,956,NA,US,27.37,-99.35,64240
+78052,STANDARD,0,Lytle,,,TX,Atascosa County,America/Chicago,830,NA,US,29.23,-98.79,7070
+78055,STANDARD,0,Medina,,,TX,Bandera County,America/Chicago,830,NA,US,29.8,-99.25,1360
+78056,STANDARD,0,Mico,Castroville,,TX,Medina County,America/Chicago,830,NA,US,29.53,-98.93,1860
+78057,STANDARD,0,Moore,,,TX,Frio County,America/Chicago,830,NA,US,29.05,-99.01,960
+78058,STANDARD,0,Mountain Home,,,TX,Kerr County,America/Chicago,830,NA,US,30.16,-99.36,1000
+78059,STANDARD,0,Natalia,,,TX,Medina County,America/Chicago,830,NA,US,29.19,-98.85,4760
+78060,STANDARD,0,Oakville,,Three Rivers,TX,Live Oak County,America/Chicago,361,NA,US,28.45,-98.11,49
+78061,STANDARD,0,Pearsall,,Frio Town,TX,Frio County,America/Chicago,830,NA,US,28.88,-99.09,8460
+78063,STANDARD,0,Pipe Creek,Lakehills,"Lake Hills, Medina Lake",TX,Bandera County,America/Chicago,830,NA,US,29.71,-98.93,7870
+78064,STANDARD,0,Pleasanton,,,TX,Atascosa County,America/Chicago,830,NA,US,28.96,-98.49,13390
+78065,STANDARD,0,Poteet,,,TX,Atascosa County,America/Chicago,830,NA,US,29.03,-98.57,9760
+78066,STANDARD,0,Rio Medina,,,TX,Medina County,America/Chicago,830,NA,US,29.5,-98.85,590
+78067,STANDARD,0,San Ygnacio,,,TX,Zapata County,America/Chicago,956,NA,US,27.13,-99.33,650
+78069,STANDARD,0,Somerset,,,TX,Atascosa County,America/Chicago,830,NA,US,29.19,-98.68,4880
+78070,STANDARD,0,Spring Branch,,,TX,Comal County,America/Chicago,830,NA,US,29.86,-98.4,15800
+78071,STANDARD,0,Three Rivers,,,TX,Live Oak County,America/Chicago,361,NA,US,28.46,-98.17,3110
+78072,STANDARD,0,Tilden,,,TX,McMullen County,America/Chicago,361,NA,US,28.45,-98.54,670
+78073,STANDARD,0,Von Ormy,,,TX,Bexar County,America/Chicago,,NA,US,29.25,-98.62,7610
+78075,STANDARD,0,Whitsett,,,TX,Live Oak County,America/Chicago,"361,830",NA,US,28.62,-98.37,132
+78076,STANDARD,0,Zapata,,,TX,Zapata County,America/Chicago,956,NA,US,26.89,-99.26,11070
+78101,STANDARD,0,Adkins,,,TX,Bexar County,America/Chicago,,NA,US,29.37,-98.25,7880
+78102,STANDARD,0,Beeville,,,TX,Bee County,America/Chicago,361,NA,US,28.4,-97.74,16490
+78108,STANDARD,0,Cibolo,,,TX,Guadalupe County,America/Chicago,830,NA,US,29.57,-98.23,37400
+78109,STANDARD,0,Converse,,,TX,Bexar County,America/Chicago,,NA,US,29.51,-98.31,42470
+78111,STANDARD,0,Ecleto,Gillett,,TX,Karnes County,America/Chicago,"361,830",NA,US,29.03,-97.75,0
+78112,STANDARD,0,Elmendorf,,Saspamco,TX,Bexar County,America/Chicago,,NA,US,29.25,-98.33,8060
+78113,STANDARD,0,Falls City,Mccoy,"Cestohowa, Pawelekville",TX,Karnes County,America/Chicago,830,NA,US,28.98,-98.02,2120
+78114,STANDARD,0,Floresville,,,TX,Wilson County,America/Chicago,830,NA,US,29.13,-98.15,18910
+78116,STANDARD,0,Gillett,,,TX,Karnes County,America/Chicago,830,NA,US,29.13,-97.8,300
+78117,STANDARD,0,Hobson,,,TX,Karnes County,America/Chicago,830,NA,US,28.93,-97.98,510
+78118,STANDARD,0,Karnes City,,Coy City,TX,Karnes County,America/Chicago,830,NA,US,28.88,-97.9,3940
+78119,STANDARD,0,Kenedy,,,TX,Karnes County,America/Chicago,"361,830",NA,US,28.81,-97.85,4490
+78121,STANDARD,0,La Vernia,Lavernia,,TX,Wilson County,America/Chicago,830,NA,US,29.35,-98.11,13010
+78122,STANDARD,0,Leesville,,,TX,Gonzales County,America/Chicago,830,NA,US,29.43,-97.74,300
+78123,STANDARD,0,Mc Queeney,Mcqueeney,,TX,Guadalupe County,America/Chicago,830,NA,US,29.59,-98.04,2210
+78124,STANDARD,0,Marion,Santa Clara,,TX,Guadalupe County,America/Chicago,830,NA,US,29.57,-98.14,5510
+78130,STANDARD,0,New Braunfels,Canyon Lake,Solms,TX,Comal County,America/Chicago,830,NA,US,29.7,-98.11,66520
+78132,STANDARD,0,New Braunfels,Canyon Lake,"Hunter, Sattler, Startzville",TX,Comal County,America/Chicago,830,NA,US,29.76,-98.19,26600
+78133,STANDARD,0,Canyon Lake,New Braunfels,"Sattler, Startzville",TX,Comal County,America/Chicago,830,NA,US,29.87,-98.26,15990
+78140,STANDARD,0,Nixon,,,TX,Gonzales County,America/Chicago,830,NA,US,29.26,-97.76,3290
+78141,STANDARD,0,Nordheim,,,TX,DeWitt County,America/Chicago,"830,361",NA,US,28.92,-97.61,630
+78148,STANDARD,0,Universal City,Universal Cty,"Live Oak, Randolph A F B, Randolph Afb, Randolph Air Force Base",TX,Bexar County,America/Chicago,210,NA,US,29.55,-98.3,19480
+78150,STANDARD,0,Randolph A F B,"Randolph Afb, Randolph Air, Randolph Air Force Base, Universal City, Universal Cty",,TX,Bexar County,America/Chicago,210,NA,US,29.53,-98.28,553
+78151,STANDARD,0,Runge,,,TX,Karnes County,America/Chicago,"830,361",NA,US,28.88,-97.71,1250
+78152,STANDARD,0,Saint Hedwig,,,TX,Bexar County,America/Chicago,830,NA,US,29.42,-98.21,2260
+78154,STANDARD,0,Schertz,Selma,Live Oak,TX,Guadalupe County,America/Chicago,,NA,US,29.55,-98.26,35410
+78155,STANDARD,0,Seguin,New Berlin,,TX,Guadalupe County,America/Chicago,830,NA,US,29.57,-97.96,41560
+78159,STANDARD,0,Smiley,,,TX,Gonzales County,America/Chicago,830,NA,US,29.27,-97.63,840
+78160,STANDARD,0,Stockdale,,Denhawken,TX,Wilson County,America/Chicago,830,NA,US,29.23,-97.96,3710
+78161,STANDARD,0,Sutherland Springs,Sutherlnd Spg,,TX,Wilson County,America/Chicago,830,NA,US,29.29,-98.06,800
+78163,STANDARD,0,Bulverde,,Spring Branch,TX,Comal County,America/Chicago,830,NA,US,29.77,-98.45,10610
+78164,STANDARD,0,Yorktown,,,TX,DeWitt County,America/Chicago,361,NA,US,28.98,-97.5,3380
+78201,STANDARD,0,San Antonio,"Balcones Heights, Balcones Hts",,TX,Bexar County,America/Chicago,210,NA,US,29.47,-98.53,36850
+78202,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.43,-98.46,9470
+78203,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.42,-98.46,5420
+78204,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.4,-98.51,9400
+78205,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.42,-98.49,1170
+78206,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.45,-98.5,0
+78207,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.42,-98.53,40130
+78208,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.44,-98.46,3520
+78209,STANDARD,0,San Antonio,"Alamo Heights, Terrell Hills",,TX,Bexar County,America/Chicago,210,NA,US,29.49,-98.46,35790
+78210,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.4,-98.46,30570
+78211,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.34,-98.57,27850
+78212,STANDARD,0,San Antonio,Olmos Park,,TX,Bexar County,America/Chicago,210,NA,US,29.45,-98.5,21790
+78213,STANDARD,0,San Antonio,Castle Hills,,TX,Bexar County,America/Chicago,210,NA,US,29.52,-98.52,37130
+78214,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.32,-98.47,20160
+78215,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.44,-98.48,1810
+78216,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.54,-98.49,34690
+78217,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.54,-98.42,29790
+78218,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.49,-98.4,29980
+78219,STANDARD,0,San Antonio,Kirby,,TX,Bexar County,America/Chicago,210,NA,US,29.45,-98.39,13950
+78220,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.42,-98.39,14900
+78221,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.28,-98.48,33240
+78222,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.35,-98.37,19450
+78223,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.31,-98.39,46750
+78224,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.31,-98.53,17910
+78225,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.39,-98.53,11350
+78226,STANDARD,0,San Antonio,Kelly Usa,,TX,Bexar County,America/Chicago,210,NA,US,29.38,-98.57,5560
+78227,STANDARD,0,San Antonio,,Kelly Usa Br,TX,Bexar County,America/Chicago,210,NA,US,29.41,-98.63,42180
+78228,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.46,-98.57,51690
+78229,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.5,-98.57,25050
+78230,STANDARD,0,San Antonio,Shavano Park,,TX,Bexar County,America/Chicago,210,NA,US,29.55,-98.56,37480
+78231,STANDARD,0,San Antonio,Shavano Park,,TX,Bexar County,America/Chicago,210,NA,US,29.58,-98.54,8620
+78232,STANDARD,0,San Antonio,"Hill Country Village, Hl Cntry Vlg, Hollywood Park, Hollywood Pk",,TX,Bexar County,America/Chicago,210,NA,US,29.59,-98.47,33430
+78233,STANDARD,0,San Antonio,Live Oak,,TX,Bexar County,America/Chicago,210,NA,US,29.56,-98.36,42860
+78234,STANDARD,0,San Antonio,"Fort Sam Houston, Ft Sm Houston",,TX,Bexar County,America/Chicago,210,NA,US,29.46,-98.44,4770
+78235,STANDARD,0,San Antonio,"Brooks Afb, Brooks Cb, Brooks City Base",Brooks Afb Branch,TX,Bexar County,America/Chicago,210,NA,US,29.35,-98.44,710
+78236,STANDARD,0,Lackland A F B,"Kelly Usa, Lackland, Lackland Afb, San Antonio, Security Services, Security Svc, Wilford Hall, Wilford Hall Usaf Hosp",,TX,Bexar County,America/Chicago,210,NA,US,29.39,-98.62,2810
+78237,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.42,-98.57,31890
+78238,STANDARD,0,San Antonio,Leon Valley,,TX,Bexar County,America/Chicago,210,NA,US,29.47,-98.62,22100
+78239,STANDARD,0,San Antonio,Windcrest,,TX,Bexar County,America/Chicago,210,NA,US,29.52,-98.36,27790
+78240,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.53,-98.61,48750
+78241,STANDARD,0,San Antonio,"Levi Strauss, Levi Strauss Evacuee Ctr",,TX,Bexar County,America/Chicago,210,NA,US,29.45,-98.5,0
+78242,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.35,-98.61,28120
+78243,STANDARD,0,San Antonio,,Electronic Security Services,TX,Bexar County,America/Chicago,210,NA,US,29.37,-98.59,15
+78244,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.47,-98.35,30070
+78245,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.4,-98.73,72910
+78247,STANDARD,0,San Antonio,Wetmore,,TX,Bexar County,America/Chicago,210,NA,US,29.59,-98.41,47660
+78248,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.59,-98.53,13590
+78249,STANDARD,0,San Antonio,Shavano Park,,TX,Bexar County,America/Chicago,210,NA,US,29.57,-98.62,43240
+78250,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.5,-98.66,51930
+78251,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.46,-98.68,51940
+78252,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.34,-98.71,9320
+78253,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.47,-98.8,48790
+78254,STANDARD,0,San Antonio,,Leon Valley,TX,Bexar County,America/Chicago,210,NA,US,29.54,-98.73,53440
+78255,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,830,NA,US,29.65,-98.66,14820
+78256,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.62,-98.62,7300
+78257,STANDARD,0,San Antonio,Shavano Park,,TX,Bexar County,America/Chicago,210,NA,US,29.66,-98.58,6070
+78258,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.63,-98.5,45190
+78259,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.63,-98.43,26090
+78260,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,,NA,US,29.7,-98.49,31520
+78261,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.69,-98.4,21490
+78262,STANDARD,1,San Antonio,Kelly Usa,,TX,Bexar County,America/Chicago,210,NA,US,29.42,-98.49,0
+78263,STANDARD,0,San Antonio,China Grove,,TX,Bexar County,America/Chicago,210,NA,US,29.36,-98.3,4260
+78264,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.2,-98.49,11930
+78266,STANDARD,0,San Antonio,Garden Ridge,Bracken,TX,Comal County,America/Chicago,210,NA,US,29.66,-98.34,6840
+78284,STANDARD,0,San Antonio,,,TX,Bexar County,America/Chicago,210,NA,US,29.45,-98.5,0
+78285,STANDARD,0,San Antonio,,Firm Cases,TX,Bexar County,America/Chicago,210,NA,US,29.45,-98.5,0
+78330,STANDARD,0,Agua Dulce,,,TX,Nueces County,America/Chicago,361,NA,US,27.74,-97.92,970
+78332,STANDARD,0,Alice,,"Alfred, Guajillo, Palito Blanco, San Jose",TX,Jim Wells County,America/Chicago,361,NA,US,27.75,-98.06,23470
+78336,STANDARD,0,Aransas Pass,"City By The Sea, Cty By The Se",Aranspass,TX,San Patricio County,America/Chicago,361,NA,US,27.9,-97.14,9770
+78340,STANDARD,0,Bayside,,,TX,Refugio County,America/Chicago,361,NA,US,28.09,-97.21,390
+78343,STANDARD,0,Bishop,,Palo Alto,TX,Nueces County,America/Chicago,361,NA,US,27.58,-97.79,3900
+78344,STANDARD,0,Bruni,,,TX,Webb County,America/Chicago,361,NA,US,27.42,-98.84,360
+78349,STANDARD,0,Concepcion,,"Cruz Calle, Rios",TX,Duval County,America/Chicago,361,NA,US,27.38,-98.27,350
+78353,STANDARD,0,Encino,,"Kelsay, Rachal",TX,Brooks County,America/Chicago,361,NA,US,26.93,-98.13,260
+78355,STANDARD,0,Falfurrias,,Flowella,TX,Brooks County,America/Chicago,361,NA,US,27.22,-98.14,6030
+78357,STANDARD,0,Freer,,Seven Sisters,TX,Duval County,America/Chicago,361,NA,US,27.88,-98.61,3200
+78360,STANDARD,0,Guerra,,,TX,Jim Hogg County,America/Chicago,956,NA,US,26.88,-98.88,0
+78361,STANDARD,0,Hebbronville,,"Agua Nueva, Bustamante, Escobas, Viboras",TX,Jim Hogg County,America/Chicago,361,NA,US,27.31,-98.68,4410
+78362,STANDARD,0,Ingleside,,Ingleside On The Bay,TX,San Patricio County,America/Chicago,361,NA,US,27.87,-97.2,9610
+78363,STANDARD,0,Kingsville,"Kingsville Naval Air Station, Kingsvl Naval, Kingsvlle Nas",Ricardo,TX,Kleberg County,America/Chicago,361,NA,US,27.5,-97.86,22770
+78368,STANDARD,0,Mathis,"Lake City, Swinney Switch, Swinney Swtch","Argenta, Hubert, San Patricio",TX,San Patricio County,America/Chicago,361,NA,US,28.09,-97.82,8380
+78369,STANDARD,0,Mirando City,,"Aguilares, Ojuelas",TX,Webb County,America/Chicago,361,NA,US,27.37,-99,370
+78370,STANDARD,0,Odem,,,TX,San Patricio County,America/Chicago,361,NA,US,27.94,-97.58,4660
+78372,STANDARD,0,Orange Grove,,,TX,Jim Wells County,America/Chicago,361,NA,US,27.95,-97.93,5330
+78373,STANDARD,0,Port Aransas,,,TX,Nueces County,America/Chicago,361,NA,US,27.82,-97.06,3500
+78374,STANDARD,0,Portland,,,TX,San Patricio County,America/Chicago,361,NA,US,27.87,-97.32,17690
+78375,STANDARD,0,Premont,,,TX,Jim Wells County,America/Chicago,361,NA,US,27.35,-98.12,2790
+78376,STANDARD,0,Realitos,,"Ramirez, Sejita",TX,Duval County,America/Chicago,361,NA,US,27.42,-98.55,290
+78377,STANDARD,0,Refugio,,,TX,Refugio County,America/Chicago,361,NA,US,28.3,-97.27,3320
+78379,STANDARD,0,Riviera,,"Loyola Beach, Riviera Beach, Vattmanville",TX,Kleberg County,America/Chicago,361,NA,US,27.28,-97.81,1490
+78380,STANDARD,0,Robstown,,"Bluntzer, Petronila, Rabb, San Pedro, South San Pedro, Violet",TX,Nueces County,America/Chicago,361,NA,US,27.79,-97.66,19680
+78382,STANDARD,0,Rockport,,"Copano Village, Estes, Lamar",TX,Aransas County,America/Chicago,361,NA,US,28.04,-97.05,14610
+78383,STANDARD,0,Sandia,,Pernitas Point,TX,Jim Wells County,America/Chicago,361,NA,US,28.01,-97.88,3220
+78384,STANDARD,0,San Diego,,Rosita,TX,Duval County,America/Chicago,361,NA,US,27.85,-98.39,5070
+78387,STANDARD,0,Sinton,,"Papalote, Sodville",TX,San Patricio County,America/Chicago,361,NA,US,28.03,-97.5,8850
+78389,STANDARD,0,Skidmore,,Olmos,TX,Bee County,America/Chicago,361,NA,US,28.23,-97.68,1670
+78390,STANDARD,0,Taft,,,TX,San Patricio County,America/Chicago,361,NA,US,27.98,-97.39,5390
+78391,STANDARD,0,Tynan,,,TX,Bee County,America/Chicago,361,NA,US,28.18,-97.71,280
+78393,STANDARD,0,Woodsboro,,Bonnie View,TX,Refugio County,America/Chicago,361,NA,US,28.23,-97.32,2230
+78401,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.8,-97.39,2650
+78402,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.82,-97.39,450
+78404,STANDARD,0,Corpus Christi,Crp Christi,Cc,TX,Nueces County,America/Chicago,361,NA,US,27.77,-97.4,12670
+78405,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.77,-97.44,12350
+78406,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.77,-97.52,870
+78407,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.81,-97.44,2150
+78408,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.79,-97.45,9820
+78409,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.81,-97.52,2380
+78410,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.84,-97.6,23990
+78411,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.73,-97.39,23600
+78412,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.7,-97.35,28900
+78413,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.68,-97.41,33540
+78414,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.66,-97.37,35880
+78415,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.66,-97.48,35500
+78416,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.75,-97.44,12860
+78417,STANDARD,0,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.74,-97.47,4130
+78418,STANDARD,0,Corpus Christi,Crp Christi,Padre Island National Seasho,TX,Nueces County,America/Chicago,361,NA,US,27.63,-97.27,26800
+78419,STANDARD,0,Corpus Christi,Crp Christi,"Corpus Christi Army Depot, Corpus Christi Naval Air Sta",TX,Nueces County,America/Chicago,361,NA,US,27.7,-97.27,360
+78470,STANDARD,1,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.8,-97.39,44
+78471,STANDARD,1,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.8,-97.39,58
+78473,STANDARD,1,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.79,-97.39,94
+78474,STANDARD,1,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.8,-97.39,0
+78475,STANDARD,1,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.79,-97.39,41
+78476,STANDARD,1,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.8,-97.39,0
+78477,STANDARD,1,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.8,-97.39,0
+78478,STANDARD,1,Corpus Christi,Crp Christi,,TX,Nueces County,America/Chicago,361,NA,US,27.79,-97.39,0
+78501,STANDARD,0,Mcallen,,Mc Allen,TX,Hidalgo County,America/Chicago,956,NA,US,26.21,-98.23,50380
+78503,STANDARD,0,Mcallen,,Mc Allen,TX,Hidalgo County,America/Chicago,956,NA,US,26.16,-98.25,19390
+78504,STANDARD,0,Mcallen,,Mc Allen,TX,Hidalgo County,America/Chicago,956,NA,US,26.27,-98.24,47620
+78516,STANDARD,0,Alamo,,"Campo Alto, El Gato",TX,Hidalgo County,America/Chicago,956,NA,US,26.18,-98.11,28280
+78520,STANDARD,0,Brownsville,,"Acacia Lake, Boca Chica, Bville, El Jardin, Keller Corner, Kennedy Shores, Palm Village, Palo Alto Battlefield Nation, Portway Acres, Villa Cavazos, Villa Nueva",TX,Cameron County,America/Chicago,956,NA,US,25.96,-97.55,57840
+78521,STANDARD,0,Brownsville,,,TX,Cameron County,America/Chicago,956,NA,US,25.92,-97.48,84620
+78526,STANDARD,0,Brownsville,,,TX,Cameron County,America/Chicago,956,NA,US,25.99,-97.44,47190
+78536,STANDARD,0,Delmita,,"El Centro, La Reforma",TX,Starr County,America/Chicago,956,NA,US,26.64,-98.4,240
+78537,STANDARD,0,Donna,,La Tijera,TX,Hidalgo County,America/Chicago,956,NA,US,26.16,-98.05,38130
+78538,STANDARD,0,Edcouch,Monte Alto,,TX,Hidalgo County,America/Chicago,956,NA,US,26.29,-97.96,9890
+78539,STANDARD,0,Edinburg,,"Faysville, Lull, Red Gate, San Carlos, San Juan Community",TX,Hidalgo County,America/Chicago,956,NA,US,26.29,-98.16,29380
+78541,STANDARD,0,Edinburg,,,TX,Hidalgo County,America/Chicago,956,NA,US,26.46,-98.25,34100
+78542,STANDARD,0,Edinburg,,,TX,Hidalgo County,America/Chicago,956,NA,US,26.35,-98.11,57100
+78550,STANDARD,0,Harlingen,,"Adams Gardens, Arroyo, Avondale, Hgn, Kayare, Primera, Stuart Place",TX,Cameron County,America/Chicago,956,NA,US,26.19,-97.68,44500
+78552,STANDARD,0,Harlingen,Palm Valley,,TX,Cameron County,America/Chicago,956,NA,US,26.2,-97.75,29930
+78557,STANDARD,0,Hidalgo,,,TX,Hidalgo County,America/Chicago,956,NA,US,26.1,-98.25,15510
+78559,STANDARD,0,La Feria,,Lafkin,TX,Cameron County,America/Chicago,956,NA,US,26.15,-97.82,10540
+78560,STANDARD,0,La Joya,,,TX,Hidalgo County,America/Chicago,956,NA,US,26.24,-98.47,4700
+78563,STANDARD,0,Linn,,Puerto Rico,TX,Hidalgo County,America/Chicago,956,NA,US,26.6,-98.19,560
+78564,STANDARD,0,Lopeno,Falcon,,TX,Zapata County,America/Chicago,956,NA,US,26.72,-99.1,257
+78566,STANDARD,0,Los Fresnos,"Bayview, Indian Lake",,TX,Cameron County,America/Chicago,956,NA,US,26.07,-97.47,18890
+78569,STANDARD,0,Lyford,,"Los Coyotes, Stockholm",TX,Willacy County,America/Chicago,956,NA,US,26.41,-97.78,3560
+78570,STANDARD,0,Mercedes,,"Heidelberg, Relampago, Rio Rico, Thayer",TX,Hidalgo County,America/Chicago,956,NA,US,26.14,-97.92,28950
+78572,STANDARD,0,Mission,"Palmhurst, Palmview","Abram, Chihuahua, Citrus City, Granjeno, Havana, Madero, Perezville, Sharyland",TX,Hidalgo County,America/Chicago,956,NA,US,26.21,-98.31,64340
+78573,STANDARD,0,Mission,"Alton, Palmhurst",,TX,Hidalgo County,America/Chicago,956,NA,US,26.3,-98.3,34760
+78574,STANDARD,0,Mission,"Palmhurst, Palmview",,TX,Hidalgo County,America/Chicago,956,NA,US,26.31,-98.35,50790
+78575,STANDARD,0,Olmito,Rancho Viejo,,TX,Cameron County,America/Chicago,956,NA,US,26.03,-97.55,4350
+78576,STANDARD,0,Penitas,,,TX,Hidalgo County,America/Chicago,956,NA,US,26.23,-98.44,10820
+78577,STANDARD,0,Pharr,,Las Milpas,TX,Hidalgo County,America/Chicago,956,NA,US,26.18,-98.18,66280
+78578,STANDARD,0,Port Isabel,"Laguna Heights, Laguna Hts, Laguna Vista","Bahia Mar, Isabel, Pt Isabel",TX,Cameron County,America/Chicago,956,NA,US,26.07,-97.22,9410
+78580,STANDARD,0,Raymondville,,"Porfirio, Santa Monica, Willamar",TX,Willacy County,America/Chicago,956,NA,US,26.47,-97.78,9780
+78582,STANDARD,0,Rio Grande City,Rio Grande Cy,"El Sauz, Escobares, Fort Ringgold, Garceno, La Casita, Rincon, Rio Grande, Santa Catarina, Santa Cruz, Villareales",TX,Starr County,America/Chicago,956,NA,US,26.55,-98.72,34790
+78583,STANDARD,0,Rio Hondo,,,TX,Cameron County,America/Chicago,956,NA,US,26.23,-97.58,5420
+78584,STANDARD,0,Roma,,"Falcon, Fronton, Los Saenz",TX,Starr County,America/Chicago,956,NA,US,26.4,-99.01,17740
+78586,STANDARD,0,San Benito,,"Carricitos, Colaboz, La Paloma, Landrum, Las Rusias, Laureles, Los Cuates, Ranchito, Rangerville, Yescas",TX,Cameron County,America/Chicago,956,NA,US,26.13,-97.63,43430
+78588,STANDARD,0,San Isidro,,,TX,Starr County,America/Chicago,956,NA,US,26.73,-98.39,370
+78589,STANDARD,0,San Juan,,Lopezville,TX,Hidalgo County,America/Chicago,956,NA,US,26.19,-98.15,38970
+78591,STANDARD,0,Santa Elena,,La Gloria,TX,Starr County,America/Chicago,956,NA,US,26.58,-98.52,250
+78593,STANDARD,0,Santa Rosa,,Rogerslacy,TX,Cameron County,America/Chicago,956,NA,US,26.25,-97.82,4960
+78595,STANDARD,0,Sullivan City,,,TX,Hidalgo County,America/Chicago,956,NA,US,26.28,-98.56,5100
+78596,STANDARD,0,Weslaco,"Progreso Lakes, Progreso Lks",Ramona,TX,Hidalgo County,America/Chicago,956,NA,US,26.16,-97.98,32300
+78597,STANDARD,0,South Padre Island,"S Padre Isl E, S Padre Isle",Port Isabel,TX,Cameron County,America/Chicago,956,NA,US,26.41,-97.23,2140
+78602,STANDARD,0,Bastrop,,"Calvin, Clearview, Hill",TX,Bastrop County,America/Chicago,512,NA,US,30.11,-97.3,24970
+78605,STANDARD,0,Bertram,,"Joppa, Mahomet, Oatmeal, Tamega",TX,Burnet County,America/Chicago,512,NA,US,30.74,-98.05,4770
+78606,STANDARD,0,Blanco,,,TX,Blanco County,America/Chicago,830,NA,US,30.09,-98.42,5200
+78607,STANDARD,0,Bluffton,,,TX,Llano County,America/Chicago,325,NA,US,30.82,-98.48,166
+78608,STANDARD,0,Briggs,Oakalla,,TX,Burnet County,America/Chicago,,NA,US,30.94,-97.93,500
+78609,STANDARD,0,Buchanan Dam,,Inks Lake Village,TX,Llano County,America/Chicago,512,NA,US,30.76,-98.44,1570
+78610,STANDARD,0,Buda,"Creedmoor, Hays, Mountain City, Mustang Ridge",,TX,Hays County,America/Chicago,"512,737",NA,US,30.08,-97.83,33850
+78611,STANDARD,0,Burnet,,,TX,Burnet County,America/Chicago,512,NA,US,30.76,-98.22,12040
+78612,STANDARD,0,Cedar Creek,Lost Pines,,TX,Bastrop County,America/Chicago,512,NA,US,30.08,-97.5,12820
+78613,STANDARD,0,Cedar Park,,,TX,Williamson County,America/Chicago,512,NA,US,30.51,-97.83,76750
+78614,STANDARD,0,Cost,Bebe,Monthalia,TX,Gonzales County,America/Chicago,830,NA,US,29.43,-97.56,440
+78615,STANDARD,0,Coupland,,Beyersville,TX,Williamson County,America/Chicago,512,NA,US,30.46,-97.38,1340
+78616,STANDARD,0,Dale,Mcmahan,"Lytton Springs, Tilmon",TX,Caldwell County,America/Chicago,512,NA,US,29.87,-97.53,8000
+78617,STANDARD,0,Del Valle,,"Elroy, Garfield",TX,Travis County,America/Chicago,512,NA,US,30.16,-97.6,23020
+78618,STANDARD,0,Doss,,,TX,Gillespie County,America/Chicago,830,NA,US,30.47,-99.18,230
+78619,STANDARD,0,Driftwood,,,TX,Hays County,America/Chicago,512,NA,US,30.11,-98.03,4390
+78620,STANDARD,0,Dripping Springs,Dripping Spgs,"Henly, Mount Sharp",TX,Hays County,America/Chicago,512,NA,US,30.18,-98.08,16330
+78621,STANDARD,0,Elgin,Webberville,"Beaukiss, Littig, Lund, Structure, Type",TX,Bastrop County,America/Chicago,"512,737",NA,US,30.34,-97.37,22140
+78623,STANDARD,0,Fischer,,,TX,Comal County,America/Chicago,830,NA,US,29.97,-98.23,1100
+78624,STANDARD,0,Fredericksburg,Fredericksbrg,"Bankersmith, Blumenthal, Cherry Spring, Fredericksbg, Gold, Luckenback, Morris Ranch, Spring Creek, Tivydale",TX,Gillespie County,America/Chicago,830,NA,US,30.27,-98.87,21080
+78626,STANDARD,0,Georgetown,,Jonah,TX,Williamson County,America/Chicago,"512,737",NA,US,30.64,-97.68,26860
+78628,STANDARD,0,Georgetown,"Andice, Sun City",,TX,Williamson County,America/Chicago,"512,737",NA,US,30.65,-97.75,29300
+78629,STANDARD,0,Gonzales,,"Dilworth, Hamon, Maurin, Nickel, Oak Forest, Summerville",TX,Gonzales County,America/Chicago,830,NA,US,29.5,-97.44,11160
+78631,STANDARD,0,Harper,,"Knoxville, Noxville",TX,Gillespie County,America/Chicago,830,NA,US,30.3,-99.25,2490
+78632,STANDARD,0,Harwood,,"Sandy Fork, Saturn",TX,Gonzales County,America/Chicago,830,NA,US,29.66,-97.48,900
+78633,STANDARD,0,Georgetown,,,TX,Williamson County,America/Chicago,"512,737",NA,US,30.7,-97.73,23350
+78634,STANDARD,0,Hutto,,Monadale,TX,Williamson County,America/Chicago,512,NA,US,30.54,-97.54,30480
+78635,STANDARD,0,Hye,,,TX,Blanco County,America/Chicago,830,NA,US,30.18,-98.57,108
+78636,STANDARD,0,Johnson City,,Cypress Mill,TX,Blanco County,America/Chicago,830,NA,US,30.27,-98.4,3430
+78638,STANDARD,0,Kingsbury,,,TX,Guadalupe County,America/Chicago,"512,830",NA,US,29.65,-97.81,1860
+78639,STANDARD,0,Kingsland,,"Granite Shoals Lake Shores, Lakeside Heights",TX,Llano County,America/Chicago,"830,325",NA,US,30.66,-98.45,6170
+78640,STANDARD,0,Kyle,"Niederwald, Uhland",,TX,Hays County,America/Chicago,512,NA,US,29.99,-97.87,50950
+78641,STANDARD,0,Leander,Volente,Whitestone,TX,Williamson County,America/Chicago,"512,737",NA,US,30.56,-97.86,56470
+78642,STANDARD,0,Liberty Hill,,,TX,Williamson County,America/Chicago,512,NA,US,30.66,-97.92,12640
+78643,STANDARD,0,Llano,Sunrise Beach,,TX,Llano County,America/Chicago,325,NA,US,30.75,-98.67,5420
+78644,STANDARD,0,Lockhart,,"Mendoza, Seawillow",TX,Caldwell County,America/Chicago,512,NA,US,29.87,-97.67,16210
+78645,STANDARD,0,Leander,"Jonestown, Lago Vista, Point Venture",,TX,Travis County,America/Chicago,"512,737",NA,US,30.45,-97.97,10640
+78648,STANDARD,0,Luling,,"Joliet, Stairtown",TX,Caldwell County,America/Chicago,830,NA,US,29.68,-97.64,6780
+78650,STANDARD,0,Mc Dade,Mcdade,,TX,Bastrop County,America/Chicago,512,NA,US,30.3,-97.22,1460
+78652,STANDARD,0,Manchaca,,,TX,Travis County,America/Chicago,512,NA,US,30.13,-97.89,4400
+78653,STANDARD,0,Manor,Webberville,"Cele, Daffan, Gregg, Kimbro, Manda, New Sweden",TX,Travis County,America/Chicago,512,NA,US,30.34,-97.55,20120
+78654,STANDARD,0,Marble Falls,"Granite Shls, Highland Haven, Highland Havn, Meadowlakes",,TX,Burnet County,America/Chicago,830,NA,US,30.57,-98.27,17240
+78655,STANDARD,0,Martindale,,,TX,Caldwell County,America/Chicago,512,NA,US,29.84,-97.84,2500
+78656,STANDARD,0,Maxwell,,Reedville,TX,Caldwell County,America/Chicago,512,NA,US,29.9,-97.81,2150
+78657,STANDARD,0,Horseshoe Bay,"Cottonwd Shrs, Cottonwood Shores, Marble Falls",,TX,Llano County,America/Chicago,830,NA,US,30.53,-98.38,5330
+78659,STANDARD,0,Paige,,"Hills, Manheim",TX,Bastrop County,America/Chicago,512,NA,US,30.21,-97.11,2670
+78660,STANDARD,0,Pflugerville,,,TX,Travis County,America/Chicago,512,NA,US,30.44,-97.62,82260
+78662,STANDARD,0,Red Rock,,,TX,Bastrop County,America/Chicago,830,NA,US,29.93,-97.41,2110
+78663,STANDARD,0,Round Mountain,"Cypress Mill, Round Mtn",,TX,Blanco County,America/Chicago,830,NA,US,30.43,-98.35,620
+78664,STANDARD,0,Round Rock,,"Old Round Rock, Three Point",TX,Williamson County,America/Chicago,512,NA,US,30.51,-97.67,55090
+78665,STANDARD,0,Round Rock,,,TX,Williamson County,America/Chicago,512,NA,US,30.54,-97.64,43350
+78666,STANDARD,0,San Marcos,,,TX,Hays County,America/Chicago,512,NA,US,29.88,-97.92,48200
+78669,STANDARD,0,Spicewood,Briarcliff,,TX,Travis County,America/Chicago,,NA,US,30.48,-98.16,9640
+78671,STANDARD,0,Stonewall,Albert,,TX,Gillespie County,America/Chicago,830,NA,US,30.22,-98.63,710
+78672,STANDARD,0,Tow,,,TX,Llano County,America/Chicago,325,NA,US,30.88,-98.46,650
+78675,STANDARD,0,Willow City,,,TX,Gillespie County,America/Chicago,830,NA,US,30.4,-98.7,166
+78676,STANDARD,0,Wimberley,Woodcreek,Pioneer Town,TX,Hays County,America/Chicago,512,NA,US,29.99,-98.1,12630
+78677,STANDARD,0,Wrightsboro,,,TX,Gonzales County,America/Chicago,830,NA,US,29.35,-97.5,50
+78681,STANDARD,0,Round Rock,,,TX,Williamson County,America/Chicago,512,NA,US,30.53,-97.73,53580
+78701,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,"512,737",NA,US,30.26,-97.74,6630
+78702,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,"512,737",NA,US,30.26,-97.71,18940
+78703,STANDARD,0,Austin,,Tarrytown,TX,Travis County,America/Chicago,512,NA,US,30.29,-97.77,18560
+78704,STANDARD,0,Austin,,Travis Heights,TX,Travis County,America/Chicago,"512,737",NA,US,30.24,-97.77,38640
+78705,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,"512,737",NA,US,30.29,-97.74,6900
+78710,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.26,-97.74,0
+78712,STANDARD,0,Austin,,"The University Of Texas, University Of Texas, Ut",TX,Travis County,America/Chicago,"512,737",NA,US,30.28,-97.73,42
+78717,STANDARD,0,Austin,,Brushy Creek,TX,Williamson County,America/Chicago,512,NA,US,30.49,-97.75,29600
+78719,STANDARD,0,Austin,,Moores Crossing,TX,Travis County,America/Chicago,512,NA,US,30.18,-97.68,1950
+78721,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.27,-97.68,9840
+78722,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.29,-97.71,5220
+78723,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.3,-97.69,27700
+78724,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.3,-97.62,23860
+78725,STANDARD,0,Austin,,Hornsby Bend,TX,Travis County,America/Chicago,512,NA,US,30.23,-97.61,7890
+78726,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.43,-97.84,13110
+78727,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,"512,737",NA,US,30.43,-97.72,26240
+78728,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,"512,737",NA,US,30.45,-97.69,20470
+78729,STANDARD,0,Austin,,Jollyville,TX,Williamson County,America/Chicago,512,NA,US,30.46,-97.76,26820
+78730,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.37,-97.84,8890
+78731,STANDARD,0,Austin,,Camp Mabry,TX,Travis County,America/Chicago,512,NA,US,30.35,-97.77,24180
+78732,STANDARD,0,Austin,,"Four Points, Marshall Ford",TX,Travis County,America/Chicago,512,NA,US,30.38,-97.9,16880
+78733,STANDARD,0,Austin,"Bee Cave, Bee Caves",,TX,Travis County,America/Chicago,512,NA,US,30.32,-97.88,9100
+78734,STANDARD,0,Austin,"Bee Cave, Bee Caves, Lakeway",Hudson Bend,TX,Travis County,America/Chicago,512,NA,US,30.38,-97.95,19960
+78735,STANDARD,0,Austin,Sunset Valley,Oak Hill,TX,Travis County,America/Chicago,512,NA,US,30.27,-97.87,15920
+78736,STANDARD,0,Austin,"Bee Cave, Bee Caves","Circleville, Oak Hill",TX,Travis County,America/Chicago,512,NA,US,30.26,-97.96,7420
+78737,STANDARD,0,Austin,,,TX,Hays County,America/Chicago,512,NA,US,30.19,-97.96,16930
+78738,STANDARD,0,Austin,"Bee Cave, Bee Caves, Lakeway, The Hills, Village Of The Hills, Vlg O The Hls",,TX,Travis County,America/Chicago,512,NA,US,30.32,-97.96,20550
+78739,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.18,-97.89,19630
+78741,STANDARD,0,Austin,,Montopolis,TX,Travis County,America/Chicago,512,NA,US,30.23,-97.71,37370
+78742,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.24,-97.66,810
+78744,STANDARD,0,Austin,,"Bluff Springs, Colton, Pilot Knob",TX,Travis County,America/Chicago,512,NA,US,30.18,-97.73,43120
+78745,STANDARD,0,Austin,Sunset Valley,,TX,Travis County,America/Chicago,512,NA,US,30.21,-97.8,51000
+78746,STANDARD,0,Austin,"Rollingwood, West Lake Hills, West Lake Hls",,TX,Travis County,America/Chicago,512,NA,US,30.3,-97.81,27130
+78747,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.13,-97.74,17380
+78748,STANDARD,0,Austin,,San Leanna,TX,Travis County,America/Chicago,512,NA,US,30.17,-97.82,44040
+78749,STANDARD,0,Austin,,Oak Hill,TX,Travis County,America/Chicago,512,NA,US,30.22,-97.86,32970
+78750,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.42,-97.8,26950
+78751,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.31,-97.72,10890
+78752,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.33,-97.7,16150
+78753,STANDARD,0,Austin,,Dessau,TX,Travis County,America/Chicago,512,NA,US,30.38,-97.67,50760
+78754,STANDARD,0,Austin,,"Dell Computers, Sprinkle",TX,Travis County,America/Chicago,512,NA,US,30.36,-97.64,20490
+78756,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.32,-97.74,7160
+78757,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,512,NA,US,30.35,-97.73,20470
+78758,STANDARD,0,Austin,,,TX,Travis County,America/Chicago,"512,737",NA,US,30.39,-97.71,43300
+78759,STANDARD,0,Austin,,Balcones,TX,Travis County,America/Chicago,512,NA,US,30.4,-97.76,38670
+78798,STANDARD,1,Austin,,Dell Computers,TX,Travis County,America/Chicago,512,NA,US,30.37,-97.68,0
+78799,STANDARD,0,Austin,,Rmx,TX,Travis County,America/Chicago,512,NA,US,30.27,-97.74,0
+78801,STANDARD,0,Uvalde,,,TX,Uvalde County,America/Chicago,830,NA,US,29.21,-99.78,18060
+78827,STANDARD,0,Asherton,,,TX,Dimmit County,America/Chicago,830,NA,US,28.44,-99.76,1180
+78828,STANDARD,0,Barksdale,,Vance,TX,Edwards County,America/Chicago,830,NA,US,29.87,-100.02,220
+78829,STANDARD,0,Batesville,,,TX,Zavala County,America/Chicago,830,NA,US,28.94,-99.61,970
+78830,STANDARD,0,Big Wells,,,TX,Dimmit County,America/Chicago,830,NA,US,28.56,-99.57,550
+78832,STANDARD,0,Brackettville,,,TX,Kinney County,America/Chicago,830,NA,US,29.31,-100.41,2670
+78833,STANDARD,0,Camp Wood,,,TX,Real County,America/Chicago,830,NA,US,29.66,-100.01,1140
+78834,STANDARD,0,Carrizo Springs,Carrizo Spgs,Brundage,TX,Dimmit County,America/Chicago,830,NA,US,28.52,-99.85,7290
+78837,STANDARD,0,Comstock,,,TX,Val Verde County,America/Chicago,432,NA,US,29.68,-101.16,318
+78838,STANDARD,0,Concan,,,TX,Uvalde County,America/Chicago,830,NA,US,29.51,-99.73,390
+78839,STANDARD,0,Crystal City,,,TX,Zavala County,America/Chicago,830,NA,US,28.68,-99.82,7440
+78840,STANDARD,0,Del Rio,"Laughlin A F B, Laughlin Afb",,TX,Val Verde County,America/Chicago,"432,830",NA,US,29.37,-100.89,43690
+78843,STANDARD,0,Laughlin A F B,"Del Rio, Laughlin Afb",Laughlin Afb Branch,TX,Val Verde County,America/Chicago,830,NA,US,29.35,-100.78,397
+78850,STANDARD,0,D Hanis,,,TX,Medina County,America/Chicago,830,NA,US,29.35,-99.31,1130
+78851,STANDARD,0,Dryden,,Comstock,TX,Terrell County,America/Chicago,432,NA,US,30.03,-101.97,50
+78852,STANDARD,0,Eagle Pass,,,TX,Maverick County,America/Chicago,830,NA,US,28.7,-100.49,49660
+78861,STANDARD,0,Hondo,Dunlay,,TX,Medina County,America/Chicago,830,NA,US,29.35,-99.15,10970
+78870,STANDARD,0,Knippa,,,TX,Uvalde County,America/Chicago,830,NA,US,29.3,-99.63,800
+78873,STANDARD,0,Leakey,,,TX,Real County,America/Chicago,830,NA,US,29.72,-99.76,1490
+78877,STANDARD,0,Quemado,Spofford,,TX,Maverick County,America/Chicago,830,NA,US,28.95,-100.63,780
+78879,STANDARD,0,Rio Frio,,,TX,Real County,America/Chicago,830,NA,US,29.63,-99.73,200
+78880,STANDARD,0,Rocksprings,,,TX,Edwards County,America/Chicago,830,NA,US,30.01,-100.21,1320
+78881,STANDARD,0,Sabinal,,,TX,Uvalde County,America/Chicago,830,NA,US,29.32,-99.46,1970
+78883,STANDARD,0,Tarpley,,,TX,Bandera County,America/Chicago,830,NA,US,29.63,-99.28,270
+78884,STANDARD,0,Utopia,,,TX,Uvalde County,America/Chicago,830,NA,US,29.61,-99.53,1000
+78885,STANDARD,0,Vanderpool,,,TX,Bandera County,America/Chicago,830,NA,US,29.81,-99.54,149
+78886,STANDARD,0,Yancey,,,TX,Medina County,America/Chicago,830,NA,US,29.15,-99.13,490
+78931,STANDARD,0,Bleiblerville,,,TX,Austin County,America/Chicago,979,NA,US,30.02,-96.44,250
+78932,STANDARD,0,Carmine,,,TX,Fayette County,America/Chicago,979,NA,US,30.14,-96.68,690
+78933,STANDARD,0,Cat Spring,,,TX,Colorado County,America/Chicago,,NA,US,29.84,-96.32,1310
+78934,STANDARD,0,Columbus,,Hillcrest,TX,Colorado County,America/Chicago,979,NA,US,29.7,-96.55,6330
+78935,STANDARD,0,Alleyton,,,TX,Colorado County,America/Chicago,979,NA,US,29.74,-96.46,780
+78938,STANDARD,0,Ellinger,,,TX,Fayette County,America/Chicago,,NA,US,29.83,-96.7,340
+78940,STANDARD,0,Fayetteville,,Shelby,TX,Fayette County,America/Chicago,979,NA,US,29.9,-96.67,1750
+78941,STANDARD,0,Flatonia,,"Cistern, Floy, Kovar, Praha",TX,Fayette County,America/Chicago,361,NA,US,29.68,-97.1,2790
+78942,STANDARD,0,Giddings,,,TX,Lee County,America/Chicago,"512,979",NA,US,30.18,-96.92,8830
+78943,STANDARD,0,Glidden,,,TX,Colorado County,America/Chicago,979,NA,US,29.71,-96.62,340
+78944,STANDARD,0,Industry,,Welcome,TX,Austin County,America/Chicago,979,NA,US,29.99,-96.49,610
+78945,STANDARD,0,La Grange,Winchester,"Ammansville, Halsted, Holman, Mullins Prairie, Oquinn, Rabbs Prairie, Rutersville",TX,Fayette County,America/Chicago,979,NA,US,29.9,-96.87,9510
+78946,STANDARD,0,Ledbetter,,"Nechanitz, Post Oak, Waldeck",TX,Lee County,America/Chicago,979,NA,US,30.23,-96.76,920
+78947,STANDARD,0,Lexington,,"Blue, Leo, Tanglewood",TX,Lee County,America/Chicago,979,NA,US,30.41,-97,4090
+78948,STANDARD,0,Lincoln,,"Doak Springs, Fedor, Loebau",TX,Lee County,America/Chicago,979,NA,US,30.31,-96.97,770
+78949,STANDARD,0,Muldoon,,Stellar,TX,Fayette County,America/Chicago,979,NA,US,29.81,-97.06,390
+78950,STANDARD,0,New Ulm,,,TX,Austin County,America/Chicago,979,NA,US,29.87,-96.49,1820
+78953,STANDARD,0,Rosanky,,"Delhi, Jeddo, String Prairie",TX,Bastrop County,America/Chicago,979,NA,US,29.93,-97.3,1060
+78954,STANDARD,0,Round Top,,Walhalla,TX,Fayette County,America/Chicago,979,NA,US,30.06,-96.69,990
+78956,STANDARD,0,Schulenburg,,"Dubina, Engle, Freyburg, Glecker, High Hill, Moravia, Swiss Alp",TX,Fayette County,America/Chicago,979,NA,US,29.68,-96.9,4800
+78957,STANDARD,0,Smithville,,"Kirtley, Upton",TX,Bastrop County,America/Chicago,"830,979,512",NA,US,30,-97.15,7930
+78959,STANDARD,0,Waelder,,Thompsonville,TX,Gonzales County,America/Chicago,830,NA,US,29.69,-97.29,1750
+78962,STANDARD,0,Weimar,,"Borden, Osage",TX,Colorado County,America/Chicago,979,NA,US,29.7,-96.77,4220
+78963,STANDARD,0,West Point,,Plum,TX,Fayette County,America/Chicago,979,NA,US,29.96,-97.03,840
+79001,STANDARD,0,Adrian,,,TX,Oldham County,America/Chicago,806,NA,US,35.27,-102.66,250
+79005,STANDARD,0,Booker,,,TX,Lipscomb County,America/Chicago,806,NA,US,36.45,-100.54,1720
+79007,STANDARD,0,Borger,Phillips,,TX,Hutchinson County,America/Chicago,806,NA,US,35.65,-101.4,12340
+79009,STANDARD,0,Bovina,,,TX,Parmer County,America/Chicago,806,NA,US,34.51,-102.88,2090
+79011,STANDARD,0,Briscoe,,,TX,Wheeler County,America/Chicago,806,NA,US,35.58,-100.28,210
+79014,STANDARD,0,Canadian,Glazier,,TX,Hemphill County,America/Chicago,806,NA,US,35.91,-100.38,4050
+79015,STANDARD,0,Canyon,,,TX,Randall County,America/Chicago,806,NA,US,34.98,-101.92,16900
+79018,STANDARD,0,Channing,,Masterson,TX,Hartley County,America/Chicago,806,NA,US,35.68,-102.33,390
+79019,STANDARD,0,Claude,,,TX,Armstrong County,America/Chicago,806,NA,US,35.1,-101.36,1590
+79022,STANDARD,0,Dalhart,,,TX,Dallam County,America/Chicago,806,NA,US,36.06,-102.51,9880
+79027,STANDARD,0,Dimmitt,,,TX,Castro County,America/Chicago,806,NA,US,34.54,-102.31,4490
+79029,STANDARD,0,Dumas,,,TX,Moore County,America/Chicago,806,NA,US,35.86,-101.96,16470
+79031,STANDARD,0,Earth,,,TX,Lamb County,America/Chicago,806,NA,US,34.23,-102.4,1130
+79034,STANDARD,0,Follett,,,TX,Lipscomb County,America/Chicago,806,NA,US,36.43,-100.14,650
+79035,STANDARD,0,Friona,Black,,TX,Parmer County,America/Chicago,806,NA,US,34.63,-102.72,5370
+79036,STANDARD,0,Fritch,,,TX,Hutchinson County,America/Chicago,806,NA,US,35.64,-101.59,4230
+79039,STANDARD,0,Groom,,,TX,Carson County,America/Chicago,806,NA,US,35.2,-101.1,710
+79040,STANDARD,0,Gruver,,,TX,Hansford County,America/Chicago,806,NA,US,36.25,-101.41,1730
+79041,STANDARD,0,Hale Center,,,TX,Hale County,America/Chicago,806,NA,US,34.06,-101.84,2510
+79042,STANDARD,0,Happy,,,TX,Swisher County,America/Chicago,806,NA,US,34.74,-101.85,990
+79043,STANDARD,0,Hart,,,TX,Castro County,America/Chicago,806,NA,US,34.38,-102.11,1320
+79044,STANDARD,0,Hartley,,,TX,Hartley County,America/Chicago,806,NA,US,35.88,-102.39,790
+79045,STANDARD,0,Hereford,,,TX,Deaf Smith County,America/Chicago,806,NA,US,34.82,-102.39,19160
+79046,STANDARD,0,Higgins,,,TX,Lipscomb County,America/Chicago,806,NA,US,36.12,-100.02,470
+79052,STANDARD,0,Kress,,,TX,Swisher County,America/Chicago,806,NA,US,34.36,-101.74,1000
+79056,STANDARD,0,Lipscomb,,,TX,Lipscomb County,America/Chicago,806,NA,US,36.23,-100.27,49
+79057,STANDARD,0,Mclean,,,TX,Gray County,America/Chicago,806,NA,US,35.23,-100.6,980
+79058,STANDARD,0,Masterson,,Channing,TX,Potter County,America/Chicago,,NA,US,35.63,-101.96,21
+79059,STANDARD,0,Miami,,,TX,Roberts County,America/Chicago,806,NA,US,35.69,-100.64,730
+79061,STANDARD,0,Mobeetie,,Old Mobeetie,TX,Wheeler County,America/Chicago,806,NA,US,35.53,-100.44,360
+79062,STANDARD,0,Morse,,,TX,Hansford County,America/Chicago,806,NA,US,36.06,-101.47,230
+79063,STANDARD,0,Nazareth,,,TX,Castro County,America/Chicago,806,NA,US,34.54,-102.1,700
+79064,STANDARD,0,Olton,,,TX,Lamb County,America/Chicago,806,NA,US,34.17,-102.13,2200
+79065,STANDARD,0,Pampa,,,TX,Gray County,America/Chicago,806,NA,US,35.54,-100.96,17290
+79068,STANDARD,0,Panhandle,,,TX,Carson County,America/Chicago,806,NA,US,35.34,-101.38,2860
+79070,STANDARD,0,Perryton,,,TX,Ochiltree County,America/Chicago,806,NA,US,36.39,-100.8,10460
+79072,STANDARD,0,Plainview,,,TX,Hale County,America/Chicago,806,NA,US,34.19,-101.72,21750
+79079,STANDARD,0,Shamrock,Twitty,,TX,Wheeler County,America/Chicago,806,NA,US,35.21,-100.24,2330
+79080,STANDARD,0,Skellytown,,,TX,Carson County,America/Chicago,806,NA,US,35.57,-101.17,470
+79081,STANDARD,0,Spearman,,,TX,Hansford County,America/Chicago,806,NA,US,36.19,-101.19,3640
+79082,STANDARD,0,Springlake,,,TX,Lamb County,America/Chicago,806,NA,US,34.23,-102.3,240
+79083,STANDARD,0,Stinnett,,,TX,Hutchinson County,America/Chicago,806,NA,US,35.82,-101.44,2050
+79084,STANDARD,0,Stratford,,,TX,Sherman County,America/Chicago,806,NA,US,36.33,-102.07,2360
+79085,STANDARD,0,Summerfield,,,TX,Castro County,America/Chicago,806,NA,US,34.74,-102.51,61
+79086,STANDARD,0,Sunray,,,TX,Moore County,America/Chicago,806,NA,US,36.01,-101.82,2020
+79087,STANDARD,0,Texline,,,TX,Dallam County,America/Chicago,806,NA,US,36.37,-103.01,620
+79088,STANDARD,0,Tulia,Vigo Park,,TX,Swisher County,America/Chicago,806,NA,US,34.53,-101.77,4330
+79092,STANDARD,0,Vega,,,TX,Oldham County,America/Chicago,806,NA,US,35.24,-102.42,1150
+79094,STANDARD,0,Wayside,,,TX,Armstrong County,America/Chicago,806,NA,US,34.79,-101.54,67
+79095,STANDARD,0,Wellington,,,TX,Collingsworth County,America/Chicago,806,NA,US,34.85,-100.21,2300
+79096,STANDARD,0,Wheeler,,,TX,Wheeler County,America/Chicago,806,NA,US,35.44,-100.27,2280
+79097,STANDARD,0,White Deer,,,TX,Carson County,America/Chicago,806,NA,US,35.43,-101.17,1050
+79098,STANDARD,0,Wildorado,,,TX,Oldham County,America/Chicago,806,NA,US,35.15,-102.22,410
+79101,STANDARD,0,Amarillo,,,TX,Potter County,America/Chicago,806,NA,US,35.21,-101.84,1760
+79102,STANDARD,0,Amarillo,,,TX,Potter County,America/Chicago,806,NA,US,35.2,-101.87,8910
+79103,STANDARD,0,Amarillo,,,TX,Potter County,America/Chicago,806,NA,US,35.18,-101.79,9770
+79104,STANDARD,0,Amarillo,,,TX,Potter County,America/Chicago,806,NA,US,35.2,-101.81,6750
+79106,STANDARD,0,Amarillo,,,TX,Potter County,America/Chicago,806,NA,US,35.2,-101.9,23100
+79107,STANDARD,0,Amarillo,,,TX,Potter County,America/Chicago,806,NA,US,35.23,-101.8,29530
+79108,STANDARD,0,Amarillo,,,TX,Potter County,America/Chicago,806,NA,US,35.31,-101.69,10730
+79109,STANDARD,0,Amarillo,,,TX,Randall County,America/Chicago,806,NA,US,35.17,-101.89,38690
+79110,STANDARD,0,Amarillo,,,TX,Randall County,America/Chicago,806,NA,US,35.14,-101.88,17110
+79111,STANDARD,0,Amarillo,,,TX,Potter County,America/Chicago,806,NA,US,35.22,-101.71,1160
+79118,STANDARD,0,Amarillo,"Palisades, Timbercreek Canyon, Timbercrk Cyn",,TX,Randall County,America/Chicago,806,NA,US,35.11,-101.74,21690
+79119,STANDARD,0,Amarillo,,,TX,Randall County,America/Chicago,806,NA,US,35.11,-102.02,15050
+79121,STANDARD,0,Amarillo,,,TX,Randall County,America/Chicago,806,NA,US,35.17,-101.93,5770
+79124,STANDARD,0,Amarillo,Bishop Hills,,TX,Potter County,America/Chicago,806,NA,US,35.26,-101.97,8820
+79201,STANDARD,0,Childress,Northfield,"Carey, Kirkland",TX,Childress County,America/Chicago,940,NA,US,34.42,-100.24,4930
+79220,STANDARD,0,Afton,,,TX,Dickens County,America/Chicago,806,NA,US,33.76,-100.81,121
+79223,STANDARD,0,Cee Vee,,,TX,Cottle County,America/Chicago,806,NA,US,34.22,-100.44,18
+79225,STANDARD,0,Chillicothe,,,TX,Hardeman County,America/Chicago,940,NA,US,34.25,-99.51,850
+79226,STANDARD,0,Clarendon,Howardwick,,TX,Donley County,America/Chicago,806,NA,US,34.93,-100.89,2390
+79227,STANDARD,0,Crowell,Truscott,,TX,Foard County,America/Chicago,940,NA,US,33.98,-99.72,1010
+79229,STANDARD,0,Dickens,,,TX,Dickens County,America/Chicago,806,NA,US,33.62,-100.83,240
+79230,STANDARD,0,Dodson,,,TX,Collingsworth County,America/Chicago,806,NA,US,34.76,-100.02,162
+79234,STANDARD,0,Flomot,,,TX,Motley County,America/Chicago,806,NA,US,34.22,-100.98,71
+79235,STANDARD,0,Floydada,,,TX,Floyd County,America/Chicago,806,NA,US,33.98,-101.33,3100
+79237,STANDARD,0,Hedley,,,TX,Donley County,America/Chicago,806,NA,US,34.86,-100.65,340
+79239,STANDARD,0,Lakeview,,,TX,Hall County,America/Chicago,806,NA,US,34.67,-100.69,167
+79240,STANDARD,0,Lelia Lake,,,TX,Donley County,America/Chicago,806,NA,US,34.9,-100.77,67
+79241,STANDARD,0,Lockney,,,TX,Floyd County,America/Chicago,806,NA,US,34.12,-101.44,2060
+79243,STANDARD,0,Mcadoo,,,TX,Dickens County,America/Chicago,806,NA,US,33.77,-100.96,79
+79244,STANDARD,0,Matador,,,TX,Motley County,America/Chicago,806,NA,US,34.01,-100.82,620
+79245,STANDARD,0,Memphis,,,TX,Hall County,America/Chicago,806,NA,US,34.72,-100.54,1990
+79247,STANDARD,0,Odell,,Chillicothe,TX,Wilbarger County,America/Chicago,940,NA,US,34.33,-99.41,47
+79248,STANDARD,0,Paducah,Dumont,Chalk,TX,Cottle County,America/Chicago,806,NA,US,34.01,-100.3,1180
+79250,STANDARD,0,Petersburg,,,TX,Hale County,America/Chicago,806,NA,US,33.87,-101.59,1250
+79251,STANDARD,0,Quail,,,TX,Collingsworth County,America/Chicago,806,NA,US,34.9,-100.4,59
+79252,STANDARD,0,Quanah,,,TX,Hardeman County,America/Chicago,940,NA,US,34.29,-99.74,2460
+79255,STANDARD,0,Quitaque,,,TX,Briscoe County,America/Chicago,806,NA,US,34.36,-101.05,380
+79256,STANDARD,0,Roaring Springs,Roaring Spngs,,TX,Motley County,America/Chicago,806,NA,US,33.89,-100.85,200
+79257,STANDARD,0,Silverton,,,TX,Briscoe County,America/Chicago,806,NA,US,34.47,-101.3,810
+79259,STANDARD,0,Tell,,,TX,Childress County,America/Chicago,"806,940",NA,US,34.38,-100.39,46
+79261,STANDARD,0,Turkey,,,TX,Hall County,America/Chicago,806,NA,US,34.39,-100.89,370
+79311,STANDARD,0,Abernathy,,,TX,Hale County,America/Chicago,806,NA,US,33.83,-101.84,2970
+79312,STANDARD,0,Amherst,,,TX,Lamb County,America/Chicago,806,NA,US,34.01,-102.41,780
+79313,STANDARD,0,Anton,,,TX,Hockley County,America/Chicago,806,NA,US,33.81,-102.16,1280
+79316,STANDARD,0,Brownfield,,,TX,Terry County,America/Chicago,806,NA,US,33.17,-102.27,9210
+79320,STANDARD,1,Bula,,,TX,Bailey County,America/Chicago,806,NA,US,33.86,-102.67,0
+79322,STANDARD,0,Crosbyton,,,TX,Crosby County,America/Chicago,806,NA,US,33.64,-101.23,1600
+79323,STANDARD,0,Denver City,,,TX,Yoakum County,America/Chicago,"432,806",NA,US,32.96,-102.83,7160
+79324,STANDARD,0,Enochs,,,TX,Bailey County,America/Chicago,806,NA,US,33.87,-102.75,54
+79325,STANDARD,0,Farwell,,,TX,Parmer County,America/Chicago,806,NA,US,34.39,-102.89,1960
+79326,STANDARD,0,Fieldton,,,TX,Lamb County,America/Chicago,806,NA,US,34.08,-102.22,39
+79329,STANDARD,0,Idalou,,,TX,Lubbock County,America/Chicago,806,NA,US,33.66,-101.68,3110
+79330,STANDARD,0,Justiceburg,,Post,TX,Garza County,America/Chicago,806,NA,US,33.04,-101.2,48
+79331,STANDARD,0,Lamesa,La Mesa,,TX,Dawson County,America/Chicago,806,NA,US,32.73,-101.95,9710
+79336,STANDARD,0,Levelland,,Pettit,TX,Hockley County,America/Chicago,806,NA,US,33.57,-102.36,14530
+79339,STANDARD,0,Littlefield,,,TX,Lamb County,America/Chicago,806,NA,US,33.91,-102.33,5900
+79342,STANDARD,0,Loop,,,TX,Gaines County,America/Chicago,806,NA,US,32.92,-102.42,370
+79343,STANDARD,0,Lorenzo,,,TX,Crosby County,America/Chicago,806,NA,US,33.67,-101.53,1280
+79344,STANDARD,0,Maple,,,TX,Bailey County,America/Chicago,806,NA,US,33.84,-102.89,30
+79345,STANDARD,0,Meadow,,,TX,Terry County,America/Chicago,806,NA,US,33.33,-102.2,860
+79346,STANDARD,0,Morton,,,TX,Cochran County,America/Chicago,806,NA,US,33.72,-102.75,2060
+79347,STANDARD,0,Muleshoe,,,TX,Bailey County,America/Chicago,806,NA,US,34.22,-102.72,7690
+79351,STANDARD,0,Odonnell,,,TX,Lynn County,America/Chicago,806,NA,US,33,-101.82,1140
+79353,STANDARD,0,Pep,,,TX,Hockley County,America/Chicago,806,NA,US,33.78,-102.58,29
+79355,STANDARD,0,Plains,,,TX,Yoakum County,America/Chicago,806,NA,US,33.19,-102.82,1860
+79356,STANDARD,0,Post,,,TX,Garza County,America/Chicago,806,NA,US,33.19,-101.38,3820
+79357,STANDARD,0,Ralls,Cone,,TX,Crosby County,America/Chicago,806,NA,US,33.67,-101.38,1990
+79358,STANDARD,0,Ropesville,,,TX,Hockley County,America/Chicago,806,NA,US,33.41,-102.15,1040
+79359,STANDARD,0,Seagraves,,,TX,Gaines County,America/Chicago,806,NA,US,32.94,-102.56,2810
+79360,STANDARD,0,Seminole,,,TX,Gaines County,America/Chicago,432,NA,US,32.71,-102.65,15220
+79363,STANDARD,0,Shallowater,,,TX,Lubbock County,America/Chicago,806,NA,US,33.69,-101.99,5630
+79364,STANDARD,0,Slaton,"Ransom Canyon, Southland",,TX,Lubbock County,America/Chicago,806,NA,US,33.43,-101.64,6870
+79366,STANDARD,0,Ransom Canyon,,,TX,Lubbock County,America/Chicago,806,NA,US,33.53,-101.69,1050
+79370,STANDARD,0,Spur,,,TX,Dickens County,America/Chicago,806,NA,US,33.47,-100.85,1210
+79371,STANDARD,0,Sudan,,Goodland,TX,Lamb County,America/Chicago,806,NA,US,34.06,-102.52,1230
+79373,STANDARD,0,Tahoka,,,TX,Lynn County,America/Chicago,806,NA,US,33.16,-101.79,2720
+79376,STANDARD,0,Tokio,,Brownfield,TX,Yoakum County,America/Chicago,806,NA,US,33.23,-102.67,119
+79377,STANDARD,0,Welch,,,TX,Dawson County,America/Chicago,806,NA,US,32.93,-102.13,290
+79381,STANDARD,0,Wilson,New Home,,TX,Lynn County,America/Chicago,806,NA,US,33.31,-101.72,1090
+79382,STANDARD,0,Wolfforth,,,TX,Lubbock County,America/Chicago,806,NA,US,33.5,-102.01,7020
+79401,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.59,-101.85,2640
+79402,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.57,-101.87,0
+79403,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.64,-101.78,13590
+79404,STANDARD,0,Lubbock,"Buffalo Spgs, Buffalo Springs",,TX,Lubbock County,America/Chicago,806,NA,US,33.53,-101.79,8260
+79405,STANDARD,1,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.57,-101.84,16
+79406,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.59,-101.88,122
+79407,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.57,-102.08,16760
+79409,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.57,-101.87,131
+79410,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.57,-101.89,5650
+79411,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.57,-101.87,5550
+79412,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.55,-101.86,13240
+79413,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.55,-101.89,17960
+79414,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.55,-101.92,14460
+79415,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.7,-101.9,12910
+79416,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.6,-101.98,26920
+79423,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.44,-101.86,34290
+79424,STANDARD,0,Lubbock,,,TX,Lubbock County,America/Chicago,806,NA,US,33.47,-101.95,43890
+79501,STANDARD,0,Anson,,Radium,TX,Jones County,America/Chicago,325,NA,US,32.75,-99.89,2970
+79502,STANDARD,0,Aspermont,,Peacock,TX,Stonewall County,America/Chicago,"806,940",NA,US,33.13,-100.22,1060
+79503,STANDARD,0,Avoca,,,TX,Jones County,America/Chicago,325,NA,US,32.86,-99.71,177
+79504,STANDARD,0,Baird,,,TX,Callahan County,America/Chicago,325,NA,US,32.39,-99.39,2360
+79505,STANDARD,0,Benjamin,,,TX,Knox County,America/Chicago,940,NA,US,33.58,-99.79,250
+79506,STANDARD,0,Blackwell,,,TX,Nolan County,America/Chicago,325,NA,US,32.08,-100.31,510
+79508,STANDARD,0,Buffalo Gap,,,TX,Taylor County,America/Chicago,325,NA,US,32.28,-99.83,1080
+79510,STANDARD,0,Clyde,,Eula,TX,Callahan County,America/Chicago,325,NA,US,32.4,-99.49,7090
+79511,STANDARD,0,Coahoma,,,TX,Howard County,America/Chicago,432,NA,US,32.29,-101.3,1280
+79512,STANDARD,0,Colorado City,,"Buford, Cuthbert",TX,Mitchell County,America/Chicago,325,NA,US,32.39,-100.85,4840
+79517,STANDARD,0,Fluvanna,,,TX,Scurry County,America/Chicago,,NA,US,32.89,-101.15,182
+79518,STANDARD,0,Girard,,,TX,Kent County,America/Chicago,806,NA,US,33.36,-100.66,111
+79519,STANDARD,0,Goldsboro,,,TX,Coleman County,America/Chicago,325,NA,US,32.06,-99.68,60
+79520,STANDARD,0,Hamlin,,,TX,Jones County,America/Chicago,325,NA,US,32.88,-100.12,1960
+79521,STANDARD,0,Haskell,,,TX,Haskell County,America/Chicago,940,NA,US,33.15,-99.73,2810
+79525,STANDARD,0,Hawley,,,TX,Jones County,America/Chicago,325,NA,US,32.6,-99.81,2730
+79526,STANDARD,0,Hermleigh,,,TX,Scurry County,America/Chicago,325,NA,US,32.64,-100.76,920
+79527,STANDARD,0,Ira,,,TX,Scurry County,America/Chicago,432,NA,US,32.58,-101,410
+79528,STANDARD,0,Jayton,,,TX,Kent County,America/Chicago,806,NA,US,33.25,-100.57,500
+79529,STANDARD,0,Knox City,,,TX,Knox County,America/Chicago,940,NA,US,33.41,-99.81,1120
+79530,STANDARD,0,Lawn,,,TX,Taylor County,America/Chicago,325,NA,US,32.13,-99.75,450
+79532,STANDARD,0,Loraine,,,TX,Mitchell County,America/Chicago,325,NA,US,32.4,-100.71,780
+79533,STANDARD,0,Lueders,,,TX,Jones County,America/Chicago,325,NA,US,32.79,-99.62,530
+79534,STANDARD,0,Mc Caulley,,,TX,Fisher County,America/Chicago,325,NA,US,32.79,-100.22,160
+79535,STANDARD,0,Maryneal,,,TX,Nolan County,America/Chicago,325,NA,US,32.23,-100.45,142
+79536,STANDARD,0,Merkel,,"Blair, Noodle, Stith",TX,Taylor County,America/Chicago,325,NA,US,32.46,-100.01,4410
+79537,STANDARD,0,Nolan,,,TX,Nolan County,America/Chicago,325,NA,US,32.27,-100.24,83
+79538,STANDARD,0,Novice,,Content,TX,Coleman County,America/Chicago,325,NA,US,31.98,-99.62,220
+79539,STANDARD,0,O Brien,,,TX,Haskell County,America/Chicago,940,NA,US,33.38,-99.84,128
+79540,STANDARD,0,Old Glory,,,TX,Stonewall County,America/Chicago,940,NA,US,33.12,-100.05,109
+79541,STANDARD,0,Ovalo,,,TX,Taylor County,America/Chicago,325,NA,US,32.17,-99.8,720
+79543,STANDARD,0,Roby,,"Longworth, Royston",TX,Fisher County,America/Chicago,325,NA,US,32.74,-100.37,950
+79544,STANDARD,0,Rochester,,,TX,Haskell County,America/Chicago,940,NA,US,33.31,-99.85,310
+79545,STANDARD,0,Roscoe,,"Inadale, Pyron, Wastella",TX,Nolan County,America/Chicago,325,NA,US,32.44,-100.54,1760
+79546,STANDARD,0,Rotan,,Raytown,TX,Fisher County,America/Chicago,325,NA,US,32.85,-100.46,1540
+79547,STANDARD,0,Rule,,Rolls,TX,Haskell County,America/Chicago,940,NA,US,33.18,-99.89,590
+79548,STANDARD,0,Rule,Sagerton,,TX,Haskell County,America/Chicago,940,NA,US,33.05,-99.92,164
+79549,STANDARD,0,Snyder,Dermott,"Clairemont, Union",TX,Scurry County,America/Chicago,325,NA,US,32.71,-100.91,12770
+79553,STANDARD,0,Stamford,,Tuxedo,TX,Jones County,America/Chicago,325,NA,US,32.94,-99.85,2770
+79556,STANDARD,0,Sweetwater,,"Claytonville, Palava",TX,Nolan County,America/Chicago,325,NA,US,32.46,-100.4,11160
+79560,STANDARD,0,Sylvester,,,TX,Fisher County,America/Chicago,325,NA,US,32.72,-100.25,117
+79561,STANDARD,0,Trent,,,TX,Taylor County,America/Chicago,325,NA,US,32.48,-100.12,580
+79562,STANDARD,0,Tuscola,,,TX,Taylor County,America/Chicago,325,NA,US,32.21,-99.79,4490
+79563,STANDARD,0,Tye,,,TX,Taylor County,America/Chicago,325,NA,US,32.45,-99.86,1100
+79565,STANDARD,0,Westbrook,,Iatan,TX,Mitchell County,America/Chicago,"432,325",NA,US,32.35,-101.01,360
+79566,STANDARD,0,Wingate,,"Happy Valley, Shep",TX,Taylor County,America/Chicago,325,NA,US,32.04,-100.11,220
+79567,STANDARD,0,Winters,,"Bradshaw, Crews, Drasco, Hatchel, Pumphrey, Wilmeth",TX,Runnels County,America/Chicago,325,NA,US,31.96,-99.93,2740
+79601,STANDARD,0,Abilene,,"Hamby, Potosi",TX,Taylor County,America/Chicago,325,NA,US,32.45,-99.73,14340
+79602,STANDARD,0,Abilene,,,TX,Taylor County,America/Chicago,325,NA,US,32.34,-99.67,21000
+79603,STANDARD,0,Abilene,,Impact,TX,Taylor County,America/Chicago,325,NA,US,32.33,-99.93,20600
+79605,STANDARD,0,Abilene,,,TX,Taylor County,America/Chicago,325,NA,US,32.43,-99.78,26090
+79606,STANDARD,0,Abilene,,,TX,Taylor County,America/Chicago,325,NA,US,32.36,-99.82,22670
+79607,STANDARD,0,Dyess Afb,Abilene,,TX,Taylor County,America/Chicago,325,NA,US,32.43,-99.83,2810
+79701,STANDARD,0,Midland,,,TX,Midland County,America/Chicago,432,NA,US,31.99,-102.08,28220
+79703,STANDARD,0,Midland,,,TX,Midland County,America/Chicago,432,NA,US,31.98,-102.13,20330
+79705,STANDARD,0,Midland,,,TX,Midland County,America/Chicago,432,NA,US,32.02,-102.1,35480
+79706,STANDARD,0,Midland,,,TX,Midland County,America/Chicago,432,NA,US,31.85,-102.01,25070
+79707,STANDARD,0,Midland,,,TX,Midland County,America/Chicago,432,NA,US,32.05,-102.2,33430
+79713,STANDARD,0,Ackerly,,,TX,Martin County,America/Chicago,432,NA,US,32.52,-101.71,630
+79714,STANDARD,0,Andrews,,,TX,Andrews County,America/Chicago,432,NA,US,32.32,-102.54,16850
+79718,STANDARD,0,Balmorhea,,,TX,Reeves County,America/Chicago,432,NA,US,30.98,-103.74,540
+79720,STANDARD,0,Big Spring,Vealmoor,,TX,Howard County,America/Chicago,432,NA,US,32.24,-101.47,24320
+79731,STANDARD,0,Crane,,,TX,Crane County,America/Chicago,432,NA,US,31.39,-102.35,4500
+79734,STANDARD,0,Fort Davis,"Mcdonald Obs, Mcdonald Observatory",,TX,Jeff Davis County,America/Chicago,432,NA,US,30.59,-103.9,1690
+79735,STANDARD,0,Fort Stockton,,,TX,Pecos County,America/Chicago,432,NA,US,30.89,-102.88,10700
+79738,STANDARD,0,Gail,,,TX,Borden County,America/Chicago,806,NA,US,32.77,-101.45,320
+79739,STANDARD,0,Garden City,,,TX,Glasscock County,America/Chicago,432,NA,US,31.87,-101.48,1120
+79740,STANDARD,0,Girvin,,Mc Camey,TX,Crane County,America/Chicago,432,NA,US,31.07,-102.39,0
+79741,STANDARD,0,Goldsmith,,,TX,Ector County,America/Chicago,432,NA,US,31.98,-102.61,410
+79745,STANDARD,0,Kermit,,,TX,Winkler County,America/Chicago,432,NA,US,31.85,-103.09,6390
+79748,STANDARD,0,Knott,,,TX,Howard County,America/Chicago,432,NA,US,32.4,-101.64,249
+79749,STANDARD,0,Lenorah,,,TX,Martin County,America/Chicago,432,NA,US,32.31,-101.88,270
+79752,STANDARD,0,Mc Camey,Mccamey,,TX,Upton County,America/Chicago,432,NA,US,31.13,-102.21,2210
+79755,STANDARD,0,Midkiff,,,TX,Upton County,America/Chicago,432,NA,US,31.63,-101.83,249
+79756,STANDARD,0,Monahans,Thorntonville,,TX,Ward County,America/Chicago,432,NA,US,31.54,-102.84,9360
+79758,STANDARD,0,Gardendale,,,TX,Ector County,America/Chicago,432,NA,US,32.02,-102.36,2830
+79761,STANDARD,0,Odessa,,,TX,Ector County,America/Chicago,432,NA,US,31.85,-102.36,28300
+79762,STANDARD,0,Odessa,,,TX,Ector County,America/Chicago,432,NA,US,31.93,-102.36,35600
+79763,STANDARD,0,Odessa,,,TX,Ector County,America/Chicago,432,NA,US,31.8,-102.47,35320
+79764,STANDARD,0,Odessa,,,TX,Ector County,America/Chicago,432,NA,US,31.87,-102.54,22870
+79765,STANDARD,0,Odessa,,,TX,Ector County,America/Chicago,432,NA,US,31.91,-102.26,13950
+79766,STANDARD,0,Odessa,,,TX,Ector County,America/Chicago,432,NA,US,31.73,-102.41,7480
+79772,STANDARD,0,Pecos,Verhalen,,TX,Reeves County,America/Chicago,432,NA,US,31.4,-103.5,9670
+79782,STANDARD,0,Stanton,,,TX,Martin County,America/Chicago,432,NA,US,32.12,-101.79,4460
+79783,STANDARD,0,Tarzan,,,TX,Martin County,America/Chicago,432,NA,US,32.31,-101.98,196
+79821,STANDARD,0,Anthony,Vinton,,TX,El Paso County,America/Denver,915,NA,US,31.99,-106.59,4830
+79830,STANDARD,0,Alpine,,,TX,Brewster County,America/Chicago,432,NA,US,30.36,-103.66,4810
+79835,STANDARD,0,Canutillo,,,TX,El Paso County,America/Denver,915,NA,US,31.91,-106.59,11590
+79836,STANDARD,0,Clint,,,TX,El Paso County,America/Denver,915,NA,US,31.59,-106.22,6600
+79839,STANDARD,0,Fort Hancock,,Mc Nary,TX,Hudspeth County,America/Denver,915,NA,US,31.33,-105.9,1510
+79843,STANDARD,0,Marfa,Shafter,,TX,Presidio County,America/Chicago,432,NA,US,30.31,-104.02,2240
+79845,STANDARD,0,Presidio,,,TX,Presidio County,America/Chicago,432,NA,US,29.56,-104.36,6937
+79847,STANDARD,0,Salt Flat,Dell City,,TX,Hudspeth County,America/Denver,915,NA,US,31.74,-105.08,105
+79849,STANDARD,0,San Elizario,,,TX,El Paso County,America/Denver,915,NA,US,31.57,-106.26,13430
+79852,STANDARD,0,Terlingua,Lajitas,,TX,Brewster County,America/Chicago,432,NA,US,29.32,-103.62,610
+79854,STANDARD,0,Valentine,,,TX,Jeff Davis County,America/Chicago,432,NA,US,30.58,-104.49,136
+79901,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.76,-106.48,12360
+79902,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.78,-106.5,17210
+79903,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.79,-106.44,15510
+79904,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.84,-106.43,28790
+79905,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.77,-106.43,21690
+79906,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.81,-106.4,6670
+79907,STANDARD,0,El Paso,"Ysleta Del Sur Pueblo, Ysleta Sur",,TX,El Paso County,America/Denver,915,NA,US,31.71,-106.33,48560
+79908,STANDARD,0,El Paso,Biggs Field,,TX,El Paso County,America/Denver,915,NA,US,31.86,-106.38,4120
+79910,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.84,-106.43,795
+79911,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.89,-106.54,4810
+79912,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.85,-106.53,70970
+79915,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.75,-106.37,32300
+79916,STANDARD,0,Fort Bliss,El Paso,,TX,El Paso County,America/Denver,915,NA,US,31.81,-106.42,1576
+79918,STANDARD,0,Fort Bliss,"Biggs Field, El Paso",Ft Bliss,TX,El Paso County,America/Denver,915,NA,US,31.84,-106.43,89
+79922,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.81,-106.56,7590
+79924,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.9,-106.41,53990
+79925,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.8,-106.36,34610
+79927,STANDARD,0,El Paso,"Horizon City, Socorro, Ysleta Del Sur Pueblo, Ysleta Sur",,TX,El Paso County,America/Denver,915,NA,US,31.64,-106.27,37420
+79928,STANDARD,0,El Paso,"Horizon City, Socorro",,TX,El Paso County,America/Denver,915,NA,US,31.65,-106.15,58610
+79930,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.83,-106.48,22590
+79932,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.87,-106.61,25530
+79934,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.95,-106.43,25500
+79935,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.77,-106.33,15120
+79936,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.78,-106.3,103850
+79938,STANDARD,0,El Paso,,,TX,El Paso County,America/Denver,915,NA,US,31.83,-105.97,73820
