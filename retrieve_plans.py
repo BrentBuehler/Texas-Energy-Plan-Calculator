@@ -1,4 +1,5 @@
 import time
+from datetime import datetime
 import numpy as np
 from selenium import webdriver
 from selenium.webdriver.support import expected_conditions as EC
@@ -19,21 +20,26 @@ with webdriver.Chrome() as driver:
     for zip_code in texas_zip_codes:
         wait = WebDriverWait(driver, 10)
         driver.get("http://powertochoose.org/")
-        driver.find_element(By.ID, "homezipcode").send_keys(zip_code)
-        time.sleep(2)
+        try:
+            driver.find_element(By.ID, "homezipcode").send_keys(zip_code)
+        except:
+            print('Error at zip code', zip_code)
+            continue
+        time.sleep(1)
 
-        # On the site, if you input a bad zip code the style on this div is empty
+        # A div's style attribute is empty when a bad zip is present, so test for this
         if driver.find_element(By.ID, "not-found").get_attribute("style") == '':
-            # Click the close button if the bad zip message is displayed
+            # Click the close button if the bad zip message is displayed and continue loop
             driver.find_element(By.CSS_SELECTOR, "a.btn-close").click()
-            print('clicking off on zip', zip_code)
+            print('Couldnt find zip code', zip_code)
             continue
 
         # If you have a good zip then click to view results:
         else:
-            print('About to click view results on ', zip_code)
             driver.find_element(By.ID, "view_all_results").click()
             # Keep checking for the presence of img to export results, then click it:
             wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "a[title=\"Export results to Excel\"]"))).click()
-            # Wait so that the browser can download the file:
-            time.sleep(5)
+            print(datetime.now(tz=None))
+
+    # Wait a bit for last file to download before closing window:
+    time.sleep(5)
