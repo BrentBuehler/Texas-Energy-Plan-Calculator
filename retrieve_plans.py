@@ -1,5 +1,4 @@
 import time
-from datetime import datetime
 import numpy as np
 from selenium import webdriver
 from selenium.webdriver.support import expected_conditions as EC
@@ -39,7 +38,6 @@ with webdriver.Chrome() as driver:
             driver.find_element(By.ID, "view_all_results").click()
             # Keep checking for the presence of img to export results, then click it:
             wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "a[title=\"Export results to Excel\"]"))).click()
-            print(datetime.now(tz=None))
 
     # Wait a bit for last file to download before closing window:
     time.sleep(5)
