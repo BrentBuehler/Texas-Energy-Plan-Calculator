@@ -15,8 +15,6 @@ texas_zip_codes = []
 for code in zip_codes:
     texas_zip_codes.append(np.int(code))
 
-texas_zip_codes = [66666, 75028, 75088]
-
 
 def enter_zip(code):
     driver.find_element(By.ID, "homezipcode").send_keys(code)
