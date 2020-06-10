@@ -22,9 +22,9 @@ def enter_zip(code):
 
 def get_results_and_download():
     # If you have a good zip then click to view results:
-    driver.find_element(By.ID, "view_all_results").click()
+    wait.until(EC.element_to_be_clickable((By.ID, "view_all_results"))).click()
     # Keep checking for the presence of img to export results, then click it:
-    wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "a[title=\"Export results to Excel\"]"))).click()
+    wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "a[title=\"Export results to Excel\"]"))).click()
 
 
 def check_for_dropdown():
@@ -78,11 +78,7 @@ with webdriver.Chrome() as driver:
     for zip_code in texas_zip_codes:
         wait = WebDriverWait(driver, 10)
         driver.get("http://powertochoose.org/")
-        try:
-            enter_zip(zip_code)
-        except:
-            print('Error at zip code', zip_code)
-            continue
+        enter_zip(zip_code)
         time.sleep(1)
 
         if check_for_dropdown():
