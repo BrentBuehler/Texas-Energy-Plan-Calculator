@@ -14,11 +14,11 @@ Session.configure(bind=engine)
 db = SQLAlchemy()
 session = Session()
 db.init_app(app)
-from models import EnergyPlans
+from models import *
 
 
 
-@app.route("/<zip_code>", methods=['GET'])
+@app.route("/zip_code/<zip_code>", methods=['GET'])
 def db_results(zip_code):
     plans = session.query(EnergyPlans).filter_by(zip_code=zip_code)
     list_of_fields = []

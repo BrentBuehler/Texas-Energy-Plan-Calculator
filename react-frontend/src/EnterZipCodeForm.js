@@ -1,15 +1,43 @@
 import React from 'react';
+import { Form, Input, Button } from "semantic-ui-react";
 
-export const EnterZipCodeForm = () => {
-    return <div className="App">
-        <header className="App-header">
-            <p>Enter a zip code</p>
-            <form action="/<zip_code>" method="get">
-                <input type="number" id="name" name="zip code" required
-                       minLength="5" maxLength="5" placeholder="Zip Code"></input>
-                <input type="submit" value="Submit"></input>
-            </form>
+export default class EnterZipCodeForm extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state = { value: '' }
 
-        </header>
-    </div>
+        this.handleChange = this.handleChange.bind(this);
+        this.handleSubmit = this.handleSubmit.bind(this);
+    }
+
+    //Set the value state as things are entered into the box
+    handleChange(event) {
+        this.setState({value: event.target.value})
+    }
+
+    //When submitted, call the fetchData function from parent and pass it the inputted value
+    handleSubmit() {
+        this.props.fetchData(this.state.value);
+    }
+
+    render() {
+        return (
+            <div>
+                <Form>
+                    <Form.Field>
+                        <Input
+                            placeholder="Zip Code"
+                            onChange={this.handleChange}
+                            onSubmit={this.handleSubmit}
+                        />
+                    </Form.Field>
+                    <Form.Field>
+                        <Button onClick={this.handleSubmit}>
+                            Submit
+                        </Button>
+                    </Form.Field>
+                </Form>
+            </div>
+        );
+    }
 }

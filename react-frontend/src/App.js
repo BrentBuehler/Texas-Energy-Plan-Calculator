@@ -1,29 +1,61 @@
-import React, { useState, useEffect } from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
-import { Plans } from './Plans.js'
-import { EnterZipCodeForm } from './EnterZipCodeForm.js'
+import ListPlanResults from './ListPlanResults.js'
+import EnterZipCodeForm from './EnterZipCodeForm.js'
 
-function App() {
+class App extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            zipCode: '',
+            plans: [],
+            isLoaded: false,
+            error: null
+        }
+        this.fetchData = this.fetchData.bind(this);
+    }
 
-  const [plans, setPlans] = useState([]);
+    //Call this function when a zip code is searched
+    fetchData(zip) {
+        //If the searched zip is the same as the one already searched, don't search again:
+        if (this.state.zipCode == zip) {
+            return;
+        } else {
+            //Otherwise, get the data from the server and set the result to "plans"
+            this.setState({zipCode: zip})
+            fetch('/zip_code/' + zip)
+                .then(res => res.json())
+                .then(
+                    (result) => {
+                        this.setState({
+                            isLoaded: true,
+                            plans: result
+                        });
+                    },
+                    (error) => {
+                        this.setState({
+                            isLoaded: true,
+                            error
+                        });
+                    }
+                )
+        }
+    }
 
-  // Fetch plan data from Flask API then set the state
-  useEffect(() => {
-    fetch('/75487').then(res =>
-        res.json().then(data => {
-        //console.log("this is data:" + data)
-            setPlans(data);
-        })
-    );
-  }, []);
+    render() {
+        //Don't render the list if there is no data available to pass to it:
+        let plans = (this.state.plans === []) ?
+            null :
+            <ListPlanResults plans={this.state.plans}/>
 
-
-  return <div className="App">
-
-      <Plans plans={plans} />
-      <EnterZipCodeForm />
-  </div>;
+        //Render the EnterZipCodeForm and pass it the fetchData function
+        return (
+            <div className="App">
+                <EnterZipCodeForm fetchData={this.fetchData} />
+                {plans}
+            </div>
+        )
+    }
 }
 
 export default App;
