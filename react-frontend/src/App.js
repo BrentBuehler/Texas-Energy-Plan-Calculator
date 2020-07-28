@@ -17,19 +17,21 @@ class App extends Component {
 
     //Call this function when a zip code is searched
     fetchData(zip) {
+        const proxyURL = "https://cors-anywhere.herokuapp.com/";
+        const url = "http://api.powertochoose.org/api/PowerToChoose/plans?zip_code=";
         //If the searched zip is the same as the one already searched, don't search again:
-        if (this.state.zipCode == zip) {
+        if (this.state.zipCode === zip) {
             return;
         } else {
             //Otherwise, get the data from the server and set the result to "plans"
             this.setState({zipCode: zip})
-            fetch('/zip_code/' + zip)
+            fetch(proxyURL + url + zip)
                 .then(res => res.json())
                 .then(
                     (result) => {
                         this.setState({
                             isLoaded: true,
-                            plans: result
+                            plans: result.data
                         });
                     },
                     (error) => {
@@ -44,6 +46,7 @@ class App extends Component {
 
     render() {
         //Don't render the list if there is no data available to pass to it:
+        console.log(this.state.plans);
         let plans = (this.state.plans === []) ?
             null :
             <ListPlanResults plans={this.state.plans}/>

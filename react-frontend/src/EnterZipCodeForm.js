@@ -24,18 +24,16 @@ export default class EnterZipCodeForm extends React.Component {
         return (
             <div>
                 <Form>
-                    <Form.Field>
                         <Input
                             placeholder="Zip Code"
                             onChange={this.handleChange}
                             onSubmit={this.handleSubmit}
                         />
-                    </Form.Field>
-                    <Form.Field>
-                        <Button onClick={this.handleSubmit}>
+                </Form>
+                <Form>
+                    <Button onClick={this.handleSubmit}>
                             Submit
                         </Button>
-                    </Form.Field>
                 </Form>
             </div>
         );
